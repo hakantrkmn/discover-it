@@ -16,9 +16,13 @@ public static class EventManager
     public static Func<bool> IsPointerOverUI;
     #endregion
 
-  
 
- 
+    public static Action<ElementController> ElementClicked;
+
+    public static Action<Element> ElementCrafted;
+
+    public static Action<Element> ElementDiscovered;
+
 
 
 }

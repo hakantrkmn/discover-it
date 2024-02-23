@@ -3,6 +3,12 @@ using System;
 using System.Collections.Generic;
 
 [Serializable]
+public struct ElementMerge
+{
+    public Element mergeWith;
+    public Element outcome;
+}
+[Serializable]
 public struct TutorialPanels
 {
     public TutorialTypes panelName;

@@ -6,7 +6,12 @@
     PauseLevel,
     ResetProgressData,
 }
-
+public enum ElementState
+{
+    OnElementTable,
+    WaitingForCraft,
+    Dragging,
+}
 public enum InGamePanelTypes
 {
     OnlyLevel,
