@@ -13,8 +13,7 @@ MonoBehaviour:
   m_Name: Level Element Data
   m_EditorClassIdentifier: 
   startElements:
-  - {fileID: 11400000, guid: 6c4e701f1e3dd4813a887a8aa37ab8f4, type: 2}
-  - {fileID: 11400000, guid: af0d3fdffc3594b9db4a2bc276c8c5e2, type: 2}
-  - {fileID: 11400000, guid: e13805b6f6d704920930f41fa9b5f8d2, type: 2}
-  craftedElements:
-  - {fileID: 11400000, guid: 675a826b7c98c49088d06143c45b50df, type: 2}
+  - {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+  - {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+  - {fileID: 11400000, guid: 557b79e6116244d429e6615b58883cef, type: 2}
+  craftedElements: []
