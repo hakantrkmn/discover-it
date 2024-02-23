@@ -10,10 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d303b4142408849f3a04115d0cf3ba7b, type: 3}
-  m_Name: Stone
+  m_Name: Metal
   m_EditorClassIdentifier: 
-  name: Stone
-  image: {fileID: 21300000, guid: 6a8ac0cb2c34f4d6fa2d0084a122f1ac, type: 3}
-  mergeTable:
-  - mergeWith: {fileID: 11400000, guid: 6c4e701f1e3dd4813a887a8aa37ab8f4, type: 2}
-    outcome: {fileID: 11400000, guid: 675a826b7c98c49088d06143c45b50df, type: 2}
+  name: Metal
+  image: {fileID: 0}
+  mergeTable: []

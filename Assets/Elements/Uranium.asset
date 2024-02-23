@@ -10,10 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d303b4142408849f3a04115d0cf3ba7b, type: 3}
-  m_Name: Earth
+  m_Name: Uranium
   m_EditorClassIdentifier: 
-  name: Earth
-  image: {fileID: 21300000, guid: 53ba36b660c4f4fb0a9a9c4b5531c2dd, type: 3}
-  mergeTable:
-  - mergeWith: {fileID: 11400000, guid: e13805b6f6d704920930f41fa9b5f8d2, type: 2}
-    outcome: {fileID: 11400000, guid: e23c5957594c1465991ba5df6d7d5b70, type: 2}
+  name: Uranium
+  image: {fileID: 0}
+  mergeTable: []

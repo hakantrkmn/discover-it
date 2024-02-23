@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d303b4142408849f3a04115d0cf3ba7b, type: 3}
-  m_Name: Rain
+  m_Name: Parrot
   m_EditorClassIdentifier: 
-  name: Rain
+  name: Parrot
   image: {fileID: 0}
   mergeTable: []

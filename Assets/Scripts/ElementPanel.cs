@@ -27,7 +27,7 @@ public class ElementPanel : MonoBehaviour
     {
         var el = Instantiate(elementPrefab, content).GetComponent<ElementController>();
         el.SetElement(element);
-        el.GetComponent<Image>().raycastTarget = false;
+        
 
         var data = Scriptable.LevelElementData();
         if (!data.craftedElements.Contains(element))
@@ -42,7 +42,7 @@ public class ElementPanel : MonoBehaviour
         CreateStartElement();
     }
 
-    void CreateStartElement()
+    private void CreateStartElement()
     {
         var data = Scriptable.LevelElementData();
         foreach (var element in data.startElements)

@@ -23,6 +23,7 @@ public static class EventManager
 
     public static Action<Element> ElementDiscovered;
 
+    public static Func<Transform> GetCurrentElement;
 
 
 }

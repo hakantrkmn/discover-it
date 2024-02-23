@@ -6,7 +6,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-public class ElementController : MonoBehaviour ,IBeginDragHandler , IDragHandler , IPointerEnterHandler , IPointerExitHandler
+public class ElementController : MonoBehaviour ,IBeginDragHandler , IDragHandler , IPointerDownHandler , IPointerUpHandler , IPointerEnterHandler,IPointerExitHandler
 {
     public ElementState state;
     public TextMeshProUGUI elementName;
@@ -16,7 +16,6 @@ public class ElementController : MonoBehaviour ,IBeginDragHandler , IDragHandler
     public void SetElement(Element data)
     {
         elementData = data;
-        state = ElementState.OnElementTable;
         elementName.text = data.name;
         elementImage.sprite = data.image;
         transform.localScale = Vector3.zero;
@@ -64,6 +63,23 @@ public class ElementController : MonoBehaviour ,IBeginDragHandler , IDragHandler
     public void OnDrag(PointerEventData eventData)
     {
         
+    }
+
+
+    public void OnPointerDown(PointerEventData eventData)
+    {
+        if (state == ElementState.WaitingForCraft)
+        {
+            transform.DOScale(1.2f, .3f).SetEase(Ease.OutBounce);
+        }
+    }
+
+    public void OnPointerUp(PointerEventData eventData)
+    {
+        if (state == ElementState.WaitingForCraft)
+        {
+            transform.DOScale(1f, .3f).SetEase(Ease.OutBounce);
+        }
     }
 
     public void OnPointerEnter(PointerEventData eventData)
