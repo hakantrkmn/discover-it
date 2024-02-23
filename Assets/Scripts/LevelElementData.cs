@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using Sirenix.OdinInspector;
 using UnityEngine;
 
 [CreateAssetMenu]
@@ -10,6 +11,13 @@ public class LevelElementData : ScriptableObject
     public List<Element> craftedElements;
     public List<Element> allElements;
 
+
+    [Button]
+    public void ClearSave()
+    {
+        craftedElements.Clear();
+        SaveManager.SaveGameData(this);
+    }
     public Element GetUndiscoveredElement()
     {
         foreach (var element in startElements)
@@ -23,5 +31,14 @@ public class LevelElementData : ScriptableObject
         }
 
         return allElements[Random.Range(0, allElements.Count)];
+    }
+    
+    public int GetCraftedElementAmount()
+    {
+        int temp = 0;
+
+        temp += startElements.Count + craftedElements.Count;
+
+        return temp;
     }
 }

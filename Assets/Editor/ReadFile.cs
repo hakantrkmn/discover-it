@@ -6,6 +6,7 @@ using UnityEngine;
 public class ReadFile : EditorWindow
 {
     public static string path = "Assets/Elements";
+
     [MenuItem("Element/Create New Elements", false, 10)]
     public static void ReadString()
     {
@@ -30,7 +31,7 @@ public class ReadFile : EditorWindow
                 Element asset = ScriptableObject.CreateInstance<Element>();
                 asset.name = line;
                 asset.mergeTable = new List<ElementMerge>();
-                AssetDatabase.CreateAsset(asset, path+"/" + line + ".asset");
+                AssetDatabase.CreateAsset(asset, path + "/" + line + ".asset");
                 createdElements.Add(asset.name);
                 AssetDatabase.SaveAssets();
             }
@@ -43,13 +44,13 @@ public class ReadFile : EditorWindow
         for (int i = 1; i < lines.Length; i += 3)
         {
             var element =
-                AssetDatabase.LoadAssetAtPath(path+"/" + lines[i] + ".asset", typeof(ScriptableObject)) as
+                AssetDatabase.LoadAssetAtPath(path + "/" + lines[i] + ".asset", typeof(ScriptableObject)) as
                     Element;
             var nextElement =
-                AssetDatabase.LoadAssetAtPath(path+"/" + lines[i + 1] + ".asset",
+                AssetDatabase.LoadAssetAtPath(path + "/" + lines[i + 1] + ".asset",
                     typeof(ScriptableObject)) as Element;
             var previousElement =
-                AssetDatabase.LoadAssetAtPath(path+"/" + lines[i - 1] + ".asset",
+                AssetDatabase.LoadAssetAtPath(path + "/" + lines[i - 1] + ".asset",
                     typeof(ScriptableObject)) as Element;
             var mergeTable = new ElementMerge
             {

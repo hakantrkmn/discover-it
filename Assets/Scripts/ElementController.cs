@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using DG.Tweening;
@@ -12,7 +13,23 @@ public class ElementController : MonoBehaviour ,IBeginDragHandler , IDragHandler
     public TextMeshProUGUI elementName;
     public Image elementImage;
     public Element elementData;
-    
+
+
+    private void OnEnable()
+    {
+        EventManager.MouseUp += MouseUp;
+    }
+
+    private void OnDisable()
+    {
+        EventManager.MouseUp -= MouseUp;
+    }
+
+    private void MouseUp()
+    {
+        transform.DOScale(1, .3f).SetEase(Ease.OutBounce);
+    }
+
     public void SetElement(Element data)
     {
         elementData = data;

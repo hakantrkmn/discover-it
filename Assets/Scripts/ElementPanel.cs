@@ -25,14 +25,16 @@ public class ElementPanel : MonoBehaviour
 
     private void ElementCrafted(Element element)
     {
-        var el = Instantiate(elementPrefab, content).GetComponent<ElementController>();
-        el.SetElement(element);
-        
-
         var data = Scriptable.LevelElementData();
+
         if (!data.craftedElements.Contains(element))
         {
+            var el = Instantiate(elementPrefab, content).GetComponent<ElementController>();
+            el.SetElement(element);
+        
+
             data.craftedElements.Add(element);
+            SaveManager.SaveGameData(data);
             EventManager.ElementDiscovered(element);
         }
     }
@@ -45,7 +47,14 @@ public class ElementPanel : MonoBehaviour
     private void CreateStartElement()
     {
         var data = Scriptable.LevelElementData();
+        SaveManager.LoadGameData(data);
         foreach (var element in data.startElements)
+        {
+            var el = Instantiate(elementPrefab, content).GetComponent<ElementController>();
+            el.SetElement(element);
+
+        }
+        foreach (var element in data.craftedElements)
         {
             var el = Instantiate(elementPrefab, content).GetComponent<ElementController>();
             el.SetElement(element);

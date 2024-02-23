@@ -20,6 +20,7 @@ public static class EventManager
     public static Action<ElementController> ElementClicked;
 
     public static Action<Element> ElementCrafted;
+    public static Action MouseUp;
 
     public static Action<Element> ElementDiscovered;
 
