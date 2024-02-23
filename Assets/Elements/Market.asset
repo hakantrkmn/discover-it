@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Market
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 01318412b378f4a6ab2f051cc2a0dec7, type: 2}
+    outcome: {fileID: 11400000, guid: 5e5f35fb44c6e49e9ab854ba91131c5d, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: b542b5a474b6c42048351de9d4465cad, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 05fc3ce87caa74937ab59a67e97820b3, type: 2}
+    outcome: {fileID: 11400000, guid: c7bd5351e918e4a578b4081898bfb25e, type: 2}

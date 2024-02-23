@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Unvierse
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 2843cd568eea545acb0c669f157ff843, type: 2}
+    outcome: {fileID: 11400000, guid: 9573eff405c24401da9844c771d0ba32, type: 2}

@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Land
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ce8f0852be92d4305803eb0a5cf82a47, type: 2}
+    outcome: {fileID: 11400000, guid: 0370d20d5c9074a8b89086a43d6e4767, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 21765574eb80f4b53a7d21aeeca17915, type: 2}
+    outcome: {fileID: 11400000, guid: 241dc24db747e4924bbc703a15e4b5f1, type: 2}

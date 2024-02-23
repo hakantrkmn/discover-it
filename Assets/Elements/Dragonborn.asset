@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Dragonborn
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 270ed57721026407b873ce48124331ec, type: 2}
+    outcome: {fileID: 11400000, guid: 9bc4db91313ce4af8a886422f1ac09b8, type: 2}

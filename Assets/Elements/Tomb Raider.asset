@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Tomb Raider
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: a9de26dfb323d4182881fb8d666a98c2, type: 2}
+    outcome: {fileID: 11400000, guid: da6ad34a978ad474aaa90ebb0d19a80a, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b6108fff20cf34965ac7991659c5248a, type: 2}
+    outcome: {fileID: 11400000, guid: a9de26dfb323d4182881fb8d666a98c2, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Tree Zombie
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 0126b292c35814b6882aff14ff1f7e25, type: 2}
+    outcome: {fileID: 11400000, guid: d75864918812d4a58a22b50e94df1259, type: 2}

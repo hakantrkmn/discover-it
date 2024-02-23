@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Blood
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: d3ac5f479c22a4622a39b3fc89def84c, type: 2}
+    outcome: {fileID: 11400000, guid: d535468f22a374e8981ddf47ad000d87, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3720ae496fc514e74b7101fb8aa0aba5, type: 2}
+    outcome: {fileID: 11400000, guid: 30fe7c08d274546ec94744c33dc4eae9, type: 2}

@@ -14,4 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Netflix
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 4a784e7ac5a7c457a9c65906352eb1bd, type: 2}
+    outcome: {fileID: 11400000, guid: db5942deabef6498e81f077e904dea50, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3ed1355a6552e48358f4956b57ed4e3b, type: 2}
+    outcome: {fileID: 11400000, guid: 5cc8d9de4a8a04a58b5e5c7967a81a2a, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9e9c7851954bb4d97bf5cb92d1421523, type: 2}
+    outcome: {fileID: 11400000, guid: adbd7c369183f42f49d9ee575d9776cd, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 1f80f516708df4a19a29b7ce089e1cd2, type: 2}
+    outcome: {fileID: 11400000, guid: 3121efbb71f134070a4565751cdc217b, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 79d77bf7d0e0840c5814558a6375a6e3, type: 2}
+    outcome: {fileID: 11400000, guid: 068e9b8f65e434d50ab272857894ac71, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 20b21f1cbdf5d4ee391f5e9ab8a3ad23, type: 2}
+    outcome: {fileID: 11400000, guid: 1ffe56b2df655448798732400ebddc7c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 81cd8f7e33986431b9d32a9d51247581, type: 2}
+    outcome: {fileID: 11400000, guid: 1fad2c5c125564f78b6df608948fd89c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 174129995d2444d92914fe3dc9248eeb, type: 2}
+    outcome: {fileID: 11400000, guid: b0ad21b230b6c40d58141beb8083d007, type: 2}

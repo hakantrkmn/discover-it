@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Death
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: de8c07f9c9f3b40b0a346f364a040377, type: 2}
+    outcome: {fileID: 11400000, guid: ab9265af469894124aa42ebdf209f8e8, type: 2}

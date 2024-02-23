@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Zombie Unicorn
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: afe7b23c89396415289f34ed4207e051, type: 2}
+    outcome: {fileID: 11400000, guid: 360c903f30f92452b9557e4b43568eeb, type: 2}

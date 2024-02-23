@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Unicorn
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ca7c144e765b240d8827ae7bacb5fceb, type: 2}
+    outcome: {fileID: 11400000, guid: 47435cbc799854f96b48c4f166c78c4e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: ca7c144e765b240d8827ae7bacb5fceb, type: 2}
+    outcome: {fileID: 11400000, guid: 47435cbc799854f96b48c4f166c78c4e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 8655677f8d9bc49a28f482ae73ec1b4b, type: 2}
+    outcome: {fileID: 11400000, guid: 941477889118b47b69f699456208e363, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7237581b7d17148f4ac4e4a57739055e, type: 2}
+    outcome: {fileID: 11400000, guid: 34cd78a06b5684ef6969238625bab24d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 1d0a29a932dde46e495cf5618405ecbe, type: 2}
+    outcome: {fileID: 11400000, guid: 4d99139088d26421db96033d5cfe82df, type: 2}

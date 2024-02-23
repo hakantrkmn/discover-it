@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: T-Rex
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 249e5fa09f73f4d8ab155e8687df20c1, type: 2}
+    outcome: {fileID: 11400000, guid: 37544ff4baec54bc38d12ad8ce4de721, type: 2}

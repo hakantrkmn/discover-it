@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Reaper
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 28a787e6f964f4388b703b608eb34cc0, type: 2}
+    outcome: {fileID: 11400000, guid: c252d15e7a7b04803a8fa6081abf5545, type: 2}

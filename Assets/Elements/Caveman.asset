@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Caveman
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: b6a691fc6224348baa1eb079ed394c07, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 2d01e879b237240cf9a9126c644c2eb4, type: 2}
+    outcome: {fileID: 11400000, guid: ec1fe3660b0f4450090a27103e670130, type: 2}

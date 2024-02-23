@@ -14,4 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Game
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: c2e17e3068c6f4f4c964fd7f389231d6, type: 2}
+    outcome: {fileID: 11400000, guid: 0beb2f93c69bc47f18f4de2253a64930, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4479ade8b05d54877940e8e3df0b5016, type: 2}
+    outcome: {fileID: 11400000, guid: 33324aa1cc0484371ae0cc4c73f7d835, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 2482b0780788042eba06d4770705cc45, type: 2}
+    outcome: {fileID: 11400000, guid: b5de0919cadff4047a23ba50ef9daeca, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0beb2f93c69bc47f18f4de2253a64930, type: 2}
+    outcome: {fileID: 11400000, guid: 8b248b131853a4f3aa717af8581dd5c7, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6c16b34edb2b64bcca4bff968954d83e, type: 2}
+    outcome: {fileID: 11400000, guid: 14e8da69713d84fffb39e6a542096ee9, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d63dcc970920e4af99de77600060050a, type: 2}
+    outcome: {fileID: 11400000, guid: f60c68d9291654722b2e256d5b3fe60d, type: 2}

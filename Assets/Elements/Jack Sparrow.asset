@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Jack Sparrow
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 5ab100979024f4d7c86577b28d694b7b, type: 2}
+    outcome: {fileID: 11400000, guid: 3b6c3f81240fd4f399856051ed34aa13, type: 2}

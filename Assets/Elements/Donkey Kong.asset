@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Donkey Kong
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 6c841c73fb8054b1c9b989bcd8902748, type: 2}
+    outcome: {fileID: 11400000, guid: 01eb3133e52ec4e079fb28d40ff9f68d, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: dbfd29cff06c644e397d209793312c41, type: 2}
+  - mergeWith: {fileID: 11400000, guid: dbfd29cff06c644e397d209793312c41, type: 2}
+    outcome: {fileID: 11400000, guid: 3d89aeec0a44a44aaa0f1357a349e747, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b6108fff20cf34965ac7991659c5248a, type: 2}
+    outcome: {fileID: 11400000, guid: 26edc68c3cf364011bdbb7d03aa9ea4e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: bfef77fb87cc5433b822e56bf0c32b34, type: 2}
+    outcome: {fileID: 11400000, guid: 1da99366379554533971a3d6594a34c3, type: 2}

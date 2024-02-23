@@ -14,4 +14,26 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: America
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: b0eaf833ef2dd4df0a3df2e028418c30, type: 2}
+    outcome: {fileID: 11400000, guid: 4bb5f19bf88c14009a5512c088797567, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c60c198c9283b4278932ca0209513469, type: 2}
+    outcome: {fileID: 11400000, guid: b4b93df00a16449c6b8a36be1a208006, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 8d18cf8b22cc449d98012c6e77cb45c9, type: 2}
+    outcome: {fileID: 11400000, guid: 36432fd441a964ac197183ec9258707c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5ad72c2b229354b75820a63b4b44e373, type: 2}
+    outcome: {fileID: 11400000, guid: 527d65dd1815b4e218ca2b6aa3a4bdec, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 45750c10b69a3481f992ee7dc0de5af8, type: 2}
+    outcome: {fileID: 11400000, guid: 966fecb002b5548158724580f5788b49, type: 2}
+  - mergeWith: {fileID: 11400000, guid: bad9264eb58a448618f2b254d63226f1, type: 2}
+    outcome: {fileID: 11400000, guid: 7c4f24dd9e7f4464ba32fe68d970c436, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b1c2e496ba88c486bb061ba12d0ff8e1, type: 2}
+    outcome: {fileID: 11400000, guid: b7c77e292035e4931b365cabdef571b6, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5aa908afe9ca14fa4aff2798e3a8fc05, type: 2}
+    outcome: {fileID: 11400000, guid: f1a621456f2514a0aaede38ba1792fe9, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 2ffa75e1226ab491db878b5402fc75c2, type: 2}
+    outcome: {fileID: 11400000, guid: 49a634629a75341f9915c4fefc52a5f1, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 557b79e6116244d429e6615b58883cef, type: 2}
+    outcome: {fileID: 11400000, guid: c34d5eb3d7bd249f9a28f0d3e52fdb69, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 725fd498e0d614bd79ef7428e5b4f410, type: 2}
+    outcome: {fileID: 11400000, guid: 9665bf43136b8489d8a9ec4856f64a86, type: 2}

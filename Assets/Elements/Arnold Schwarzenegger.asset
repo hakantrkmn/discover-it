@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Arnold Schwarzenegger
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ef697ce5eccc4400a8c7b594b886cdf7, type: 2}
+    outcome: {fileID: 11400000, guid: ee04b711452c6418383be50dbda30de7, type: 2}

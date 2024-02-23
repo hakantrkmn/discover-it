@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Crocodile
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 4ae32af25e80c44f0977490bc4999d22, type: 2}
+    outcome: {fileID: 11400000, guid: 48e4e6f99c29a45059b7e7a50802c686, type: 2}

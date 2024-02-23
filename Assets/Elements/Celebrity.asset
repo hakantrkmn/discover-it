@@ -14,4 +14,50 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Celebrity
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 1bfdfc631098a4024bcd7209293e57ec, type: 2}
+    outcome: {fileID: 11400000, guid: 29545be849dd9447fbe9fe99042e8bad, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d3bbc4c296ab245ddbf373be39c34dd2, type: 2}
+    outcome: {fileID: 11400000, guid: 8ee8317c1cfb046e4b4edf0e48975ad4, type: 2}
+  - mergeWith: {fileID: 11400000, guid: a183b970a571142e990fd0debc0ebe25, type: 2}
+    outcome: {fileID: 11400000, guid: bad9264eb58a448618f2b254d63226f1, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6206e745ec4644bf5804edd994bac15f, type: 2}
+    outcome: {fileID: 11400000, guid: 909d20ee0931844f6ba54a62471576ff, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 65e899eeec63d4090a16c6a6b112eb8b, type: 2}
+    outcome: {fileID: 11400000, guid: d24bf4de1ec324d289fa4b87e2f4c311, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 32b46869628404bd5b9d6b6975f6716a, type: 2}
+    outcome: {fileID: 11400000, guid: 146c5e3035bd344c2bacd5a0d26aafdb, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: ab9d930673e154beab11e06ae849d7a9, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d77fed93b67eb424896394ca6b5cf68d, type: 2}
+    outcome: {fileID: 11400000, guid: 72d8da0498d464c23ae283287dcd16b1, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 72d8da0498d464c23ae283287dcd16b1, type: 2}
+    outcome: {fileID: 11400000, guid: 867c723c82b9d4f188b6e422a14d1ee7, type: 2}
+  - mergeWith: {fileID: 11400000, guid: df50e7c6bddee44f99442c2f20639128, type: 2}
+    outcome: {fileID: 11400000, guid: 3e31b6253a54a49d7876b4bd1043d21e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: bafa2d6f5548049ddaa904859b49e4b4, type: 2}
+    outcome: {fileID: 11400000, guid: 6c9e9298bf27444d8823816d4a507d86, type: 2}
+  - mergeWith: {fileID: 11400000, guid: df50e7c6bddee44f99442c2f20639128, type: 2}
+    outcome: {fileID: 11400000, guid: 3e31b6253a54a49d7876b4bd1043d21e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: bafa2d6f5548049ddaa904859b49e4b4, type: 2}
+    outcome: {fileID: 11400000, guid: 6c9e9298bf27444d8823816d4a507d86, type: 2}
+  - mergeWith: {fileID: 11400000, guid: bafa2d6f5548049ddaa904859b49e4b4, type: 2}
+    outcome: {fileID: 11400000, guid: 6c9e9298bf27444d8823816d4a507d86, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9f5be13e849a54ff7a8cdbab37e8ccd3, type: 2}
+    outcome: {fileID: 11400000, guid: e0c2feb557c2b46669efe245b0dfc9ac, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 821b31f2da91a478394a33129872891f, type: 2}
+    outcome: {fileID: 11400000, guid: ad23ce432509740f68a0755849620faf, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9fb275d5f05254d65ae14be44cdee1fd, type: 2}
+    outcome: {fileID: 11400000, guid: ef697ce5eccc4400a8c7b594b886cdf7, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3d5abb248b04d4f56a18802acbef7fc0, type: 2}
+    outcome: {fileID: 11400000, guid: ba986e1cad3674c70b35b38e0636933c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 867c723c82b9d4f188b6e422a14d1ee7, type: 2}
+    outcome: {fileID: 11400000, guid: bd13758b925ed4120bb4f8a0dc8dfafa, type: 2}
+  - mergeWith: {fileID: 11400000, guid: e99443f9ffc88434886feddd5c55a797, type: 2}
+    outcome: {fileID: 11400000, guid: 7eb267d73d28d4416bb9345049f9ae26, type: 2}
+  - mergeWith: {fileID: 11400000, guid: cd4f571fed9b449d4bf828c6398f38f7, type: 2}
+    outcome: {fileID: 11400000, guid: e4919d2fc55c5413fb48a9aecd43ea71, type: 2}
+  - mergeWith: {fileID: 11400000, guid: f52b28d72fb584f328f1e86d8bf9c645, type: 2}
+    outcome: {fileID: 11400000, guid: f9efef311c7af4318a58a318d1837d1e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9a6ce4401de4e46bcab824125a622db5, type: 2}
+    outcome: {fileID: 11400000, guid: b73d0d1896f8f45298e6e6fa04dd508f, type: 2}

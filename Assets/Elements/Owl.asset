@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Owl
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ca7c144e765b240d8827ae7bacb5fceb, type: 2}
+    outcome: {fileID: 11400000, guid: cadd33771970c4016ad8e366ddedddd6, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 330a136929d4343edaeb834453589c0c, type: 2}
+    outcome: {fileID: 11400000, guid: b04f5e1b2147d4dd28e8f69a7db81e23, type: 2}

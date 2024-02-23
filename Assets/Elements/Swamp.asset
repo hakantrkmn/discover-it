@@ -14,4 +14,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Swamp
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9e69e88d96fa44c44be12c14f42437b3, type: 2}
+    outcome: {fileID: 11400000, guid: bf10c5e26a2484b60a2058c194b462e9, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: e5c9d6f58748047a59d41cc1d609321b, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: aa4fdac18a69b4e789492412f90bd4a5, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 34a44feed9499436c89384e6b5a8f96f, type: 2}
+    outcome: {fileID: 11400000, guid: 1d8835a2faa4f48e59b9919d4b0387ba, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 557b79e6116244d429e6615b58883cef, type: 2}
+    outcome: {fileID: 11400000, guid: 73710e01c16944b718d8d0cecd748b71, type: 2}
+  - mergeWith: {fileID: 11400000, guid: e134bd82580f542a2b2e455691cff65b, type: 2}
+    outcome: {fileID: 11400000, guid: 906dbc7d0d2b44d87af76ef08fda2bd4, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 73710e01c16944b718d8d0cecd748b71, type: 2}
+    outcome: {fileID: 11400000, guid: 25f415871a5cf4c5a8b2c72224997273, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 8655677f8d9bc49a28f482ae73ec1b4b, type: 2}
+    outcome: {fileID: 11400000, guid: 401527b836f5b4e3cbee4dd8b9c9513d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: ca7c144e765b240d8827ae7bacb5fceb, type: 2}
+    outcome: {fileID: 11400000, guid: 3244b70d022594c6b84c7c8ca0b35b8f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6ecc83bcb31ed4bc1a123160c6f177ad, type: 2}
+    outcome: {fileID: 11400000, guid: c9e508f4835df40e78d1c374e92ff11f, type: 2}

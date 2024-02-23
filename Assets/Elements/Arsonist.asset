@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Arsonist
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3ee685bfb74704b1d93312f5e2ae4b96, type: 2}
+    outcome: {fileID: 11400000, guid: 5fb74eee6c7b8400f994dc31cc24ef47, type: 2}

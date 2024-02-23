@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Wish
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: f1948ac2ca1c24b3292c1bcc635abb73, type: 2}
+    outcome: {fileID: 11400000, guid: aae46300dfdde485e8e7b69320c039bd, type: 2}

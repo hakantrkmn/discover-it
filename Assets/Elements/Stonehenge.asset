@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Stonehenge
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e9958a6ed70c14a648195f789bd1314f, type: 2}
+    outcome: {fileID: 11400000, guid: 44b6ebd5509594d5182418c56bbe4000, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c3e89c2bf4a0b48758a36c7825be393f, type: 2}
+    outcome: {fileID: 11400000, guid: e38ea1cdb994848689d4a071881ef028, type: 2}

@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Campfire
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 9455aabd691f54a9182ee552e4c54bdb, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9faa9c3eb1ceb4d80889219ecdce00a5, type: 2}
+    outcome: {fileID: 11400000, guid: d0b9e41207d694efeb1e8a5f591fc2ac, type: 2}

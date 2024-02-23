@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Army
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: bd0c3ca43a4dc4252bc6afe06a22cdf1, type: 2}

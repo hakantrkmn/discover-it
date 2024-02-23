@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Hermione
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 88eb5c4bef9cf4c08a0e7a8b470a0c11, type: 2}
+    outcome: {fileID: 11400000, guid: 73650e3ae2dd54146b8b029750ace4b9, type: 2}

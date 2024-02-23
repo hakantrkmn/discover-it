@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Wikipedia
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ee04b711452c6418383be50dbda30de7, type: 2}
+    outcome: {fileID: 11400000, guid: 7064d9e77c76c4f9895f0bf657f8f5c1, type: 2}

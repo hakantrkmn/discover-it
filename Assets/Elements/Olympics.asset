@@ -14,4 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Olympics
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3a825b15ca6be4ecebc3d5ee6412d82c, type: 2}
+    outcome: {fileID: 11400000, guid: 1478e33540280463a94697a05b467b4e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9f18b540977f64288ab5f8df6832d8ce, type: 2}
+    outcome: {fileID: 11400000, guid: 533efc00bfd5748f8bba2f1a45c03593, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9c93ad84468784da8b9de490cc419f45, type: 2}
+    outcome: {fileID: 11400000, guid: c7549c399fccb457b965a629e1c46d0a, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 660734780bb5f4a87af93cf64a4747f6, type: 2}
+    outcome: {fileID: 11400000, guid: aac832f3fb03048039b281a6d14a63e1, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4e7be53eab6934680b22a05b9282e7b0, type: 2}
+    outcome: {fileID: 11400000, guid: 58f7fb317a76f49e09c7a0e1c87dcc67, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 318c7543ae36f4ed9a9c9d6e7ff32fbe, type: 2}
+    outcome: {fileID: 11400000, guid: b5ad24ae0bec04c099513223c500162a, type: 2}
+  - mergeWith: {fileID: 11400000, guid: a389ca63bd77d4676b386bf1bfe77529, type: 2}
+    outcome: {fileID: 11400000, guid: cff584f3ddf7046809ffc4ec2a5edd69, type: 2}
+  - mergeWith: {fileID: 11400000, guid: da82a24d43d1249bc8b91a59dac7b4a1, type: 2}
+    outcome: {fileID: 11400000, guid: 666149ec7d1df42d99cafe1ad9326935, type: 2}

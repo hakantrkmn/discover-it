@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Soprano
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 4f371ac426a5747aa9bc95df503d8683, type: 2}
+    outcome: {fileID: 11400000, guid: d63dcc970920e4af99de77600060050a, type: 2}

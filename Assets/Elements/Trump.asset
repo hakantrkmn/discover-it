@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Trump
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 6380dcc382f9c4620b6351e1c58639e8, type: 2}
+    outcome: {fileID: 11400000, guid: c7fa22e3ddb89475584e74814dfa81e5, type: 2}

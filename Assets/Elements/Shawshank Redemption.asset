@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Shawshank Redemption
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9e9c7851954bb4d97bf5cb92d1421523, type: 2}
+    outcome: {fileID: 11400000, guid: 3104fdba57b8e4772a196d1eb82d5143, type: 2}

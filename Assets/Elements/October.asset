@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: October
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 2f5065f281fe44df4951e5aed82d06a8, type: 2}
+    outcome: {fileID: 11400000, guid: a3b0ea31e5e5f4dbaa2d46c2b2b027a7, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 51932a6fc08eb497f96596a6042be8b8, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 51932a6fc08eb497f96596a6042be8b8, type: 2}

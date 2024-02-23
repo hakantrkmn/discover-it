@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Rocky III
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e0045470b74ba46fcb0f4351b4e82396, type: 2}
+    outcome: {fileID: 11400000, guid: 9e231db323a494c7ba3c940cdf430aef, type: 2}

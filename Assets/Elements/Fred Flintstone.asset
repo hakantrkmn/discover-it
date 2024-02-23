@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Fred Flintstone
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ef956132e9d7643a09090b8ef05835ce, type: 2}
+    outcome: {fileID: 11400000, guid: 09bf805a0edf3453b8530c0bbcc4ee47, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Hobbit
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 91d9793dd241c4b82a05aae4c3141064, type: 2}
+    outcome: {fileID: 11400000, guid: 898853ff1d8704fa48a5d36fa5373f4a, type: 2}

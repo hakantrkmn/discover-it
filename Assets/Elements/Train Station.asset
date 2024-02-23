@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Train Station
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e37ec047bdda941f8b6f81e1621b2e33, type: 2}
+    outcome: {fileID: 11400000, guid: 48b2907037a144c04a5d4c896780e4a2, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 48b2907037a144c04a5d4c896780e4a2, type: 2}
+    outcome: {fileID: 11400000, guid: c2fbc62c89ed5420aae9b6370c974e96, type: 2}

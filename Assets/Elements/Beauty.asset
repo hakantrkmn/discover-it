@@ -14,4 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Beauty
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 77ae3bdc12bb84357891fd509699983c, type: 2}
+    outcome: {fileID: 11400000, guid: b345ed67f435b475b86cd01ec3600de1, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 67ca7d712f68f4f1394b529317230839, type: 2}
+    outcome: {fileID: 11400000, guid: a84dad20f49c04ec1a779627377a1c60, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 2268e250bc0424056b88bbf84082faf9, type: 2}
+    outcome: {fileID: 11400000, guid: 3a0226e4e14d74451aee29c14b047ad2, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5e3057c8edc2344fd9f851b36fd6e89a, type: 2}
+    outcome: {fileID: 11400000, guid: 974ce638dc4da449f908b1e6d598762d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 768ce7bb643fc4aae8eb3f26aac4ae0c, type: 2}
+    outcome: {fileID: 11400000, guid: 113ca6eb53d4e4f08a8288acf5cfee91, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 75cada74ccd174f2487fdb3c754f0b6c, type: 2}
+    outcome: {fileID: 11400000, guid: 4e7b83baab7df4cdc86f9d40a0f399c4, type: 2}

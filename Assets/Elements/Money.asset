@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Money
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 6ecc83bcb31ed4bc1a123160c6f177ad, type: 2}
+    outcome: {fileID: 11400000, guid: a250d937cc71c48ba9fce03b4c7d4e89, type: 2}
+  - mergeWith: {fileID: 11400000, guid: ef697ce5eccc4400a8c7b594b886cdf7, type: 2}
+    outcome: {fileID: 11400000, guid: 9e9645c452660494788102e5afe03c68, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c05944a38d1df4e4499fa85698c40193, type: 2}
+    outcome: {fileID: 11400000, guid: 0c494017a5f4e495d9508edc3845a218, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0c494017a5f4e495d9508edc3845a218, type: 2}
+    outcome: {fileID: 11400000, guid: a955d098c9fe44700b23c1ef0f7fcfee, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d4cbce45d57ee4c63bf1a28ffda5105c, type: 2}
+    outcome: {fileID: 11400000, guid: 969b112f28c27445da24a535edafdd15, type: 2}

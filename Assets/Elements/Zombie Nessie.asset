@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Zombie Nessie
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9be0dc0c954e445a08328079fb7dd7f5, type: 2}
+    outcome: {fileID: 11400000, guid: 36cabc3ab8a7f462186ad3076043b053, type: 2}

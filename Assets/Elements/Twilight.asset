@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Twilight
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 06c3bb9dddcfb42b3ae121180db2b8c1, type: 2}
+    outcome: {fileID: 11400000, guid: 1f82499fd31f944919cdba2f96218fbe, type: 2}

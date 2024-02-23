@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Plane
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 48851f78d0bbf48acaa9cbdbcd8e3c8f, type: 2}
+    outcome: {fileID: 11400000, guid: 815fe2632fceb4e81b3e7ec8928dfd62, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: f1a0b3b6342834136b5940f2e1c4937d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: ce00c63fdb3494f29bbc86c3f6a6aa4c, type: 2}
+    outcome: {fileID: 11400000, guid: 6da51049f73ac46929767958fc855fe9, type: 2}

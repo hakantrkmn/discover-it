@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Mickey Mouse
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 1f85d33caa36d475886dec367ac19a69, type: 2}

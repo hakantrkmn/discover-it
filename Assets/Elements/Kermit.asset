@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Kermit
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 39c2aedc5e8b34d87b2d03d24ae6f799, type: 2}
+    outcome: {fileID: 11400000, guid: b0453af5131bf4c0b91e801d7eb643f5, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 39c2aedc5e8b34d87b2d03d24ae6f799, type: 2}
+    outcome: {fileID: 11400000, guid: b0453af5131bf4c0b91e801d7eb643f5, type: 2}

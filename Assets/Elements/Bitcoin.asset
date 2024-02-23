@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Bitcoin
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 21dd5fe06bdac46729ec602733ff125e, type: 2}
+    outcome: {fileID: 11400000, guid: 8b4af8c32bd8d404597b81dc82c0f98d, type: 2}

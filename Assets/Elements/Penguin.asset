@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Penguin
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 5aa908afe9ca14fa4aff2798e3a8fc05, type: 2}
+    outcome: {fileID: 11400000, guid: e1a1985311356471ba8d7623330edba6, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4e6f82dba5c8041f88451c2f576d20dd, type: 2}
+    outcome: {fileID: 11400000, guid: 5e6f4a54672ce4284b39803b3d6020f4, type: 2}

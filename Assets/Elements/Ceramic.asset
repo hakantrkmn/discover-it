@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Ceramic
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 110dbfc1bdb1041039ef78ed4abc22b5, type: 2}
+    outcome: {fileID: 11400000, guid: 08f37a60840544b699f4408359bdf7ae, type: 2}

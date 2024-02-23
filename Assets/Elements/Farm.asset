@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Farm
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3bb7b6163b9e447b182402735be8586d, type: 2}
+    outcome: {fileID: 11400000, guid: 9c90b25cbae8c4ebcaa325e3693379f8, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7b35a6e1dd37c4b88acd6ee576876821, type: 2}
+    outcome: {fileID: 11400000, guid: 9d2ffa1a9223c45849d7c0a89502e8d5, type: 2}
+  - mergeWith: {fileID: 11400000, guid: f6708d00c05fe478ba8ae13253ca45bd, type: 2}
+    outcome: {fileID: 11400000, guid: 768ce7bb643fc4aae8eb3f26aac4ae0c, type: 2}

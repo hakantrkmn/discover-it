@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Heart
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: eb90cc4ffabeb4171bb590ca4de1bcf4, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 12736330622924cd9be3cf7a8b95d53c, type: 2}
+    outcome: {fileID: 11400000, guid: 26cd4f4c3a8ef4087b4106d6c45580a6, type: 2}

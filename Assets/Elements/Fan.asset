@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Fan
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: b52672a02a2bf4cff925dc7e58e9e10d, type: 2}
+    outcome: {fileID: 11400000, guid: 8044f47520ff14a13b455713100148d0, type: 2}

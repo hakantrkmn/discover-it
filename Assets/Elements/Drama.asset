@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Drama
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 176b179eff2f14213bc55b1a8d5d99c3, type: 2}
+    outcome: {fileID: 11400000, guid: 7198005a7e7684895b29dd6b07111e9d, type: 2}

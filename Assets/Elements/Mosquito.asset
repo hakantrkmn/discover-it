@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Mosquito
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: f34aaab3e6fe64379916c8e8b78b5830, type: 2}
+    outcome: {fileID: 11400000, guid: 73d0d530bc10b4dd4af96ec49c04d2f5, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7237581b7d17148f4ac4e4a57739055e, type: 2}
+    outcome: {fileID: 11400000, guid: f33411121a51545a39e12642ebf518a3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9c90b25cbae8c4ebcaa325e3693379f8, type: 2}
+    outcome: {fileID: 11400000, guid: 715f91e5b944d476cb2f9311ecb2e155, type: 2}

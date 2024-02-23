@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Christmas
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: cf603d6968c714fcb92dbcaf816e069e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5dad01121be1d4c0984bbd243ee224b2, type: 2}
+    outcome: {fileID: 11400000, guid: 32d9df154bc3e49509e67fa4a2a9ed3d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9e9c7851954bb4d97bf5cb92d1421523, type: 2}
+    outcome: {fileID: 11400000, guid: 9e69e88d96fa44c44be12c14f42437b3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 30fe7c08d274546ec94744c33dc4eae9, type: 2}
+    outcome: {fileID: 11400000, guid: 3344d4ebce7854be09dfe689516a5a1d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 8655677f8d9bc49a28f482ae73ec1b4b, type: 2}
+    outcome: {fileID: 11400000, guid: 3344d4ebce7854be09dfe689516a5a1d, type: 2}

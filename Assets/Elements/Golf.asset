@@ -14,4 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Golf
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: 45b224d77e47140eea3161086bf82e9f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5dad01121be1d4c0984bbd243ee224b2, type: 2}
+    outcome: {fileID: 11400000, guid: 5339e243047054d61bbd4d0bad5fc7d5, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b2c9fcf0b1a7a40be83dab040def08f8, type: 2}
+    outcome: {fileID: 11400000, guid: d5137bd3c1e4d4d9799f3e961db1c852, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 709dd50dfca7544d7bc9e6d0abaa17cf, type: 2}
+    outcome: {fileID: 11400000, guid: 9e79c48cf454e414abf5a1584cbc043e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5339e243047054d61bbd4d0bad5fc7d5, type: 2}
+    outcome: {fileID: 11400000, guid: 85af1b69f344648aeabb9dd43d9288b2, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b0eaf833ef2dd4df0a3df2e028418c30, type: 2}
+    outcome: {fileID: 11400000, guid: 396f5f5501c9f4d288469d180e3db32b, type: 2}

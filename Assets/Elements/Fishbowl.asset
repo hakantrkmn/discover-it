@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Fishbowl
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 81629d4875f544c6b8a20fcbf51dd78a, type: 2}
+    outcome: {fileID: 11400000, guid: a9439375c56ed435ab9236c701b6ccda, type: 2}

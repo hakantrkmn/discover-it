@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Space Ship
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: a08ff98ba6f29481d9ec976a45fe6cbd, type: 2}
+    outcome: {fileID: 11400000, guid: 32b46869628404bd5b9d6b6975f6716a, type: 2}

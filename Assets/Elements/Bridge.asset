@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Bridge
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 58ac800a8d3964bbcb28abd8ca19c643, type: 2}
+    outcome: {fileID: 11400000, guid: ef956132e9d7643a09090b8ef05835ce, type: 2}

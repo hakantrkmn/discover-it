@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Panda
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 49fc77bb3122e450d9de0ed85a6a94f1, type: 2}
+    outcome: {fileID: 11400000, guid: 67ca7d712f68f4f1394b529317230839, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5e3057c8edc2344fd9f851b36fd6e89a, type: 2}
+    outcome: {fileID: 11400000, guid: 73607412b783a42b8b35097e2d3b39db, type: 2}
+  - mergeWith: {fileID: 11400000, guid: af7ad4587e88f4a3394065ad31f1ca13, type: 2}
+    outcome: {fileID: 11400000, guid: 67ca7d712f68f4f1394b529317230839, type: 2}

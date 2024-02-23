@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Black Hole
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 160446af447e14459bc447985a2bc227, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4401a8d63603e4b6daa81a66a8b41c83, type: 2}
+    outcome: {fileID: 11400000, guid: 276dbbde6737145beaa8ccb419e53755, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 160446af447e14459bc447985a2bc227, type: 2}
+    outcome: {fileID: 11400000, guid: 9f048a9ca966945f89e89c6ecde4ea9d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9f048a9ca966945f89e89c6ecde4ea9d, type: 2}
+    outcome: {fileID: 11400000, guid: b6e62ba08fb8a4180a34ac285b15bd23, type: 2}

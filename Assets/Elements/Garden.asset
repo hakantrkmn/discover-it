@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Garden
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 56b432abc9203428c91f28b73ec13c9f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: e64e0d0c384f243e58bdd686e43c1fb0, type: 2}
+    outcome: {fileID: 11400000, guid: e06783d0c3f934430801f981888addf7, type: 2}

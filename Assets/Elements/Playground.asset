@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Playground
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 4c97879a3b3664335849943dfe4e8dfb, type: 2}
+    outcome: {fileID: 11400000, guid: 3a77f083d3408445d88969b55301cc35, type: 2}

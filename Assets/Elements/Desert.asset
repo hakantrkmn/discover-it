@@ -14,4 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Desert
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 4ae32af25e80c44f0977490bc4999d22, type: 2}
+    outcome: {fileID: 11400000, guid: 1a71acfbe26e34104b24111a049f59d7, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c9c615126bf9444d5a89549f9a6a7e6c, type: 2}
+    outcome: {fileID: 11400000, guid: b4b93df00a16449c6b8a36be1a208006, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 34a44feed9499436c89384e6b5a8f96f, type: 2}
+    outcome: {fileID: 11400000, guid: f5798ec394a88440da92895063913662, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: 1a71acfbe26e34104b24111a049f59d7, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 224c170f4c63d40b3bfa6be8c18cc815, type: 2}
+    outcome: {fileID: 11400000, guid: 10077adfabf5a4aa084aeef8030f7831, type: 2}
+  - mergeWith: {fileID: 11400000, guid: bf2c66d166a034538a9defc84cedfe72, type: 2}
+    outcome: {fileID: 11400000, guid: 2deb8ad87d3eb486e9f01639a10dffe8, type: 2}

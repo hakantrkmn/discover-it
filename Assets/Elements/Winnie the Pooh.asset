@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Winnie the Pooh
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: c026d9fc700dc40aaa12975689fb8a46, type: 2}
+    outcome: {fileID: 11400000, guid: 3d29c205cfa0b4d8e921edc429752998, type: 2}

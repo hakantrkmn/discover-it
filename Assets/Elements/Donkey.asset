@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Donkey
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 39c2aedc5e8b34d87b2d03d24ae6f799, type: 2}
+    outcome: {fileID: 11400000, guid: f2bade74ac93043959284e3ccceb2d53, type: 2}

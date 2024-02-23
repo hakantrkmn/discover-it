@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Lambeau Field
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: df5130cecee644ae5b40805bdab22132, type: 2}
+    outcome: {fileID: 11400000, guid: 8ed657c2b1dd04467ac8c6c1a49567ef, type: 2}

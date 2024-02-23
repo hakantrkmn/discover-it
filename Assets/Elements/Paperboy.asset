@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Paperboy
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3684a2fd2c7ed4e44bb88807e1aebc10, type: 2}
+    outcome: {fileID: 11400000, guid: be2fbadfd091244a0be21bacca03602c, type: 2}

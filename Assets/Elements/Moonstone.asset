@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Moonstone
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: d2f75a5b09a614b47ac191281c8f8c61, type: 2}
+    outcome: {fileID: 11400000, guid: 35d7926011c1d45ddb68cdeeb185b923, type: 2}

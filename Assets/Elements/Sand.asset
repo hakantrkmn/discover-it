@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Sand
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 5ab100979024f4d7c86577b28d694b7b, type: 2}
+    outcome: {fileID: 11400000, guid: c60c198c9283b4278932ca0209513469, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: 9b72ce9d87cd641e8adc37e7383755e5, type: 2}
+  - mergeWith: {fileID: 11400000, guid: e37ec047bdda941f8b6f81e1621b2e33, type: 2}
+    outcome: {fileID: 11400000, guid: bfef77fb87cc5433b822e56bf0c32b34, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: c60c198c9283b4278932ca0209513469, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 34a44feed9499436c89384e6b5a8f96f, type: 2}
+    outcome: {fileID: 11400000, guid: dafd2636659794dc699400f103ffec4d, type: 2}

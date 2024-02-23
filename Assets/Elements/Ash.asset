@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Ash
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 224c170f4c63d40b3bfa6be8c18cc815, type: 2}
+    outcome: {fileID: 11400000, guid: b399dfdd705234d79af09ed7072d73b6, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: c7b48dc6a232141c8ab195928eb24698, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: e960e7736dfd64c8bab69c2b5b83d2c9, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c9c615126bf9444d5a89549f9a6a7e6c, type: 2}
+    outcome: {fileID: 11400000, guid: c80fd466565df4cd1a9bc19e37f5387e, type: 2}

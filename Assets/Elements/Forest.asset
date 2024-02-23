@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Forest
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 911b1cacb2e5a4ba89e80c97aa79a517, type: 2}
+    outcome: {fileID: 11400000, guid: 3b70d5a7da13646dfba23d75833cf827, type: 2}
+  - mergeWith: {fileID: 11400000, guid: ca7c144e765b240d8827ae7bacb5fceb, type: 2}
+    outcome: {fileID: 11400000, guid: c5585f68e5de9451894452490fd37e76, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: d3f795051e67047ceb3bbe4ed7f578a7, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 224c170f4c63d40b3bfa6be8c18cc815, type: 2}
+    outcome: {fileID: 11400000, guid: b0eaf833ef2dd4df0a3df2e028418c30, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 4453691bb06bb48e9812a24a2a0b104e, type: 2}

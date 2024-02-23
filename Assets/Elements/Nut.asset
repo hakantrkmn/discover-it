@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Nut
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 5b979ff61eead424e8d30c9b5d13915a, type: 2}
+    outcome: {fileID: 11400000, guid: cb663a08200df452fa6ee0a907c65cd4, type: 2}

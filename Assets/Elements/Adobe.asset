@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Adobe
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: a4cc4847c4f444ee4a4c2bd162896e05, type: 2}
+    outcome: {fileID: 11400000, guid: 28e891bfc5c74405aa6f3bfa97bc656b, type: 2}

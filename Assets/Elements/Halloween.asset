@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Halloween
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9d2ffa1a9223c45849d7c0a89502e8d5, type: 2}
+    outcome: {fileID: 11400000, guid: 4dde821101487453482251f5a526cab5, type: 2}

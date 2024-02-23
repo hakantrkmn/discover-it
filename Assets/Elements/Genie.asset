@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Genie
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 7112faa7ce279400cbed3db926a33050, type: 2}
+    outcome: {fileID: 11400000, guid: 20d6ab25734b74b66918a19f890703f0, type: 2}

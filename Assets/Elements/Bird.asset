@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Bird
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 81cd8f7e33986431b9d32a9d51247581, type: 2}
+    outcome: {fileID: 11400000, guid: 3bb7b6163b9e447b182402735be8586d, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 160ef08227a934ff08a7e7ad751eaa79, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0088ba5f736864bdba6be54fd122f701, type: 2}
+    outcome: {fileID: 11400000, guid: 3eae8c6f780c341b594b6772fddcd870, type: 2}

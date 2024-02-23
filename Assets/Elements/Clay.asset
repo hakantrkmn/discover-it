@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Clay
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 110dbfc1bdb1041039ef78ed4abc22b5, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 73710e01c16944b718d8d0cecd748b71, type: 2}
+    outcome: {fileID: 11400000, guid: e5bdffe4a6a4242759d33d77f3660144, type: 2}

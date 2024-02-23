@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Golfing
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 12cd2eebcb54f420f8acfbf2c3ae78f4, type: 2}
+    outcome: {fileID: 11400000, guid: ae694b8ace0524bb58c63c542117c374, type: 2}

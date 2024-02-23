@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Dinosaur
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9c90b25cbae8c4ebcaa325e3693379f8, type: 2}
+    outcome: {fileID: 11400000, guid: 33200b3b58db04404ac3f8b90f618f09, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9c90b25cbae8c4ebcaa325e3693379f8, type: 2}
+    outcome: {fileID: 11400000, guid: 33200b3b58db04404ac3f8b90f618f09, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 9c90b25cbae8c4ebcaa325e3693379f8, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 983dfed0d94f74271b3a42fc8afedff7, type: 2}
+    outcome: {fileID: 11400000, guid: ac5d14e61d5a2466e9cb622aee53670b, type: 2}

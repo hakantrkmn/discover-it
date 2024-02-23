@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Millennium
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 58622e5710309472fb8c4114e4317d57, type: 2}
+    outcome: {fileID: 11400000, guid: 9ac952980d84249d8943b0efcc267ac3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: e4d21c9e153c34a05b2b110e2da4978b, type: 2}
+    outcome: {fileID: 11400000, guid: 320342ba04bab4924a24d3e04fc25fa0, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9ac952980d84249d8943b0efcc267ac3, type: 2}
+    outcome: {fileID: 11400000, guid: 131c3051df0034115a0d71183392ee9e, type: 2}

@@ -14,4 +14,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Superman
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 0cd1f0f3e6aa34eb39458792e9d68e5f, type: 2}
+    outcome: {fileID: 11400000, guid: 6d5f0562c796244d2b9006638cfd0aab, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0b3d6135691f34acf9ef069897106ead, type: 2}
+    outcome: {fileID: 11400000, guid: 8bdefea721b514fa7aa9e1e804f0f070, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 8a8d49c897b3b4651b6f7246da0426fd, type: 2}
+    outcome: {fileID: 11400000, guid: 62973e0f9cdc347afad29d3de8cd367e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 000588d8ed1d444f39c6729b45e13ae8, type: 2}
+    outcome: {fileID: 11400000, guid: 2e6e022025ffa4f32a183a30b9be5965, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 000588d8ed1d444f39c6729b45e13ae8, type: 2}
+    outcome: {fileID: 11400000, guid: 2e6e022025ffa4f32a183a30b9be5965, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 000588d8ed1d444f39c6729b45e13ae8, type: 2}
+    outcome: {fileID: 11400000, guid: 2e6e022025ffa4f32a183a30b9be5965, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 1130c8e1b3bde4ba9902f5e8f53b4b96, type: 2}
+    outcome: {fileID: 11400000, guid: c7284a0c1537149669ca82323d446da3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: da6ad34a978ad474aaa90ebb0d19a80a, type: 2}
+    outcome: {fileID: 11400000, guid: 5ff98e0d1df884cfd83e007b282337d6, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c8235bfc61cc546e0b083417de41b516, type: 2}
+    outcome: {fileID: 11400000, guid: 48851f78d0bbf48acaa9cbdbcd8e3c8f, type: 2}

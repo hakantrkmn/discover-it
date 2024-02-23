@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Pickle Rick
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 1b4d753bb130c497a911164ea9e8f912, type: 2}
+    outcome: {fileID: 11400000, guid: f738bc1d4188343288057c12fbe8f446, type: 2}

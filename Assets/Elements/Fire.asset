@@ -14,4 +14,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Fire
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e37ec047bdda941f8b6f81e1621b2e33, type: 2}
+    outcome: {fileID: 11400000, guid: a5ec3767a2e1f441da0581a380b8083e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 709dd50dfca7544d7bc9e6d0abaa17cf, type: 2}
+    outcome: {fileID: 11400000, guid: 330a136929d4343edaeb834453589c0c, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: b80642163f0a64be09cbb93fe1b77204, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: b80642163f0a64be09cbb93fe1b77204, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 72d8da0498d464c23ae283287dcd16b1, type: 2}
+    outcome: {fileID: 11400000, guid: 45b224d77e47140eea3161086bf82e9f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 224c170f4c63d40b3bfa6be8c18cc815, type: 2}
+    outcome: {fileID: 11400000, guid: d32300182beb14adcb6f228892c4047c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 41715fb2ce1ca4ead88947c73e08e538, type: 2}
+    outcome: {fileID: 11400000, guid: aec608e35afdd430dbc96f7cbe7c1749, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c4ce7cf4538f846eba91b7c2e9b1dd14, type: 2}
+    outcome: {fileID: 11400000, guid: 4466c3924198545d5862de881c69c387, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6f4c10430e8b84705b17b6736456f8bd, type: 2}
+    outcome: {fileID: 11400000, guid: 8d0a5018ee90a46988da884cc9241d8a, type: 2}

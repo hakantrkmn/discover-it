@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Eon
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 94fede71ab70c4b2cb9dd22742ca51b7, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 94fede71ab70c4b2cb9dd22742ca51b7, type: 2}
+    outcome: {fileID: 11400000, guid: eba3c9b63d0ea48aeaad9a80926006cd, type: 2}

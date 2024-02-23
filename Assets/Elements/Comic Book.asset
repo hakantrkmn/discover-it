@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Comic Book
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e7b25334c955341d386b0b378b6a7f5f, type: 2}
+    outcome: {fileID: 11400000, guid: e6b3ae596793c455e904efc1cbf1fec8, type: 2}

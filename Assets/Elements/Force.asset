@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Force
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 2db8619de44bd456f9749666d99b506c, type: 2}
+    outcome: {fileID: 11400000, guid: 0a135d84248184b369a1cacfea290abe, type: 2}

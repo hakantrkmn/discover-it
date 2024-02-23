@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Democracy
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 268ef30904c0949229492d82a1c57598, type: 2}
+    outcome: {fileID: 11400000, guid: f0c003197c85542b6b70b4a757bea967, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: aa677418b12a04b97a1cb8cf6fcb646f, type: 2}

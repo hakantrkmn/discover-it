@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Alien
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 86b56e3d993014ad9bd7e4bb4e35e7a8, type: 2}
+    outcome: {fileID: 11400000, guid: e26445070fd194c5bbf2b23a468f4c26, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: e9958a6ed70c14a648195f789bd1314f, type: 2}

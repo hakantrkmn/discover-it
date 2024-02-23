@@ -14,4 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Rainbow
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 73710e01c16944b718d8d0cecd748b71, type: 2}
+    outcome: {fileID: 11400000, guid: 5e3057c8edc2344fd9f851b36fd6e89a, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5aa908afe9ca14fa4aff2798e3a8fc05, type: 2}
+    outcome: {fileID: 11400000, guid: 9f40b8f269a9b4ffcadb0b64604cf7b9, type: 2}
+  - mergeWith: {fileID: 11400000, guid: afe7b23c89396415289f34ed4207e051, type: 2}
+    outcome: {fileID: 11400000, guid: f9efef311c7af4318a58a318d1837d1e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 8993aecb2fa4a46d5a445d2dabcc1715, type: 2}
+    outcome: {fileID: 11400000, guid: cd4f571fed9b449d4bf828c6398f38f7, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9f40b8f269a9b4ffcadb0b64604cf7b9, type: 2}
+    outcome: {fileID: 11400000, guid: 527d65dd1815b4e218ca2b6aa3a4bdec, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 00b5f6a39ddd7481ea7da9ebaf3ee323, type: 2}
+    outcome: {fileID: 11400000, guid: 3720ae496fc514e74b7101fb8aa0aba5, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 81629d4875f544c6b8a20fcbf51dd78a, type: 2}
+    outcome: {fileID: 11400000, guid: 5fb486925f3c644e58ffd59a593f747f, type: 2}

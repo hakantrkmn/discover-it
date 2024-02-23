@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Coca-Cola
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 670a025f82d2f4a388ba7fbf271a5d68, type: 2}
+    outcome: {fileID: 11400000, guid: 1143c706e4633487f8e80cd9751aaa49, type: 2}

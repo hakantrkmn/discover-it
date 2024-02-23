@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Ninja Turtles
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3e9674c7ac06a4d30a88926e33b7f5c4, type: 2}
+    outcome: {fileID: 11400000, guid: f8241d95deca840d4842c84a20241c60, type: 2}
+  - mergeWith: {fileID: 11400000, guid: f8241d95deca840d4842c84a20241c60, type: 2}
+    outcome: {fileID: 11400000, guid: 72144a9286bf74592830f6b44201bc3c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 30fe7c08d274546ec94744c33dc4eae9, type: 2}
+    outcome: {fileID: 11400000, guid: af304acd4f52a46feb78ad7eda6ac6ef, type: 2}

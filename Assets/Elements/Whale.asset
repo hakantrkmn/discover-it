@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Whale
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 81dc54e46c1a74c56b661bb4e003fe62, type: 2}
+    outcome: {fileID: 11400000, guid: 469c75c2342d343c091271a4f43dd02c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 2482b0780788042eba06d4770705cc45, type: 2}
+    outcome: {fileID: 11400000, guid: cdd708053061641ebba285ec34aa823b, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 81dc54e46c1a74c56b661bb4e003fe62, type: 2}
+    outcome: {fileID: 11400000, guid: 469c75c2342d343c091271a4f43dd02c, type: 2}

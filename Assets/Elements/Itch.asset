@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Itch
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: a465829efa9ad4fa496ca7dee6ce1481, type: 2}
+    outcome: {fileID: 11400000, guid: ea9be57f7ceea45f9ae67790fc874486, type: 2}

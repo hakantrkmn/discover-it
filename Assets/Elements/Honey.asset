@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Honey
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 89f748dd6808a4e5db8926ceff13fd50, type: 2}
+    outcome: {fileID: 11400000, guid: 4197071aa887b47e19b27bc08af240a5, type: 2}

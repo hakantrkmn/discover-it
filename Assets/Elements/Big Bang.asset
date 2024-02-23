@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Big Bang
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 2fab4204851ab405eb71d2ecbcc2c4fc, type: 2}
+    outcome: {fileID: 11400000, guid: a9f31b4fcae1a4f0b894ec198d790af8, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 2fab4204851ab405eb71d2ecbcc2c4fc, type: 2}
+    outcome: {fileID: 11400000, guid: a9f31b4fcae1a4f0b894ec198d790af8, type: 2}

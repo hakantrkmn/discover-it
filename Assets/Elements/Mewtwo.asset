@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Mewtwo
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 5e371180b776547ad9a16c942efa1047, type: 2}
+    outcome: {fileID: 11400000, guid: 39fa3f0a0421d4c75b1769da016a0639, type: 2}

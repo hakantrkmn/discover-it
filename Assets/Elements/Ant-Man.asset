@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Ant-Man
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9f40b8f269a9b4ffcadb0b64604cf7b9, type: 2}
+    outcome: {fileID: 11400000, guid: 79b9f96d1822242759b667fc606f9578, type: 2}

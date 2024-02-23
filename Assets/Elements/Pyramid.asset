@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Pyramid
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9c492f1cb17f44419a1d93f11bc17707, type: 2}
+    outcome: {fileID: 11400000, guid: d81579237219f4e9f961eaeb8eb5fdd1, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 35eeae8de4ba744d4a0b0da8f5f01555, type: 2}
+    outcome: {fileID: 11400000, guid: afe793d05218c4e35bd89a4520b5ab23, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 9c492f1cb17f44419a1d93f11bc17707, type: 2}

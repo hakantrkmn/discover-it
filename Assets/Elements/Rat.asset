@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Rat
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 1723468a5173e465d8b2ccb3eea0865c, type: 2}
+    outcome: {fileID: 11400000, guid: 2d09e105e8db246f8bf2dfae5278f97e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b6108fff20cf34965ac7991659c5248a, type: 2}
+    outcome: {fileID: 11400000, guid: 807c06c3236fd47b3aea6aa44fc66cc2, type: 2}

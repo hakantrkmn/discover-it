@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Lava
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 81629d4875f544c6b8a20fcbf51dd78a, type: 2}
+    outcome: {fileID: 11400000, guid: c056d102d02fa44b3a96a7bc388cd6d3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b80642163f0a64be09cbb93fe1b77204, type: 2}
+    outcome: {fileID: 11400000, guid: 5bbf6e08e0eb745348514e65f640eecf, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 557b79e6116244d429e6615b58883cef, type: 2}
+    outcome: {fileID: 11400000, guid: 81629d4875f544c6b8a20fcbf51dd78a, type: 2}

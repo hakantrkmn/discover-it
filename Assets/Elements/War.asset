@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: War
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 246ee0b684a52493582a07501abe6232, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 246ee0b684a52493582a07501abe6232, type: 2}
+    outcome: {fileID: 11400000, guid: 2d01e879b237240cf9a9126c644c2eb4, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7e4e74a471d144808b095206f112de68, type: 2}
+    outcome: {fileID: 11400000, guid: 082eaf3b858c24f2d8f15c2fcc4cc8f1, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 557b79e6116244d429e6615b58883cef, type: 2}
+    outcome: {fileID: 11400000, guid: 5c6eda764a27c4e6da10098b2c668c1f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0b3d6135691f34acf9ef069897106ead, type: 2}
+    outcome: {fileID: 11400000, guid: 64a29f8abc9424b5eb6c3eb6e811c6f6, type: 2}

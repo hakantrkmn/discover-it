@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Light Bulb
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: fa5fd382469514862a54b3741b8eb262, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9b72ce9d87cd641e8adc37e7383755e5, type: 2}
+    outcome: {fileID: 11400000, guid: 7112faa7ce279400cbed3db926a33050, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0b3d6135691f34acf9ef069897106ead, type: 2}
+    outcome: {fileID: 11400000, guid: 321655027a3d949009906ee8356c3c0d, type: 2}

@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Candy
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 21e54152fe8694f26acd107c5b738037, type: 2}
+    outcome: {fileID: 11400000, guid: 0c78cbee7afe84feea238474e115514d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 81cd8f7e33986431b9d32a9d51247581, type: 2}
+    outcome: {fileID: 11400000, guid: b089a83a75ad74b2aa5a96638fb8925f, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 21e54152fe8694f26acd107c5b738037, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: 4f652ad6e34c4460db10f3af2bbe27e7, type: 2}

@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Cowboy
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 7254f10c50e784ab8aa7f08e6e8abfcb, type: 2}
+    outcome: {fileID: 11400000, guid: 0abf02fbb1c28457192e274a55de7050, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 79874783cc802419c86d2d269f4f4713, type: 2}
+    outcome: {fileID: 11400000, guid: 04bd00350d9fe4fb4bf90411286b882c, type: 2}

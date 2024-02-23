@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Minecraft
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 88eb5c4bef9cf4c08a0e7a8b470a0c11, type: 2}
+    outcome: {fileID: 11400000, guid: 32c5dfda8263245e4a24d3ac5071c29c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4e6f82dba5c8041f88451c2f576d20dd, type: 2}
+    outcome: {fileID: 11400000, guid: 40bbd8369bdb845f8bc6d0feaee7af3e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7237581b7d17148f4ac4e4a57739055e, type: 2}
+    outcome: {fileID: 11400000, guid: 59d29f66e7bee486583cc14f4117e101, type: 2}

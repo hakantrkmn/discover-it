@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Accident
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 84980b555732c41b8af1ef3dd1f46dfb, type: 2}
+    outcome: {fileID: 11400000, guid: 390aee274cca44d2d9ee57755f4eb5ef, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d8f8a03b7538247caa2d201e669b55ce, type: 2}
+    outcome: {fileID: 11400000, guid: cd6fef0ff93bb42cd8e0742a0f26cead, type: 2}

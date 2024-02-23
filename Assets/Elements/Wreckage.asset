@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Wreckage
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: d8f8a03b7538247caa2d201e669b55ce, type: 2}
+    outcome: {fileID: 11400000, guid: e681e4e1a19774003bfc5680aeee486f, type: 2}

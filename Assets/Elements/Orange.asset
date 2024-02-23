@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Orange
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 56b432abc9203428c91f28b73ec13c9f, type: 2}
+    outcome: {fileID: 11400000, guid: e64e0d0c384f243e58bdd686e43c1fb0, type: 2}
+  - mergeWith: {fileID: 11400000, guid: a2e00548f60c34e758e5c180174ec07e, type: 2}
+    outcome: {fileID: 11400000, guid: b3d94836c54da4faea1046fe8618a3c7, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b3d94836c54da4faea1046fe8618a3c7, type: 2}
+    outcome: {fileID: 11400000, guid: 699bc54b9a30b4414b32babc744aaacc, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6a975db21f6604fb0939a40fd251f0d4, type: 2}
+    outcome: {fileID: 11400000, guid: cb7e25a87248f4a04a1b6778469e0dc5, type: 2}

@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Skeleton
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 72d8da0498d464c23ae283287dcd16b1, type: 2}
+    outcome: {fileID: 11400000, guid: 08a453a5ae03c48e7959108fd6341e71, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: b49267ea59b6b4df5ab257a6d3c2c3b8, type: 2}

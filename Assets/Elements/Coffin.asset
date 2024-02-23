@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Coffin
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e99443f9ffc88434886feddd5c55a797, type: 2}
+    outcome: {fileID: 11400000, guid: 4bc1f734835144af5a7a89cb43f7350b, type: 2}

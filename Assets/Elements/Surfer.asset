@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Surfer
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 8d0a5018ee90a46988da884cc9241d8a, type: 2}
+    outcome: {fileID: 11400000, guid: 0502a258cf9cb4690ad1aef68234f880, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3684a2fd2c7ed4e44bb88807e1aebc10, type: 2}
+    outcome: {fileID: 11400000, guid: 821b31f2da91a478394a33129872891f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3c77cc0d230c44a95b33853a2b171bbe, type: 2}
+    outcome: {fileID: 11400000, guid: b2c9fcf0b1a7a40be83dab040def08f8, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6206e745ec4644bf5804edd994bac15f, type: 2}
+    outcome: {fileID: 11400000, guid: 06ff081ebef984a39a716e2bbb804fa4, type: 2}

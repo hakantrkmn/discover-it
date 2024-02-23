@@ -14,4 +14,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Fish
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 6d3c7592f368a478399e7d8fa492c1cd, type: 2}
+    outcome: {fileID: 11400000, guid: 9c1003bbbb44a4b1da8c3ee4b4949fd1, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 26d2e84a5e93e47cd81140274e57935c, type: 2}
+    outcome: {fileID: 11400000, guid: 9f5be13e849a54ff7a8cdbab37e8ccd3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: 18b092a22c5fe496b8fcdbb8c9b02071, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 81629d4875f544c6b8a20fcbf51dd78a, type: 2}
+    outcome: {fileID: 11400000, guid: 8993aecb2fa4a46d5a445d2dabcc1715, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d3f795051e67047ceb3bbe4ed7f578a7, type: 2}
+    outcome: {fileID: 11400000, guid: 3244b70d022594c6b84c7c8ca0b35b8f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: eb90cc4ffabeb4171bb590ca4de1bcf4, type: 2}
+    outcome: {fileID: 11400000, guid: eac99aa53d1e7427f935f6b09ff50b60, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 138df96f562ea40d681a5e5e02706305, type: 2}
+    outcome: {fileID: 11400000, guid: 41a818e042c0a4460833c8ec311ea6ad, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: 911b1cacb2e5a4ba89e80c97aa79a517, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3eae8c6f780c341b594b6772fddcd870, type: 2}
+    outcome: {fileID: 11400000, guid: cadd33771970c4016ad8e366ddedddd6, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d4a024398e68a4b80ba04aa31e263135, type: 2}
+    outcome: {fileID: 11400000, guid: 5b695765ea4544eb084e6cbaf2fdc5f0, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Wine
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 453795f9c9225475d8fac24ad71c9740, type: 2}
+    outcome: {fileID: 11400000, guid: 6c45e6882372445dfaa9b665b860a3e4, type: 2}

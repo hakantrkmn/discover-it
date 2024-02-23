@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Creeper
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 1f82499fd31f944919cdba2f96218fbe, type: 2}
+    outcome: {fileID: 11400000, guid: 74c02fa19a8c24467a521cd846b8e7fd, type: 2}

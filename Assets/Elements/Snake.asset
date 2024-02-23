@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Snake
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9e9c7851954bb4d97bf5cb92d1421523, type: 2}
+    outcome: {fileID: 11400000, guid: 6a3c04d03583d4f4593c94c563299807, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: cb36c1851a03541fcbe7c714006e7d35, type: 2}
+  - mergeWith: {fileID: 11400000, guid: ce4b83c56ae6240b99cdea5211676af5, type: 2}
+    outcome: {fileID: 11400000, guid: 941ab006de90546fdb8ab311f50495a8, type: 2}

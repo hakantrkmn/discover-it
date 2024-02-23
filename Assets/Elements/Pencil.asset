@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Pencil
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3684a2fd2c7ed4e44bb88807e1aebc10, type: 2}
+    outcome: {fileID: 11400000, guid: 88a0d1a9464ba4195828684a407401a8, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d0a129ccd64a04544b34b7199297de5b, type: 2}
+    outcome: {fileID: 11400000, guid: 7903e60a332a84e3390d4dd03ab805db, type: 2}

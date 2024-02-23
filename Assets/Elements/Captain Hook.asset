@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Captain Hook
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9acd399d569404e33ba07bf20c1f9674, type: 2}
+    outcome: {fileID: 11400000, guid: 225076dea1e214d94bd2e0dba26a560f, type: 2}

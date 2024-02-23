@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Peanut
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 21b8f38fc82a84cc8a27bfd30704de4f, type: 2}
+    outcome: {fileID: 11400000, guid: ee7e2813cfc8f46ef9710f6acff02be8, type: 2}

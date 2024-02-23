@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Time Machine
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: f386122381e0643a9aaa6f998236b14e, type: 2}
+    outcome: {fileID: 11400000, guid: 83a3b9539921f497a9f2ff928dee117c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 83a3b9539921f497a9f2ff928dee117c, type: 2}
+    outcome: {fileID: 11400000, guid: 1e0662be54f2c4562a92f92c1058a925, type: 2}
+  - mergeWith: {fileID: 11400000, guid: aa8101829d8f24293a747b305fa0a282, type: 2}
+    outcome: {fileID: 11400000, guid: 88788beb918da41b9972ba314bc86563, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 28d7831294f444206be015e42fc03bad, type: 2}
+    outcome: {fileID: 11400000, guid: 2fab4204851ab405eb71d2ecbcc2c4fc, type: 2}

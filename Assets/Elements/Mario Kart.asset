@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Mario Kart
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 5534f2e29532e4cdc8d7010d23e41048, type: 2}
+    outcome: {fileID: 11400000, guid: 80bbace37134f4674a61404fbb3693f7, type: 2}

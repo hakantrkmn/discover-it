@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: China
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 5aa908afe9ca14fa4aff2798e3a8fc05, type: 2}
+    outcome: {fileID: 11400000, guid: 742bc03e22139431181c1f82a2064658, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 557b79e6116244d429e6615b58883cef, type: 2}
+    outcome: {fileID: 11400000, guid: 815fab73f9f364a5f8507ea198b299bd, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9e440db016cc445e6a7f5f59d3dcff25, type: 2}
+    outcome: {fileID: 11400000, guid: c4a04217f9ce24ef6a06fdcb620de386, type: 2}

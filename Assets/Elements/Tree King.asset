@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Tree King
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 0287ac2c251a6499ea29fa49e0bfe999, type: 2}
+    outcome: {fileID: 11400000, guid: 6d173b92a448a41c283097a117c3391e, type: 2}

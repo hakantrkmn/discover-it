@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Geek
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 89f89c6452df7491fbf83f3f4b09edb8, type: 2}
+    outcome: {fileID: 11400000, guid: fa44ac983699f4403bd6759a02dbab2e, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Health
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 93c3350f922584c4f983553788fa26fd, type: 2}
+    outcome: {fileID: 11400000, guid: e7d43d6b5c8854bd0b0b8507e34649fe, type: 2}

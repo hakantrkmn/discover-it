@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Wood
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: d77fed93b67eb424896394ca6b5cf68d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6ea6b261ca19f47d6a0d187d3e2fc1ee, type: 2}
+    outcome: {fileID: 11400000, guid: fc08ac76e249e47fca693b8e197ff157, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 65e899eeec63d4090a16c6a6b112eb8b, type: 2}
+    outcome: {fileID: 11400000, guid: a477583f5dcec4c0d943a79362973bd8, type: 2}

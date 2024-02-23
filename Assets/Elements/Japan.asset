@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Japan
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9f40b8f269a9b4ffcadb0b64604cf7b9, type: 2}
+    outcome: {fileID: 11400000, guid: d4a024398e68a4b80ba04aa31e263135, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 224c170f4c63d40b3bfa6be8c18cc815, type: 2}
+    outcome: {fileID: 11400000, guid: b4da9d0d1abbb4cc899719ec0cbe2e4c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b1bef977b6f75463aabc9cf72319d1f1, type: 2}
+    outcome: {fileID: 11400000, guid: 025ceb601f8664f1088aac1f46537a66, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9f40b8f269a9b4ffcadb0b64604cf7b9, type: 2}
+    outcome: {fileID: 11400000, guid: 5b695765ea4544eb084e6cbaf2fdc5f0, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9f40b8f269a9b4ffcadb0b64604cf7b9, type: 2}
+    outcome: {fileID: 11400000, guid: d4a024398e68a4b80ba04aa31e263135, type: 2}

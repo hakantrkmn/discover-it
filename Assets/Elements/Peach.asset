@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Peach
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 5dad01121be1d4c0984bbd243ee224b2, type: 2}
+    outcome: {fileID: 11400000, guid: a2e00548f60c34e758e5c180174ec07e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: fc70dfe42b88a42b0922da1eeab2f3f1, type: 2}
+    outcome: {fileID: 11400000, guid: 31f4e53220c7943b8af3c1ca0601d03a, type: 2}

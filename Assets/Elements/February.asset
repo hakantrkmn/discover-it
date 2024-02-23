@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: February
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: ce59c1981314c4591882de2f25367cdb, type: 2}
+  - mergeWith: {fileID: 11400000, guid: ce8f0852be92d4305803eb0a5cf82a47, type: 2}
+    outcome: {fileID: 11400000, guid: aa8101829d8f24293a747b305fa0a282, type: 2}

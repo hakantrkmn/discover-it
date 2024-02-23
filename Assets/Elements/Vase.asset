@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Vase
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 498f3121255d541f5997b8e093d7d8f6, type: 2}
+    outcome: {fileID: 11400000, guid: 5dde715aa619143788c2d55ea70fc5ba, type: 2}

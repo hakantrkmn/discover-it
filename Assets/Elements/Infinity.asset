@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Infinity
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 81629d4875f544c6b8a20fcbf51dd78a, type: 2}
+    outcome: {fileID: 11400000, guid: 93bb5af085eb04617be32cdc0b426334, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 258262456d1c3436ca56edad3b49b091, type: 2}
+    outcome: {fileID: 11400000, guid: c3f9794b03e5f4712ad8e43bedb25ee5, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b884d4b9c4c914f19b79431cc1085132, type: 2}
+    outcome: {fileID: 11400000, guid: 3cb7a2dbc7bf4481fa7d9b1f56cb7aea, type: 2}

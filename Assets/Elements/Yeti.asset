@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Yeti
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: eac787fea52f340c9b3539adae9487c3, type: 2}
+    outcome: {fileID: 11400000, guid: 30cb88d49e00440efa627225145a3fb6, type: 2}

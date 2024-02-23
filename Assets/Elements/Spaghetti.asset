@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Spaghetti
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 49afc175df01046a29a8b79615bf4e63, type: 2}
+    outcome: {fileID: 11400000, guid: 050abcde873c24e2c92c79eaa9680a74, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4dfbb65a8ac694d75a124f3ea93f041a, type: 2}
+    outcome: {fileID: 11400000, guid: dd6664184c18d412c83b80c16329c0a0, type: 2}

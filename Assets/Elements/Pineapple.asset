@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Pineapple
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 50e1520bc624546eb9f4d56ede571fa5, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 1ee005e66aef74b29a5bb3b5dbf50f02, type: 2}
+    outcome: {fileID: 11400000, guid: 27adddc9481b743be929bff47f158444, type: 2}
+  - mergeWith: {fileID: 11400000, guid: bf2c66d166a034538a9defc84cedfe72, type: 2}
+    outcome: {fileID: 11400000, guid: 26e4b47231aa445e19c1492b27bd1ea1, type: 2}
+  - mergeWith: {fileID: 11400000, guid: dadcf973ea50e47f6acf2aa65a77d0f9, type: 2}
+    outcome: {fileID: 11400000, guid: 82e457da8e23e40cabdb2d9a5aa8bc21, type: 2}

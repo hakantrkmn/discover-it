@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Calendar
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 2f5065f281fe44df4951e5aed82d06a8, type: 2}
+    outcome: {fileID: 11400000, guid: 0abd3050be82649858f0368858f5e415, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 725fd498e0d614bd79ef7428e5b4f410, type: 2}
+    outcome: {fileID: 11400000, guid: d7c401be754fc4babb929c0b882661d6, type: 2}

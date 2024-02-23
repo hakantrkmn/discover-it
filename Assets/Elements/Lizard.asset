@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Lizard
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 4479ade8b05d54877940e8e3df0b5016, type: 2}
+    outcome: {fileID: 11400000, guid: 29200d302d4154de69974b71c64e0838, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: 9dbc30d6b126148dfadeee67c1ecd4a6, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9faa9c3eb1ceb4d80889219ecdce00a5, type: 2}
+    outcome: {fileID: 11400000, guid: 5bd8b99934cbb4fbea3eaa84b7f7991c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d32300182beb14adcb6f228892c4047c, type: 2}
+    outcome: {fileID: 11400000, guid: 252d6cb22022649dba125e67e6bfc097, type: 2}

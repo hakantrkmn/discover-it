@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Bear
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 1130c8e1b3bde4ba9902f5e8f53b4b96, type: 2}
+    outcome: {fileID: 11400000, guid: 697e980c6256f4cb090d94dc2ad44744, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 2482b0780788042eba06d4770705cc45, type: 2}
+    outcome: {fileID: 11400000, guid: bd97ba1df13cc410b8f5721be6920b1b, type: 2}

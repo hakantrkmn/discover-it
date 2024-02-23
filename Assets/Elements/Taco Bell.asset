@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Taco Bell
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: acecba6546d9b477ba9fa1e9e86d20d4, type: 2}
+    outcome: {fileID: 11400000, guid: 16465412c07914b35b30cefd29dedeb3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3d5abb248b04d4f56a18802acbef7fc0, type: 2}
+    outcome: {fileID: 11400000, guid: 93c3350f922584c4f983553788fa26fd, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Smell
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 4ae32af25e80c44f0977490bc4999d22, type: 2}
+    outcome: {fileID: 11400000, guid: 01cc638aff38b4b9b81f6fdcd153845b, type: 2}

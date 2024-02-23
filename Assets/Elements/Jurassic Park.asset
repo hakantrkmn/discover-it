@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Jurassic Park
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e7b25334c955341d386b0b378b6a7f5f, type: 2}
+    outcome: {fileID: 11400000, guid: eeeabaca5732343ebb706bb0d9ac058b, type: 2}

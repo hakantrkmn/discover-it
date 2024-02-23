@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Palace
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 64a29f8abc9424b5eb6c3eb6e811c6f6, type: 2}
+    outcome: {fileID: 11400000, guid: c0085081096b648d3ae2c24abe840899, type: 2}
+  - mergeWith: {fileID: 11400000, guid: f9613afa40ae841199571e1bc215cd89, type: 2}
+    outcome: {fileID: 11400000, guid: 469c75c2342d343c091271a4f43dd02c, type: 2}

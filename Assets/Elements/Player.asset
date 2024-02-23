@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Player
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 4a781176917ce42cbb2c6432934e60f1, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4a781176917ce42cbb2c6432934e60f1, type: 2}
+    outcome: {fileID: 11400000, guid: ad794fc5187764af9869e7d5574e74dc, type: 2}
+  - mergeWith: {fileID: 11400000, guid: aa8101829d8f24293a747b305fa0a282, type: 2}
+    outcome: {fileID: 11400000, guid: f4e08dc27663a41588642f00c539f622, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Joy
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ce16caea976954a6db8875635d579b04, type: 2}
+    outcome: {fileID: 11400000, guid: 51f92377a7ef142f8a4e83625573dabb, type: 2}

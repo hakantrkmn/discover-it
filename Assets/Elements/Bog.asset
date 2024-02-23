@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Bog
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 21765574eb80f4b53a7d21aeeca17915, type: 2}
+    outcome: {fileID: 11400000, guid: 76277f528432e44809e644b3c70996bb, type: 2}

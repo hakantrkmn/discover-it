@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Mario
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 2d01e879b237240cf9a9126c644c2eb4, type: 2}
+    outcome: {fileID: 11400000, guid: 987d9abc8ba544dc7b2294f248dffd80, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c05944a38d1df4e4499fa85698c40193, type: 2}
+    outcome: {fileID: 11400000, guid: 3bccff867d057494f9bc34916fd8128e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c2e17e3068c6f4f4c964fd7f389231d6, type: 2}
+    outcome: {fileID: 11400000, guid: 12cd2eebcb54f420f8acfbf2c3ae78f4, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3bccff867d057494f9bc34916fd8128e, type: 2}
+    outcome: {fileID: 11400000, guid: 2b6b00dffec96470487104889e9bb10f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: bbccd4651511e491eb3c8105898580d3, type: 2}
+    outcome: {fileID: 11400000, guid: fbfe5bb74c4274bd79136d50f5bedcf0, type: 2}

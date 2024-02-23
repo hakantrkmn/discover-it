@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Race
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 2dbe46411eb5346d0a7074cd6dbbc650, type: 2}
+    outcome: {fileID: 11400000, guid: b6108fff20cf34965ac7991659c5248a, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: fb09a833b18fd4e67895b932381f76f6, type: 2}

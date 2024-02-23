@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Tomb
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 72cf95a0a17dc4ab7aa9dcb360037447, type: 2}
+    outcome: {fileID: 11400000, guid: ce4b83c56ae6240b99cdea5211676af5, type: 2}

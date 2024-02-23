@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Santa
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 0126b292c35814b6882aff14ff1f7e25, type: 2}
+    outcome: {fileID: 11400000, guid: cf603d6968c714fcb92dbcaf816e069e, type: 2}

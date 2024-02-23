@@ -58,6 +58,7 @@ public class ReadFile : EditorWindow
                 outcome = previousElement
             };
             element.mergeTable.Add(mergeTable);
+            EditorUtility.SetDirty(element);
             AssetDatabase.SaveAssets();
         }
 

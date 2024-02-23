@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Arnold Palmer
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 1130c8e1b3bde4ba9902f5e8f53b4b96, type: 2}
+    outcome: {fileID: 11400000, guid: b73d0d1896f8f45298e6e6fa04dd508f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0ce540460f52348f787c28454e7af091, type: 2}
+    outcome: {fileID: 11400000, guid: 4c97879a3b3664335849943dfe4e8dfb, type: 2}

@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Pizza
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 2762e3b92855c4d5ea209453dc132dbd, type: 2}
+    outcome: {fileID: 11400000, guid: 863e8af0e105b44d6980f0a25c1eac3d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 863e8af0e105b44d6980f0a25c1eac3d, type: 2}
+    outcome: {fileID: 11400000, guid: 8f1e99710f0fd4ef2b39bf5b3b132d7c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 736fd272ba53e40ca8863902a4c9b78e, type: 2}
+    outcome: {fileID: 11400000, guid: c3739a599e4ed468ca9b5ce1cb85033e, type: 2}

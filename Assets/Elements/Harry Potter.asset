@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Harry Potter
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 5583c0c8794084578af6c534636eeeec, type: 2}
+    outcome: {fileID: 11400000, guid: c9383b528f4134457b08ed91d31d045c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3feece38c1bf64978a4ae813ea6e2bc2, type: 2}
+    outcome: {fileID: 11400000, guid: b7602ec4ef0c24a31bc19ede3a7266e7, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5ab100979024f4d7c86577b28d694b7b, type: 2}
+    outcome: {fileID: 11400000, guid: c2e72048b705345f499dd608d51b819e, type: 2}

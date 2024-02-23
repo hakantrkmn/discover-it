@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Avengers
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3cb7a2dbc7bf4481fa7d9b1f56cb7aea, type: 2}
+    outcome: {fileID: 11400000, guid: 8a1073f9aded14e95b77a796e3a6dd58, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 8a1073f9aded14e95b77a796e3a6dd58, type: 2}
+    outcome: {fileID: 11400000, guid: c6e2b9fc49bb74ff1bcdfc7c65b9124e, type: 2}

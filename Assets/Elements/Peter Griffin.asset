@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Peter Griffin
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 5f7271a8c73fd4ca4aad774be3629f54, type: 2}
+    outcome: {fileID: 11400000, guid: 006993b0033f44a888b661ab7f057794, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6f4c10430e8b84705b17b6736456f8bd, type: 2}
+    outcome: {fileID: 11400000, guid: 6aaed79b88df149c49ad20ecb1715c60, type: 2}
+  - mergeWith: {fileID: 11400000, guid: f9613afa40ae841199571e1bc215cd89, type: 2}
+    outcome: {fileID: 11400000, guid: 0becab1ed2e0d45c187166614f84bddf, type: 2}

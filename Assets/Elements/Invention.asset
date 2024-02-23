@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Invention
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: 911c2dc4296474c5ba14c70b080fedf1, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 709dd50dfca7544d7bc9e6d0abaa17cf, type: 2}
+    outcome: {fileID: 11400000, guid: fda93e1a7e8224cc6b670635f8c8a88d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 709dd50dfca7544d7bc9e6d0abaa17cf, type: 2}
+    outcome: {fileID: 11400000, guid: fda93e1a7e8224cc6b670635f8c8a88d, type: 2}

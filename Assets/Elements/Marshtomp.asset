@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Marshtomp
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 6ee27a0a788a34c15b4e26e55da65a07, type: 2}
+    outcome: {fileID: 11400000, guid: 01f501bdc8ac243a8a206259a7f4db6f, type: 2}

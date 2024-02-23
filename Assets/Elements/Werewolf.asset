@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Werewolf
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: fa1c3b9269d044cd8b075748c3afa784, type: 2}
+    outcome: {fileID: 11400000, guid: 8e0d4f472cbe446b7bc50a391e952f27, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Laser
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ad2a220fe0df04e5bafe66770fb259a3, type: 2}
+    outcome: {fileID: 11400000, guid: 1e178a55070844a478e2eb724c53000f, type: 2}

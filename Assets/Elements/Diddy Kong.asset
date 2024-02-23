@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Diddy Kong
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 84980b555732c41b8af1ef3dd1f46dfb, type: 2}
+    outcome: {fileID: 11400000}

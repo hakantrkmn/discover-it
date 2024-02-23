@@ -14,4 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Car
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3b6da6355b13c4cc1b9e66ae98aad03e, type: 2}
+    outcome: {fileID: 11400000, guid: 498f3121255d541f5997b8e093d7d8f6, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 65e899eeec63d4090a16c6a6b112eb8b, type: 2}
+    outcome: {fileID: 11400000, guid: cb91e99ee3f384e89aba54656f921952, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 42000379e392c4f0088d2d8a9d800aab, type: 2}
+    outcome: {fileID: 11400000, guid: 07d99cb547b284b339513947112b879a, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: d8f8a03b7538247caa2d201e669b55ce, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 81629d4875f544c6b8a20fcbf51dd78a, type: 2}
+    outcome: {fileID: 11400000, guid: 82f506c9284d2495aa98aeb635a8d954, type: 2}
+  - mergeWith: {fileID: 11400000, guid: a84dad20f49c04ec1a779627377a1c60, type: 2}
+    outcome: {fileID: 11400000, guid: d8f8a03b7538247caa2d201e669b55ce, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Poker
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 8e2850f04113d4045b72de298e804009, type: 2}
+    outcome: {fileID: 11400000, guid: e625cdfac70814d21bb2c01fb0a5d790, type: 2}

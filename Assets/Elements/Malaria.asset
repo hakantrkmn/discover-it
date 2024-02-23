@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Malaria
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 73d0d530bc10b4dd4af96ec49c04d2f5, type: 2}
+    outcome: {fileID: 11400000, guid: a465829efa9ad4fa496ca7dee6ce1481, type: 2}

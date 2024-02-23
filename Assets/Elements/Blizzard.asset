@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Blizzard
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 6f36aad9ef0fe44eab4bc91785022fac, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 81cd8f7e33986431b9d32a9d51247581, type: 2}
+    outcome: {fileID: 11400000, guid: bacb0a0e005ac4bb3aa5eba43f1d1ad1, type: 2}
+  - mergeWith: {fileID: 11400000, guid: cf6614d64417c46f0b1edd558b1ced67, type: 2}
+    outcome: {fileID: 11400000, guid: d5f1d41a18bad4c45965ca70e6330e2d, type: 2}

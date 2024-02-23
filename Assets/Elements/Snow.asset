@@ -14,4 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Snow
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 16e11f9abaac546e9863c08f0c2e95d9, type: 2}
+    outcome: {fileID: 11400000, guid: e1028e38606164972a94bad5eaf6d061, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: f0491d845cce742e5ac201347b25f17d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0b3d6135691f34acf9ef069897106ead, type: 2}
+    outcome: {fileID: 11400000, guid: dbd29b8bd9c0747ecbc2401eeea53c2f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 8cc3ef2bd0dd2416ab9b9cba65f12dc0, type: 2}
+    outcome: {fileID: 11400000, guid: c056d102d02fa44b3a96a7bc388cd6d3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3360c6f9870f6447b8e6156cfcde5121, type: 2}
+    outcome: {fileID: 11400000, guid: 8879ccce91dd243b2ac8f1355bbaac39, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 709dd50dfca7544d7bc9e6d0abaa17cf, type: 2}
+    outcome: {fileID: 11400000, guid: e1028e38606164972a94bad5eaf6d061, type: 2}

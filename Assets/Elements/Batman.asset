@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Batman
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: b04f5e1b2147d4dd28e8f69a7db81e23, type: 2}
+    outcome: {fileID: 11400000, guid: d98ffb0a96e6b478fb7b3b37a88c605e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6c16b34edb2b64bcca4bff968954d83e, type: 2}
+    outcome: {fileID: 11400000, guid: c0edc8efd0c7f4016b1c55da3a73c0a3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 66561a3ca856d464d8d8d6493d1d882c, type: 2}
+    outcome: {fileID: 11400000, guid: 4a3f5d66467054e4f89687c5a8375359, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3720ae496fc514e74b7101fb8aa0aba5, type: 2}
+    outcome: {fileID: 11400000, guid: dd8b4b03651104db2819df68f91fe17b, type: 2}

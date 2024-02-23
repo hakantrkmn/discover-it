@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Lightsaber
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 5e3057c8edc2344fd9f851b36fd6e89a, type: 2}
+    outcome: {fileID: 11400000, guid: 5ab5507d2ac144a97be77df593b58b49, type: 2}

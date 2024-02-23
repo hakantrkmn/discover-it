@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Century
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 5bab9e09b780b4009acd7e7ea2ea335e, type: 2}
+    outcome: {fileID: 11400000, guid: 6925273aa13e1450e97e9331d1c29441, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 5bab9e09b780b4009acd7e7ea2ea335e, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Winter
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 149c9ae823a1244e2a75b3638f36a9fc, type: 2}
+    outcome: {fileID: 11400000, guid: 9db91270b78064294bf8b21471099584, type: 2}

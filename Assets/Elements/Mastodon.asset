@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Mastodon
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ac5d14e61d5a2466e9cb622aee53670b, type: 2}
+    outcome: {fileID: 11400000, guid: bf477c767a5514e2dbcd380fa8b8a497, type: 2}

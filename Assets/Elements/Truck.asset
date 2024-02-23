@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Truck
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 84980b555732c41b8af1ef3dd1f46dfb, type: 2}
+    outcome: {fileID: 11400000, guid: 6f248c889ce494c3693d2725c39e4671, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6f248c889ce494c3693d2725c39e4671, type: 2}
+    outcome: {fileID: 11400000, guid: 6f2f5da4bf0374046a792cb0219dc5f3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3244b70d022594c6b84c7c8ca0b35b8f, type: 2}
+    outcome: {fileID: 11400000, guid: a1b7524c907284c30a360403df449498, type: 2}

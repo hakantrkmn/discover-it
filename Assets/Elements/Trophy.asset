@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Trophy
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 71a81779735a74475ba977d621ed4cdc, type: 2}
+    outcome: {fileID: 11400000, guid: 01b422f76251b4079abfdbc4d385d570, type: 2}

@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Wall
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 919cc930a1a4e4729a5c1a0d361c5ecf, type: 2}
+    outcome: {fileID: 11400000, guid: ac89aae32b8d44112a15139849729122, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 110dbfc1bdb1041039ef78ed4abc22b5, type: 2}
+    outcome: {fileID: 11400000, guid: 0b3d6135691f34acf9ef069897106ead, type: 2}

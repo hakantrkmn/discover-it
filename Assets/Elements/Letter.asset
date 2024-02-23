@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Letter
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 392433a0221884fdbbd275f07f29b271, type: 2}
+    outcome: {fileID: 11400000, guid: 3403130bc1ca942538acfb94f5843ae8, type: 2}
+  - mergeWith: {fileID: 11400000, guid: bdc046e8b0ca04a0bbb9c9e8e9c16ccb, type: 2}
+    outcome: {fileID: 11400000, guid: edd38a462e5644d57800ff6c293b31d8, type: 2}

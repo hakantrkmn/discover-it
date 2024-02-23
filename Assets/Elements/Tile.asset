@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Tile
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 6ea6b261ca19f47d6a0d187d3e2fc1ee, type: 2}
+  - mergeWith: {fileID: 11400000, guid: e5bdffe4a6a4242759d33d77f3660144, type: 2}
+    outcome: {fileID: 11400000, guid: 91f7ebdab17854c3b9175c9f1ff92725, type: 2}

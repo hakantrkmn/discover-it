@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Oasis
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: f5798ec394a88440da92895063913662, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0b3d6135691f34acf9ef069897106ead, type: 2}
+    outcome: {fileID: 11400000, guid: 8a8d49c897b3b4651b6f7246da0426fd, type: 2}

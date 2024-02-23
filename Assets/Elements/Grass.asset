@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Grass
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9faa9c3eb1ceb4d80889219ecdce00a5, type: 2}
+    outcome: {fileID: 11400000, guid: 0ce540460f52348f787c28454e7af091, type: 2}

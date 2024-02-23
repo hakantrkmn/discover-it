@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Lake
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 6f4c10430e8b84705b17b6736456f8bd, type: 2}
+    outcome: {fileID: 11400000, guid: 59dc7b053f22a4f8a9c528a113fc1c8e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: 34a44feed9499436c89384e6b5a8f96f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 709dd50dfca7544d7bc9e6d0abaa17cf, type: 2}
+    outcome: {fileID: 11400000, guid: bf2c66d166a034538a9defc84cedfe72, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c5909b62a761c4cb2bfcfb11925def71, type: 2}
+    outcome: {fileID: 11400000, guid: 85be832ff34b345e3b3c25d9f2ccc626, type: 2}

@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Alcohol
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: c2f9f956021ae41769ccba1fb0e58bc1, type: 2}
+    outcome: {fileID: 11400000, guid: bbaf7111880b3425fa41c92515570506, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c9c615126bf9444d5a89549f9a6a7e6c, type: 2}
+    outcome: {fileID: 11400000, guid: c7bd5351e918e4a578b4081898bfb25e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 278d8f292ba6e4159b66b1a0ac43840a, type: 2}
+    outcome: {fileID: 11400000, guid: 819c7a169d15448de96feb67d42d3402, type: 2}

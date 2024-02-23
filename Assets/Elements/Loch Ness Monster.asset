@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Loch Ness Monster
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 8655677f8d9bc49a28f482ae73ec1b4b, type: 2}
+    outcome: {fileID: 11400000, guid: 62b3ae344a6014313ab2101139923d5d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 8655677f8d9bc49a28f482ae73ec1b4b, type: 2}
+    outcome: {fileID: 11400000, guid: 62b3ae344a6014313ab2101139923d5d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c9e508f4835df40e78d1c374e92ff11f, type: 2}
+    outcome: {fileID: 11400000, guid: 8655677f8d9bc49a28f482ae73ec1b4b, type: 2}

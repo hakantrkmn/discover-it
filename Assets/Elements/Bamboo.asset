@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Bamboo
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 56b1318b2bc064bf18ee38955e0d5607, type: 2}
+  - mergeWith: {fileID: 11400000, guid: bafa2d6f5548049ddaa904859b49e4b4, type: 2}
+    outcome: {fileID: 11400000, guid: 494496625cdca4fe7976042c29243234, type: 2}

@@ -14,4 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Sick
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 85bfa8ac7c3334502a656f39eef51a09, type: 2}
+    outcome: {fileID: 11400000, guid: 13228ecdf1cc54e4083b2310976534f7, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 85bfa8ac7c3334502a656f39eef51a09, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 09ad304e1939742b3935b47850034aa2, type: 2}
+    outcome: {fileID: 11400000, guid: 195a67c26c545446b85a68e1d4c9dc63, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 13228ecdf1cc54e4083b2310976534f7, type: 2}
+    outcome: {fileID: 11400000, guid: 509d9a0eb7bf04ca5822749a46a66497, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d3ac5f479c22a4622a39b3fc89def84c, type: 2}
+    outcome: {fileID: 11400000, guid: 246bb165dcfe44d7fbb0b6c4c59e8aea, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b399dfdd705234d79af09ed7072d73b6, type: 2}
+    outcome: {fileID: 11400000, guid: 278d8f292ba6e4159b66b1a0ac43840a, type: 2}

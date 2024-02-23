@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Supermarket
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3b2585bb9eaa84b67acacb0daf71dcec, type: 2}
+    outcome: {fileID: 11400000, guid: ae01acca11a0a4e8bb30baea19fb5ff6, type: 2}

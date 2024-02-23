@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Packer
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ce8f0852be92d4305803eb0a5cf82a47, type: 2}
+    outcome: {fileID: 11400000, guid: df5130cecee644ae5b40805bdab22132, type: 2}

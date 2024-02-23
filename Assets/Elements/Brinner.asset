@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Brinner
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: acecba6546d9b477ba9fa1e9e86d20d4, type: 2}
+    outcome: {fileID: 11400000, guid: 5c35e2059e1564c48a0a634b723919de, type: 2}

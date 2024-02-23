@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Castle
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 8a8d49c897b3b4651b6f7246da0426fd, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 1130c8e1b3bde4ba9902f5e8f53b4b96, type: 2}
+    outcome: {fileID: 11400000, guid: ca3baa8db9405441fa8b8af3351fdaf3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 1130c8e1b3bde4ba9902f5e8f53b4b96, type: 2}
+    outcome: {fileID: 11400000, guid: ca3baa8db9405441fa8b8af3351fdaf3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c7bd5351e918e4a578b4081898bfb25e, type: 2}
+    outcome: {fileID: 11400000, guid: 2268e250bc0424056b88bbf84082faf9, type: 2}

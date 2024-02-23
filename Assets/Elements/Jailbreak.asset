@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Jailbreak
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9e9c7851954bb4d97bf5cb92d1421523, type: 2}
+    outcome: {fileID: 11400000, guid: 7726cecc15d7440e38210d0840d90ab3, type: 2}

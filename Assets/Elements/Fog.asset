@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Fog
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: d3f795051e67047ceb3bbe4ed7f578a7, type: 2}
+    outcome: {fileID: 11400000, guid: 72d8da0498d464c23ae283287dcd16b1, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 114b3e2270bdc4bcaa34229cd7fa2be6, type: 2}
+    outcome: {fileID: 11400000, guid: 5ca06b393d6e54bc0bd0d1db878f0ada, type: 2}

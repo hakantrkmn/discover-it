@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Earthquake
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 94ef62e255f9e46d6b4c2e743b583873, type: 2}
+    outcome: {fileID: 11400000, guid: 50bf0b63849f14f30a6f2ea4f5a3289e, type: 2}

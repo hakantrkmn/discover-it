@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Lamp
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: a3d66e08d37db4fbdb9fb9469281d2af, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d6a5563e9463248248579994b69300bb, type: 2}
+    outcome: {fileID: 11400000, guid: 20d6ab25734b74b66918a19f890703f0, type: 2}

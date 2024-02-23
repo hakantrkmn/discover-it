@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: New York
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 57fe9523dec504de383718f11ec3ef94, type: 2}
+    outcome: {fileID: 11400000, guid: e5d52f2e105f946aea7b668932f38799, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 494496625cdca4fe7976042c29243234, type: 2}
+    outcome: {fileID: 11400000, guid: 7dddf319a95b14e79b3e29c459ec37fc, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3f5baa0cde55e4f18ba20d2c1367ca4e, type: 2}
+    outcome: {fileID: 11400000, guid: be011177879354f6db99466fc4f109ce, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d91ce65aa1ab24477ac04fe2b63548e7, type: 2}
+    outcome: {fileID: 11400000, guid: 967a7318a62d041b092252736ba65206, type: 2}

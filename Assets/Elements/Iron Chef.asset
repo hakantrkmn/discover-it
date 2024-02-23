@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Iron Chef
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 2843cd568eea545acb0c669f157ff843, type: 2}
+    outcome: {fileID: 11400000, guid: 53ea17bf28a4d4aa1808a2c9f6b75d9f, type: 2}

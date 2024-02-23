@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Seaweed
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: c5909b62a761c4cb2bfcfb11925def71, type: 2}
+    outcome: {fileID: 11400000, guid: 911b1cacb2e5a4ba89e80c97aa79a517, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 21765574eb80f4b53a7d21aeeca17915, type: 2}
+    outcome: {fileID: 11400000, guid: 5f7271a8c73fd4ca4aad774be3629f54, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Mars
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: cf6614d64417c46f0b1edd558b1ced67, type: 2}
+    outcome: {fileID: 11400000, guid: f34aaab3e6fe64379916c8e8b78b5830, type: 2}

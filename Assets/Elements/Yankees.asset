@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Yankees
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 1130c8e1b3bde4ba9902f5e8f53b4b96, type: 2}
+    outcome: {fileID: 11400000, guid: f95518650f2f243ce9764ba5984f9912, type: 2}

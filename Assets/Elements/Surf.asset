@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Surf
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 8cc3ef2bd0dd2416ab9b9cba65f12dc0, type: 2}
+    outcome: {fileID: 11400000, guid: b2c9fcf0b1a7a40be83dab040def08f8, type: 2}

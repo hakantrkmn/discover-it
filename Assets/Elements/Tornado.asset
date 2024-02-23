@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Tornado
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 62bb449f826a046d9a14432b765dcb14, type: 2}
+    outcome: {fileID: 11400000, guid: 3d5abb248b04d4f56a18802acbef7fc0, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 05ad185768db6448fa840b9790522d9e, type: 2}
+    outcome: {fileID: 11400000, guid: c241683b59d60474ab93bad6d29d75da, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b80642163f0a64be09cbb93fe1b77204, type: 2}
+    outcome: {fileID: 11400000, guid: 5bbf6e08e0eb745348514e65f640eecf, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: 62bb449f826a046d9a14432b765dcb14, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 89f748dd6808a4e5db8926ceff13fd50, type: 2}
+    outcome: {fileID: 11400000, guid: def26ea136fbe45dc863580155af63e8, type: 2}

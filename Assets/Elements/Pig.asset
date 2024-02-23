@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Pig
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: 9c4f5c6e3988042e482640ae48c30144, type: 2}
+  - mergeWith: {fileID: 11400000, guid: af7ad4587e88f4a3394065ad31f1ca13, type: 2}
+    outcome: {fileID: 11400000, guid: 974ce638dc4da449f908b1e6d598762d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: 9c4f5c6e3988042e482640ae48c30144, type: 2}

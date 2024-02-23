@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: King Kong
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 6137d1cbff36f49588a43d72fc77769e, type: 2}
+    outcome: {fileID: 11400000, guid: 2dbe46411eb5346d0a7074cd6dbbc650, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 907ae26c2edfa4788b4e86499a3a53f8, type: 2}
+    outcome: {fileID: 11400000, guid: ac5d14e61d5a2466e9cb622aee53670b, type: 2}

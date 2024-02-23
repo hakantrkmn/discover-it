@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Gondor
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 6f4c10430e8b84705b17b6736456f8bd, type: 2}
+    outcome: {fileID: 11400000, guid: 25f8eb30207dc46c8b6204e8c3df79a6, type: 2}

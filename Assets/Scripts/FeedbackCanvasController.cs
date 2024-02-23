@@ -57,9 +57,9 @@ public class FeedbackCanvasController : MonoBehaviour
     void UpdateMission()
     {
         var data = Scriptable.LevelElementData();
-        currentMissionElement = data.GetUndiscoveredElement();
+        //currentMissionElement = data.GetUndiscoveredElement();
         var remain = data.GetCraftedElementAmount();
-        missionText.text = "Discovered " + remain+"/1521";
+        missionText.text = "Discovered " + remain+"/1532";
     }
 
    

@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Sunday
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e35c38f574f004ff29a017f2cc9eab7e, type: 2}
+    outcome: {fileID: 11400000, guid: 258262456d1c3436ca56edad3b49b091, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 73b56f52aa9934dc3afb64731e1c50f2, type: 2}

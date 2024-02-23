@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Space
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 114b3e2270bdc4bcaa34229cd7fa2be6, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6a975db21f6604fb0939a40fd251f0d4, type: 2}
+    outcome: {fileID: 11400000, guid: ba5c4225108eb4b47863efb2b4269f4f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: 6a975db21f6604fb0939a40fd251f0d4, type: 2}

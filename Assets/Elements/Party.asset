@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Party
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 004eaec6b7730424f83b50a7ccbeba0b, type: 2}
+    outcome: {fileID: 11400000, guid: edabf1f2f0e504bc5a99e7d9d7f5abb9, type: 2}

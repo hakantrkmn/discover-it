@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Indigo
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ef697ce5eccc4400a8c7b594b886cdf7, type: 2}
+    outcome: {fileID: 11400000, guid: 4479ade8b05d54877940e8e3df0b5016, type: 2}

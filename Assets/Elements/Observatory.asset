@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Observatory
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 35d7926011c1d45ddb68cdeeb185b923, type: 2}
+    outcome: {fileID: 11400000, guid: 5b2e3982d28954392913738152326d85, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Pegasus
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 81dc54e46c1a74c56b661bb4e003fe62, type: 2}
+    outcome: {fileID: 11400000, guid: 39c2aedc5e8b34d87b2d03d24ae6f799, type: 2}

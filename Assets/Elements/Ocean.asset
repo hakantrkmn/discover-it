@@ -14,4 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Ocean
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: ca7c144e765b240d8827ae7bacb5fceb, type: 2}
+  - mergeWith: {fileID: 11400000, guid: ca7c144e765b240d8827ae7bacb5fceb, type: 2}
+    outcome: {fileID: 11400000, guid: 9e3ded2c19f634ce684c225a1480991d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4ae32af25e80c44f0977490bc4999d22, type: 2}
+    outcome: {fileID: 11400000, guid: 45750c10b69a3481f992ee7dc0de5af8, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: b116a642a24d64ef785571581fb03698, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 45750c10b69a3481f992ee7dc0de5af8, type: 2}
+    outcome: {fileID: 11400000, guid: e3d0a6e1b878f413eb9cc9eff1b808e8, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 82e457da8e23e40cabdb2d9a5aa8bc21, type: 2}
+    outcome: {fileID: 11400000, guid: 258262456d1c3436ca56edad3b49b091, type: 2}

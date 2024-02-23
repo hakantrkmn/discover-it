@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Cryptozoology
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e3d0a6e1b878f413eb9cc9eff1b808e8, type: 2}
+    outcome: {fileID: 11400000, guid: f9613afa40ae841199571e1bc215cd89, type: 2}

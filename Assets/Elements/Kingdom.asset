@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Kingdom
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 64a29f8abc9424b5eb6c3eb6e811c6f6, type: 2}
+    outcome: {fileID: 11400000, guid: 89f57059b6740435bad62fb43e5570d7, type: 2}

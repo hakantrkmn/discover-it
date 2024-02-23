@@ -14,4 +14,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Dragon
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 6fb66dd2302da46a69712aba69c5058c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 1130c8e1b3bde4ba9902f5e8f53b4b96, type: 2}
+    outcome: {fileID: 11400000, guid: 806e91f87bcd845afadf67a318cf6075, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 113ca6eb53d4e4f08a8288acf5cfee91, type: 2}
+    outcome: {fileID: 11400000, guid: eac787fea52f340c9b3539adae9487c3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: bbccd4651511e491eb3c8105898580d3, type: 2}
+    outcome: {fileID: 11400000, guid: a9769bfaa4bb444dc9b126c696f7b4cd, type: 2}
+  - mergeWith: {fileID: 11400000, guid: bbccd4651511e491eb3c8105898580d3, type: 2}
+    outcome: {fileID: 11400000, guid: a9769bfaa4bb444dc9b126c696f7b4cd, type: 2}
+  - mergeWith: {fileID: 11400000, guid: bbccd4651511e491eb3c8105898580d3, type: 2}
+    outcome: {fileID: 11400000, guid: a9769bfaa4bb444dc9b126c696f7b4cd, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d3f795051e67047ceb3bbe4ed7f578a7, type: 2}
+    outcome: {fileID: 11400000, guid: bbccd4651511e491eb3c8105898580d3, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 6fb66dd2302da46a69712aba69c5058c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 45b224d77e47140eea3161086bf82e9f, type: 2}
+    outcome: {fileID: 11400000, guid: 0a25cf8bb331f4cd28fa4bd8b466bb38, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 08a453a5ae03c48e7959108fd6341e71, type: 2}
+    outcome: {fileID: 11400000, guid: 350f0548f277a4d80b0c1020c8492769, type: 2}

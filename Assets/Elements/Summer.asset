@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Summer
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 2165588d0022c4c1686ec15e1138d2d3, type: 2}
+    outcome: {fileID: 11400000, guid: 2bafae53999fd4b8891036431360be69, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 149c9ae823a1244e2a75b3638f36a9fc, type: 2}
+    outcome: {fileID: 11400000, guid: ca7b834009768425fa4189c879058083, type: 2}
+  - mergeWith: {fileID: 11400000, guid: cf6614d64417c46f0b1edd558b1ced67, type: 2}
+    outcome: {fileID: 11400000, guid: 4eab44e1d017f485aa1d2af663bf78f3, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Kung Fu Panda
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e38ea1cdb994848689d4a071881ef028, type: 2}
+    outcome: {fileID: 11400000, guid: 5ef34ce91626d413f8e902550f6cf526, type: 2}

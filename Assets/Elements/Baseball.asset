@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Baseball
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e5d52f2e105f946aea7b668932f38799, type: 2}
+    outcome: {fileID: 11400000, guid: a259b38921e9b422c89e298e2d767985, type: 2}
+  - mergeWith: {fileID: 11400000, guid: a259b38921e9b422c89e298e2d767985, type: 2}
+    outcome: {fileID: 11400000, guid: daa8bf62db5f6415fbe33254755dbdb4, type: 2}
+  - mergeWith: {fileID: 11400000, guid: e49c033399e3840b187a79dff23ef548, type: 2}
+    outcome: {fileID: 11400000, guid: dad45960d67fe4433907ae0ae0e3a5da, type: 2}

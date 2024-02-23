@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Antarctica
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3720ae496fc514e74b7101fb8aa0aba5, type: 2}
+    outcome: {fileID: 11400000, guid: 32d098336228d4c2fa3fc49c74284652, type: 2}

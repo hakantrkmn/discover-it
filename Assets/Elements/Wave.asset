@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Wave
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 811461308ba4947b69f3aeb1bfb6d75c, type: 2}
+    outcome: {fileID: 11400000, guid: 54f21182dc36342918b813bcb454058a, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 224c170f4c63d40b3bfa6be8c18cc815, type: 2}
+    outcome: {fileID: 11400000, guid: 3c77cc0d230c44a95b33853a2b171bbe, type: 2}

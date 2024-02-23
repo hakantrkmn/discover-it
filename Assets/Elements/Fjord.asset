@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Fjord
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 5aa908afe9ca14fa4aff2798e3a8fc05, type: 2}
+    outcome: {fileID: 11400000, guid: 28d7831294f444206be015e42fc03bad, type: 2}
+  - mergeWith: {fileID: 11400000, guid: ba5c4225108eb4b47863efb2b4269f4f, type: 2}
+    outcome: {fileID: 11400000, guid: ef79fb34c0f6a4895817c4486674c09b, type: 2}

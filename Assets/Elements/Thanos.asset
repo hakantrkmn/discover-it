@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Thanos
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9ac952980d84249d8943b0efcc267ac3, type: 2}
+    outcome: {fileID: 11400000, guid: 5d50b30d3f2b844daa419d7b0608ecbc, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 81629d4875f544c6b8a20fcbf51dd78a, type: 2}
+    outcome: {fileID: 11400000, guid: 8d60698215e29425c84977e6cdc0b041, type: 2}
+  - mergeWith: {fileID: 11400000, guid: eba3c9b63d0ea48aeaad9a80926006cd, type: 2}
+    outcome: {fileID: 11400000, guid: c0efc58d7a38a4e07ba7ea1c950aad67, type: 2}

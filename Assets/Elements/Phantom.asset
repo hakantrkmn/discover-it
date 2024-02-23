@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Phantom
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 72d8da0498d464c23ae283287dcd16b1, type: 2}
+    outcome: {fileID: 11400000, guid: 081dc239af448401996d7ddab310150d, type: 2}

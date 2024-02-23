@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Nemo
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3f5baa0cde55e4f18ba20d2c1367ca4e, type: 2}
+    outcome: {fileID: 11400000, guid: e3d0a6e1b878f413eb9cc9eff1b808e8, type: 2}

@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Stadium
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 634d3fd27a64144eaa7a0e81e92b4b14, type: 2}
+    outcome: {fileID: 11400000, guid: 6153ba4fe32b848a89e4563fd5b692d3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5af481e2b5be64d39a9789869c7298de, type: 2}
+    outcome: {fileID: 11400000, guid: 042f7f8ea082248b78e68b4191e033aa, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 81629d4875f544c6b8a20fcbf51dd78a, type: 2}
+    outcome: {fileID: 11400000, guid: 634d3fd27a64144eaa7a0e81e92b4b14, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 042f7f8ea082248b78e68b4191e033aa, type: 2}
+    outcome: {fileID: 11400000, guid: 00a64fd1179e94e5aadbf6e4d29d4de4, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 00a64fd1179e94e5aadbf6e4d29d4de4, type: 2}
+    outcome: {fileID: 11400000, guid: ce8f0852be92d4305803eb0a5cf82a47, type: 2}

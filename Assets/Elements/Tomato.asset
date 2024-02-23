@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Tomato
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 48612caa325d4453bab2fc14432f6fc4, type: 2}
+    outcome: {fileID: 11400000, guid: e77462dba752f46a89b903b9c48f2096, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 48612caa325d4453bab2fc14432f6fc4, type: 2}
+    outcome: {fileID: 11400000, guid: e77462dba752f46a89b903b9c48f2096, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: 30c960179ecf14328889225dc49be5cf, type: 2}

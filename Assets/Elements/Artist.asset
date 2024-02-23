@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Artist
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 86b56e3d993014ad9bd7e4bb4e35e7a8, type: 2}
+    outcome: {fileID: 11400000, guid: f7979560df4374f029f521ada9e08de3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: f7979560df4374f029f521ada9e08de3, type: 2}
+    outcome: {fileID: 11400000, guid: 53218605075d54fc2be4eb23c20e4ffa, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: 5d6a212988c6344c88f0b910b9435eb6, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b04f5e1b2147d4dd28e8f69a7db81e23, type: 2}
+    outcome: {fileID: 11400000, guid: e99443f9ffc88434886feddd5c55a797, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Ultra
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 8a10c26ea1c1548ebac86b8240f0af0c, type: 2}
+    outcome: {fileID: 11400000, guid: 4173036ff7f2c4c32a0fa7051cec61ea, type: 2}

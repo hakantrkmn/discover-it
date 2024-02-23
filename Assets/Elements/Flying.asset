@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Flying
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 8b072047ae98342959196190ef004b24, type: 2}
+    outcome: {fileID: 11400000, guid: 735a0cda1db254eb8a553c19d76d6681, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c4ce7cf4538f846eba91b7c2e9b1dd14, type: 2}
+    outcome: {fileID: 11400000, guid: c349182fe471041b9a2b0829f07d0600, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3e9674c7ac06a4d30a88926e33b7f5c4, type: 2}
+    outcome: {fileID: 11400000, guid: 9b5f0ad401c7044e4863f5500f7db23d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3bb7b6163b9e447b182402735be8586d, type: 2}
+    outcome: {fileID: 11400000, guid: a8e56f116fc7e447e8ccb63293d487fd, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9b5f0ad401c7044e4863f5500f7db23d, type: 2}
+    outcome: {fileID: 11400000, guid: 844db051ef0c04cb69e39a1e48afceb3, type: 2}

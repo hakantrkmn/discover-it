@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Venus
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 192f32a28a0ad4aa59086595ff04aa05, type: 2}
+    outcome: {fileID: 11400000, guid: c8235bfc61cc546e0b083417de41b516, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 73710e01c16944b718d8d0cecd748b71, type: 2}
+    outcome: {fileID: 11400000, guid: 37ddd2a58ea6b46a0874cb53b59f8913, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6f4c10430e8b84705b17b6736456f8bd, type: 2}
+    outcome: {fileID: 11400000, guid: 3e9674c7ac06a4d30a88926e33b7f5c4, type: 2}

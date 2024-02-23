@@ -14,4 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Rain
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9faa9c3eb1ceb4d80889219ecdce00a5, type: 2}
+    outcome: {fileID: 11400000, guid: 50d94003c2dde44aca824711a2d82542, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3d5abb248b04d4f56a18802acbef7fc0, type: 2}
+    outcome: {fileID: 11400000, guid: 0d44dbdc7c64b46cd8ad8e04e3bd7a10, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c9c615126bf9444d5a89549f9a6a7e6c, type: 2}
+    outcome: {fileID: 11400000, guid: 75cada74ccd174f2487fdb3c754f0b6c, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: f52b28d72fb584f328f1e86d8bf9c645, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 941477889118b47b69f699456208e363, type: 2}
+    outcome: {fileID: 11400000, guid: 3360c6f9870f6447b8e6156cfcde5121, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: f52b28d72fb584f328f1e86d8bf9c645, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 95d23a7af0aad4964b275c9acd9fe4a0, type: 2}
+    outcome: {fileID: 11400000, guid: daeb80355b3b14d94aa5cb7dfbbbd1b2, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 86b56e3d993014ad9bd7e4bb4e35e7a8, type: 2}
+    outcome: {fileID: 11400000, guid: e881e00cc364e46d2862ff85462e1222, type: 2}

@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Empire
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9f40b8f269a9b4ffcadb0b64604cf7b9, type: 2}
+    outcome: {fileID: 11400000, guid: a183b970a571142e990fd0debc0ebe25, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9f40b8f269a9b4ffcadb0b64604cf7b9, type: 2}
+    outcome: {fileID: 11400000, guid: a183b970a571142e990fd0debc0ebe25, type: 2}

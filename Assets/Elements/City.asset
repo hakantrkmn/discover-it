@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: City
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 379596be71ec44cc68a91acf5d416505, type: 2}
+    outcome: {fileID: 11400000, guid: 2ed239033cff0413e9eb74c874c351dc, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: f80f6b687650246598ad74271a25f58e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 84980b555732c41b8af1ef3dd1f46dfb, type: 2}
+    outcome: {fileID: 11400000, guid: 3b6da6355b13c4cc1b9e66ae98aad03e, type: 2}

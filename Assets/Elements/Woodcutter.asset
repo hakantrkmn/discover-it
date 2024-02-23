@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Woodcutter
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 7b35a6e1dd37c4b88acd6ee576876821, type: 2}
+    outcome: {fileID: 11400000, guid: 7c2bb3389a83a472b8b2992c2dad0ee8, type: 2}

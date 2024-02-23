@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Plutonium
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 114b3e2270bdc4bcaa34229cd7fa2be6, type: 2}
+    outcome: {fileID: 11400000, guid: 6d078c14dc6f94537b91e76072dbc263, type: 2}

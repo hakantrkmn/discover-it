@@ -14,4 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Time
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 82186fb759608422baefddb340a84aa8, type: 2}
+    outcome: {fileID: 11400000, guid: 7f29d3a5fb0b74b8a98adacdef7bcee2, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 5193269e2e20b4f22aed1106acc92a2c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: e35c38f574f004ff29a017f2cc9eab7e, type: 2}
+    outcome: {fileID: 11400000, guid: 82df2b82dc4504349934ab8a512458bb, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0611363568111440083ff3f177eae256, type: 2}
+    outcome: {fileID: 11400000, guid: e35c38f574f004ff29a017f2cc9eab7e, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 5193269e2e20b4f22aed1106acc92a2c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 276dbbde6737145beaa8ccb419e53755, type: 2}
+    outcome: {fileID: 11400000, guid: 9573eff405c24401da9844c771d0ba32, type: 2}

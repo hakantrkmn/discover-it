@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Wizard
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 7ed1e883f64c04c46ae52ffa803e99c7, type: 2}
+    outcome: {fileID: 11400000, guid: 120fb73b40300457b9796de29ff1164d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: ed701ac56014243ec94bc43ceddecf69, type: 2}
+    outcome: {fileID: 11400000, guid: 28165c28a7af94114a61af1c7d72880d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: eac787fea52f340c9b3539adae9487c3, type: 2}
+    outcome: {fileID: 11400000, guid: 834a6bff8a8d14942908e39dba9fd458, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Hollywood
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9f40b8f269a9b4ffcadb0b64604cf7b9, type: 2}
+    outcome: {fileID: 11400000, guid: d4b0c5193fcb040ca8f28b21d12e0ad3, type: 2}

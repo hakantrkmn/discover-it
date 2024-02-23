@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Flood
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 86b56e3d993014ad9bd7e4bb4e35e7a8, type: 2}
+    outcome: {fileID: 11400000, guid: 40ac1618e7fdc4a0299757e850353343, type: 2}

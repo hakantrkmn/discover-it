@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Moana
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: f34aaab3e6fe64379916c8e8b78b5830, type: 2}
+    outcome: {fileID: 11400000, guid: 6b6b6112b1da644abab0fed121a023ef, type: 2}

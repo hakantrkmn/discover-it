@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Statue
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3f5baa0cde55e4f18ba20d2c1367ca4e, type: 2}
+    outcome: {fileID: 11400000, guid: dbdd0c875374b4434a4e100a436598eb, type: 2}
+  - mergeWith: {fileID: 11400000, guid: f80f6b687650246598ad74271a25f58e, type: 2}
+    outcome: {fileID: 11400000, guid: 361a941a1daff4205988e449a647a5c6, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 258262456d1c3436ca56edad3b49b091, type: 2}
+    outcome: {fileID: 11400000, guid: b4255dc3cc2814f439451e8f2c6b1adc, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7237581b7d17148f4ac4e4a57739055e, type: 2}
+    outcome: {fileID: 11400000, guid: f8731181e55474fbdbbc9f479bd1e665, type: 2}

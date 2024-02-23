@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Knight
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 1130c8e1b3bde4ba9902f5e8f53b4b96, type: 2}
+    outcome: {fileID: 11400000, guid: f6381dc35590d40609d73f33726178f5, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 174129995d2444d92914fe3dc9248eeb, type: 2}
+    outcome: {fileID: 11400000, guid: 6c16b34edb2b64bcca4bff968954d83e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 81629d4875f544c6b8a20fcbf51dd78a, type: 2}
+    outcome: {fileID: 11400000, guid: ad2a220fe0df04e5bafe66770fb259a3, type: 2}

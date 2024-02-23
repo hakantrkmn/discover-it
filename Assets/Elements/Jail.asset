@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Jail
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: ee9c121ef45e34fa3a7dbbc3cb7758be, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 28c00397a0f2d4514a88919535fb280b, type: 2}
+    outcome: {fileID: 11400000, guid: 1d31cd63546a240ddb1709e04e8f9701, type: 2}

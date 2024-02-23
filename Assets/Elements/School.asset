@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: School
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9081a6978f3bf4211bc4afad1ec3b8d7, type: 2}
+    outcome: {fileID: 11400000, guid: 545a384aea8b842af86ff1dc3ab45170, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 430bb8fbe82b1406595d08b4d5b2d8a9, type: 2}
+    outcome: {fileID: 11400000, guid: a8e39dbc48f3b44c794eaaf98ea52b20, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0413d893720b045f5991c18faa819539, type: 2}
+    outcome: {fileID: 11400000, guid: c5b7728b241874f4cb01fd5ca8a7fc75, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 813510025f6e343adbfb9046b3e6a9a0, type: 2}

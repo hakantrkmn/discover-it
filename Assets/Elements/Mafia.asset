@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Mafia
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 26b506417834445cb9368ee9117bcf7a, type: 2}
+    outcome: {fileID: 11400000, guid: 7e30b4d46dd2f4134a17dd3d9509abe2, type: 2}

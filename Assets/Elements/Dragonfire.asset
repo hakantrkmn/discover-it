@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Dragonfire
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: c5909b62a761c4cb2bfcfb11925def71, type: 2}
+    outcome: {fileID: 11400000, guid: b80642163f0a64be09cbb93fe1b77204, type: 2}

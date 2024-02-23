@@ -14,4 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Game of Thrones
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: eac787fea52f340c9b3539adae9487c3, type: 2}
+    outcome: {fileID: 11400000, guid: b08a2a7ef122b4ed3a49a75a0f8615c6, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b08a2a7ef122b4ed3a49a75a0f8615c6, type: 2}
+    outcome: {fileID: 11400000, guid: 84ad163fa0d2a4b24b0b129f8a065074, type: 2}
+  - mergeWith: {fileID: 11400000, guid: aa4fdac18a69b4e789492412f90bd4a5, type: 2}
+    outcome: {fileID: 11400000, guid: a46973cb3051245df81cb4d5a2e333c9, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 19aecf26fb742440588a77920a561891, type: 2}
+    outcome: {fileID: 11400000, guid: f8d78a63c34ca41f0843bcc2f0a7757d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 270ed57721026407b873ce48124331ec, type: 2}
+    outcome: {fileID: 11400000, guid: 14090468a60c8427596a7de092501c8c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 174129995d2444d92914fe3dc9248eeb, type: 2}
+    outcome: {fileID: 11400000, guid: 0221dce64f7094c76bca5d1fd60fe348, type: 2}

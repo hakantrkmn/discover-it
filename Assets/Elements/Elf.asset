@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Elf
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 91d9793dd241c4b82a05aae4c3141064, type: 2}
+    outcome: {fileID: 11400000, guid: b1d7d360ff5564ad1b527aa10cb2b136, type: 2}

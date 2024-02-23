@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Cyberpunk
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9e9c7851954bb4d97bf5cb92d1421523, type: 2}
+    outcome: {fileID: 11400000, guid: 9bdfc02aba0634f07bf582770aab9d9b, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 8d6fe1067b9ed4f96966c235ec375696, type: 2}
+    outcome: {fileID: 11400000, guid: 9a8e4feab4e7a40239f629a5573546e0, type: 2}
+  - mergeWith: {fileID: 11400000, guid: e37ec047bdda941f8b6f81e1621b2e33, type: 2}
+    outcome: {fileID: 11400000, guid: d7e13aa3ddfda4f93b10b751825ebdc5, type: 2}
+  - mergeWith: {fileID: 11400000, guid: bfb01d7801f4540ea8ca3d0c63abf652, type: 2}
+    outcome: {fileID: 11400000, guid: 589d10972da694d0da3d537f27265847, type: 2}

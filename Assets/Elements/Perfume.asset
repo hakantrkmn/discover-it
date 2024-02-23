@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Perfume
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: d2f75a5b09a614b47ac191281c8f8c61, type: 2}
+    outcome: {fileID: 11400000, guid: 779c908449899489bb412f7246ac7297, type: 2}

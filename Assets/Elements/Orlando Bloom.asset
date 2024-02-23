@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Orlando Bloom
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: b04c5d18a007340d081e825865840fb6, type: 2}
+    outcome: {fileID: 11400000, guid: 522ea45076ce64bdfa5a0666af384c84, type: 2}

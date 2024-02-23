@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Herd
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: a8e56f116fc7e447e8ccb63293d487fd, type: 2}
+    outcome: {fileID: 11400000, guid: 08f079d215f3c438c94c7195bbf3fd1a, type: 2}

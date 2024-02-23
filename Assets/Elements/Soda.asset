@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Soda
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 7237581b7d17148f4ac4e4a57739055e, type: 2}
+    outcome: {fileID: 11400000, guid: 5eb39918415414da78125d8fe1abb1be, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 30fe7c08d274546ec94744c33dc4eae9, type: 2}
+    outcome: {fileID: 11400000, guid: f510a803f349d443f91fd6154fda8ffd, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 28748bc106ffb43c985d9d25747b2585, type: 2}
+    outcome: {fileID: 11400000, guid: 6e9c3ed3077bf4690a1b792e1c5df54e, type: 2}

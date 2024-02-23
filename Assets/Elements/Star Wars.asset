@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Star Wars
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e5c9d6f58748047a59d41cc1d609321b, type: 2}
+    outcome: {fileID: 11400000, guid: eaba900bde5de4954b9cce0497d5d8bb, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 88fae426108b7451dae83d0578d95985, type: 2}
+    outcome: {fileID: 11400000, guid: 98804bc6de27c42d99788b4691163ca6, type: 2}

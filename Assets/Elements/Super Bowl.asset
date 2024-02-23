@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Super Bowl
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 81cd8f7e33986431b9d32a9d51247581, type: 2}
+    outcome: {fileID: 11400000, guid: b14d8e9d724264747ba35aeac264944d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: f98780db207d94a5bbd53a477959917b, type: 2}
+    outcome: {fileID: 11400000, guid: 9e5f787243d324b55af8cbd35eeec897, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6130b3784569748ada8cf6d607b19693, type: 2}
+    outcome: {fileID: 11400000, guid: 13bab066de042477d87783d74de4a246, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9e5f787243d324b55af8cbd35eeec897, type: 2}
+    outcome: {fileID: 11400000, guid: 5895763a6744241dd820271e80546f6e, type: 2}

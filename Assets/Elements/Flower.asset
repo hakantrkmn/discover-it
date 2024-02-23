@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Flower
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 8636327a4782c4863af0a28a913f939b, type: 2}
+    outcome: {fileID: 11400000, guid: 268ef30904c0949229492d82a1c57598, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 88eb5c4bef9cf4c08a0e7a8b470a0c11, type: 2}
+    outcome: {fileID: 11400000, guid: 1da9cc44fcac8499288db0ff8e4f6b04, type: 2}

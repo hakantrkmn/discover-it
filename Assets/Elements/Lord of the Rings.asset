@@ -14,4 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Lord of the Rings
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ad2a220fe0df04e5bafe66770fb259a3, type: 2}
+    outcome: {fileID: 11400000, guid: 84a2d4994f6c8416db5eb7fbae191a52, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 94ef62e255f9e46d6b4c2e743b583873, type: 2}
+    outcome: {fileID: 11400000, guid: c0a23177a33bc432aadd4c24ceca5d55, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 81cd8f7e33986431b9d32a9d51247581, type: 2}
+    outcome: {fileID: 11400000, guid: d34d630e244334e44a612f924f07e06a, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 8a8d49c897b3b4651b6f7246da0426fd, type: 2}
+    outcome: {fileID: 11400000, guid: 7b01935828a8940949ec08adfc683df0, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0b3d6135691f34acf9ef069897106ead, type: 2}
+    outcome: {fileID: 11400000, guid: aa6300b64ec3c4dc5bd3ee4e781e6910, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b1d7d360ff5564ad1b527aa10cb2b136, type: 2}
+    outcome: {fileID: 11400000, guid: 912a9c292e07d4b68995439940bb61bc, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d34d630e244334e44a612f924f07e06a, type: 2}
+    outcome: {fileID: 11400000, guid: 9b1d9d1a3393646909a6595cf4fa1b42, type: 2}

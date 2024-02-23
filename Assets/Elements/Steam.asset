@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Steam
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 6bfc3783b40744c0f8dc1efd97305a73, type: 2}
+    outcome: {fileID: 11400000, guid: 45a251dadd0d444c6a508ed92dd848f7, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 59dc7b053f22a4f8a9c528a113fc1c8e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3360c6f9870f6447b8e6156cfcde5121, type: 2}
+    outcome: {fileID: 11400000, guid: cf6614d64417c46f0b1edd558b1ced67, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c9c615126bf9444d5a89549f9a6a7e6c, type: 2}
+    outcome: {fileID: 11400000, guid: ecbcf3a7271d24053947113806250b92, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c2f9f956021ae41769ccba1fb0e58bc1, type: 2}
+    outcome: {fileID: 11400000, guid: c1fa4fb769d49426f934615f1f7e2c44, type: 2}

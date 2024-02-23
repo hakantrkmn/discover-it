@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Temple
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 8d18cf8b22cc449d98012c6e77cb45c9, type: 2}
+    outcome: {fileID: 11400000, guid: 2ffa75e1226ab491db878b5402fc75c2, type: 2}

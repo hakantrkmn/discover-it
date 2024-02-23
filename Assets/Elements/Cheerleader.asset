@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Cheerleader
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 00a64fd1179e94e5aadbf6e4d29d4de4, type: 2}
+    outcome: {fileID: 11400000, guid: 214a744eaa14748148dd505066fb947e, type: 2}

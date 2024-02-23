@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Sun
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 779c908449899489bb412f7246ac7297, type: 2}
+    outcome: {fileID: 11400000, guid: 2d6076cb2f92c4a67ac59c58cb9378cf, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4401a8d63603e4b6daa81a66a8b41c83, type: 2}
+    outcome: {fileID: 11400000, guid: ba5c4225108eb4b47863efb2b4269f4f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9f40b8f269a9b4ffcadb0b64604cf7b9, type: 2}
+    outcome: {fileID: 11400000, guid: c34d5eb3d7bd249f9a28f0d3e52fdb69, type: 2}

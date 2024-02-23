@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Doctor Who
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 6c841c73fb8054b1c9b989bcd8902748, type: 2}
+    outcome: {fileID: 11400000, guid: cfb942c284230491cbf9facb11cf865b, type: 2}

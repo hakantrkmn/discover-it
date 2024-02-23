@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Hulk
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e4d21c9e153c34a05b2b110e2da4978b, type: 2}
+    outcome: {fileID: 11400000, guid: 33c3d8ebd76ed4349a13bad37be0b807, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 1c8d65b5975e74fb9a206dd64b7a6cbe, type: 2}
+    outcome: {fileID: 11400000, guid: 1f3dfaf6403a24c668cf068b4d2baf88, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9d76625c1797b46488f661963a0ad0cc, type: 2}
+    outcome: {fileID: 11400000, guid: 35e9c44464cbb42feaec27c8a88b7612, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3d5abb248b04d4f56a18802acbef7fc0, type: 2}
+    outcome: {fileID: 11400000, guid: 6cb797a97581e463e8b1330b2b6cb8e8, type: 2}

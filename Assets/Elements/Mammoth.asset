@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Mammoth
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 907ae26c2edfa4788b4e86499a3a53f8, type: 2}
+    outcome: {fileID: 11400000, guid: c0c53827005f74507be34b31a947b09f, type: 2}

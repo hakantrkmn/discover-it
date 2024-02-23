@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Darth Vader
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 91f2f61bc40f44db6a433469798e6f07, type: 2}
+    outcome: {fileID: 11400000, guid: 25c1244b0055447e7b38243d0d9ed98f, type: 2}

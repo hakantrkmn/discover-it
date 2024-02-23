@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Picasso
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: a477583f5dcec4c0d943a79362973bd8, type: 2}
+    outcome: {fileID: 11400000, guid: 01318412b378f4a6ab2f051cc2a0dec7, type: 2}

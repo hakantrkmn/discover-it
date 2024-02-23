@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Professor
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: fa44ac983699f4403bd6759a02dbab2e, type: 2}
+    outcome: {fileID: 11400000, guid: 0e97babbf1b404c41b45c3c670a67d41, type: 2}

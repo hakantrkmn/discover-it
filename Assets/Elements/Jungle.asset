@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Jungle
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: d696534b9ec164a0f992b19a266c727b, type: 2}
+    outcome: {fileID: 11400000, guid: 24cf47cdb680a48f78c5bf4339dc7ce3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4ae32af25e80c44f0977490bc4999d22, type: 2}
+    outcome: {fileID: 11400000, guid: 2898e6d79269e4cebaebea2ce54dc589, type: 2}

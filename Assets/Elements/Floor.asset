@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Floor
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: c7fa22e3ddb89475584e74814dfa81e5, type: 2}
+    outcome: {fileID: 11400000, guid: 9081a6978f3bf4211bc4afad1ec3b8d7, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c7fa22e3ddb89475584e74814dfa81e5, type: 2}
+    outcome: {fileID: 11400000, guid: 9081a6978f3bf4211bc4afad1ec3b8d7, type: 2}

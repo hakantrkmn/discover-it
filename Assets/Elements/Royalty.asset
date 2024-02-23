@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Royalty
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: c8235bfc61cc546e0b083417de41b516, type: 2}
+    outcome: {fileID: 11400000, guid: 113ca6eb53d4e4f08a8288acf5cfee91, type: 2}

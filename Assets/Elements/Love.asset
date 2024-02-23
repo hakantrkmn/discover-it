@@ -14,4 +14,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Love
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: be2fbadfd091244a0be21bacca03602c, type: 2}
+    outcome: {fileID: 11400000, guid: 0cd1f0f3e6aa34eb39458792e9d68e5f, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 7f65e38c38c7b40a3ade5859e421db31, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: 6220fefc35c1b443bb921dae71e8bb53, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6220fefc35c1b443bb921dae71e8bb53, type: 2}
+    outcome: {fileID: 11400000, guid: 8460141beb0134df5b79337285d936f8, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6220fefc35c1b443bb921dae71e8bb53, type: 2}
+    outcome: {fileID: 11400000, guid: 8460141beb0134df5b79337285d936f8, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7f65e38c38c7b40a3ade5859e421db31, type: 2}
+    outcome: {fileID: 11400000, guid: 5583c0c8794084578af6c534636eeeec, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0b2abf18aa2334ef4975807cc7959d89, type: 2}
+    outcome: {fileID: 11400000, guid: 3feece38c1bf64978a4ae813ea6e2bc2, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 557b79e6116244d429e6615b58883cef, type: 2}
+    outcome: {fileID: 11400000, guid: d4cbce45d57ee4c63bf1a28ffda5105c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: 6220fefc35c1b443bb921dae71e8bb53, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 65e899eeec63d4090a16c6a6b112eb8b, type: 2}
+    outcome: {fileID: 11400000, guid: 7ec132dda9c914bfb925869702ab3c2a, type: 2}

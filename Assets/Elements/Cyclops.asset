@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Cyclops
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 469c75c2342d343c091271a4f43dd02c, type: 2}
+    outcome: {fileID: 11400000, guid: 2b90dd947e25b46d8b9c73ea1d26247e, type: 2}

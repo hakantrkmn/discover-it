@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Dirt
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: b6549bca5afd845639b2861bba3abf8c, type: 2}
+    outcome: {fileID: 11400000, guid: efa6fb3b1e50e410d8b8c99ff5e785a2, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 8d18cf8b22cc449d98012c6e77cb45c9, type: 2}
+    outcome: {fileID: 11400000, guid: 8f04e656b36934cc2b9e253bb9a0b2cd, type: 2}

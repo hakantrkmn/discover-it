@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Meal
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 8460141beb0134df5b79337285d936f8, type: 2}
+    outcome: {fileID: 11400000, guid: 2207b6993651f4f53b0edaf5fe4208b6, type: 2}

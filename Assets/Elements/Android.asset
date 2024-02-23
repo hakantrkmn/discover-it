@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Android
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 025ceb601f8664f1088aac1f46537a66, type: 2}
+    outcome: {fileID: 11400000, guid: 86c2d6f6fe7ba4d42be347bc9d49e096, type: 2}

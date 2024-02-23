@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Bamboo Forest
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: b80642163f0a64be09cbb93fe1b77204, type: 2}
+    outcome: {fileID: 11400000, guid: bafa2d6f5548049ddaa904859b49e4b4, type: 2}

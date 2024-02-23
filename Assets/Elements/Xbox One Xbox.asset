@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Xbox One Xbox
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: b0717d251f67f4834a2cc01f6d0239bf, type: 2}
+    outcome: {fileID: 11400000, guid: 6130b3784569748ada8cf6d607b19693, type: 2}

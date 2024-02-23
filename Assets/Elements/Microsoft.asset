@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Microsoft
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 58622e5710309472fb8c4114e4317d57, type: 2}
+    outcome: {fileID: 11400000, guid: 854874a9e666a4b0dbee41b39f85c748, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9cdb6314a4582475db9a80e0c7d4f1d9, type: 2}
+    outcome: {fileID: 11400000, guid: 4ef53a80ae9164124bffe173989c15bb, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c241683b59d60474ab93bad6d29d75da, type: 2}
+    outcome: {fileID: 11400000, guid: 58622e5710309472fb8c4114e4317d57, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 81cd8f7e33986431b9d32a9d51247581, type: 2}
+    outcome: {fileID: 11400000, guid: b0717d251f67f4834a2cc01f6d0239bf, type: 2}

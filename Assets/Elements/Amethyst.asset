@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Amethyst
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: edf439e87485b4e609998bcc725c38fd, type: 2}
+    outcome: {fileID: 11400000, guid: 8d2f4fd314df84a229aea21c9e9a7799, type: 2}

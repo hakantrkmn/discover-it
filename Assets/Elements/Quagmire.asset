@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Quagmire
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 5ca62eb7d85254996a092653c1633b05, type: 2}
+    outcome: {fileID: 11400000, guid: 21765574eb80f4b53a7d21aeeca17915, type: 2}
+  - mergeWith: {fileID: 11400000, guid: f5988e47d8de949dc80fc2e3cb7b8726, type: 2}
+    outcome: {fileID: 11400000, guid: a23c7a449b58948379ca8bef63ae7e4d, type: 2}

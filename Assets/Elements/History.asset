@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: History
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: eba3c9b63d0ea48aeaad9a80926006cd, type: 2}
+    outcome: {fileID: 11400000, guid: 824f9f59047b349dab643e4d7217bebd, type: 2}

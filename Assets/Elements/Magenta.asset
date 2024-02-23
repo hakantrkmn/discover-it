@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Magenta
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: fc70dfe42b88a42b0922da1eeab2f3f1, type: 2}
+    outcome: {fileID: 11400000, guid: 204caf7b2fb0244ac8bd0cd7db28050e, type: 2}

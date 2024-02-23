@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Telescope
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 93f720a86dac7413d9b3a2440bbc8b94, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 311b8b0d73cc94b048ac38077f47b4dd, type: 2}
+    outcome: {fileID: 11400000, guid: 3502ffde43e52483aad10169de2e3d6f, type: 2}

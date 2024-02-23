@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Zombie Mangrove
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: facef803dfc2b437bbabfac6159af2a7, type: 2}
+    outcome: {fileID: 11400000, guid: bd288eb69d8814072b4fea80c8aca4fc, type: 2}

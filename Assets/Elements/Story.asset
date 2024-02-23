@@ -14,4 +14,28 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Story
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9d5e7a3409e814ef3ba70dc5be26ba16, type: 2}
+    outcome: {fileID: 11400000, guid: 1dd1b8ceb54b644cbb3a3bc2e431ef47, type: 2}
+  - mergeWith: {fileID: 11400000, guid: be59138c6e82447f8b67d8ae98a45efa, type: 2}
+    outcome: {fileID: 11400000, guid: 9f20ae429fe174d11b461cb827a71a4e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5dad01121be1d4c0984bbd243ee224b2, type: 2}
+    outcome: {fileID: 11400000, guid: 2ec57f128666f4480835e99e1d5c4d4d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 32b46869628404bd5b9d6b6975f6716a, type: 2}
+    outcome: {fileID: 11400000, guid: c32daf249b14c45abade8d937af532d9, type: 2}
+  - mergeWith: {fileID: 11400000, guid: f5798ec394a88440da92895063913662, type: 2}
+    outcome: {fileID: 11400000, guid: ff8727bb6a8c5422894f2cba8dc419e1, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b884d4b9c4c914f19b79431cc1085132, type: 2}
+    outcome: {fileID: 11400000, guid: 48094b390e7f841f5a9b1ce8278515ab, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 174129995d2444d92914fe3dc9248eeb, type: 2}
+    outcome: {fileID: 11400000, guid: 2b21c5a64889e4e3880bfb4cb72e766c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: cd4f571fed9b449d4bf828c6398f38f7, type: 2}
+    outcome: {fileID: 11400000, guid: df0ae832ab5284df196a18e9f0166842, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9f20ae429fe174d11b461cb827a71a4e, type: 2}
+    outcome: {fileID: 11400000, guid: 0050ee57ba5ac4aab90759d1ee9ebfd1, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0a135d84248184b369a1cacfea290abe, type: 2}
+    outcome: {fileID: 11400000, guid: f4252a629ce174150a4f4ff46d179b4b, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5534f2e29532e4cdc8d7010d23e41048, type: 2}
+    outcome: {fileID: 11400000, guid: d794e576e06d84494b522b2dc3ab1527, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c0d26692ed2ff4c5cb4847dcea429189, type: 2}
+    outcome: {fileID: 11400000, guid: 1ea31036762e14244bbd1a0194a221e7, type: 2}

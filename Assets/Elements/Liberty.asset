@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Liberty
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 7291ff144e35249fb8ed95f13bdeab9e, type: 2}
+    outcome: {fileID: 11400000, guid: 9f40b8f269a9b4ffcadb0b64604cf7b9, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 270ed57721026407b873ce48124331ec, type: 2}
+    outcome: {fileID: 11400000, guid: 5ad72c2b229354b75820a63b4b44e373, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b04f5e1b2147d4dd28e8f69a7db81e23, type: 2}
+    outcome: {fileID: 11400000, guid: 7291ff144e35249fb8ed95f13bdeab9e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 86b56e3d993014ad9bd7e4bb4e35e7a8, type: 2}
+    outcome: {fileID: 11400000, guid: f8731181e55474fbdbbc9f479bd1e665, type: 2}

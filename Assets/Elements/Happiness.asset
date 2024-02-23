@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Happiness
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: c8d0e498db84643999f69de7bc87994c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3b2585bb9eaa84b67acacb0daf71dcec, type: 2}
+    outcome: {fileID: 11400000, guid: fbaa97e84b7ed4b65b197369e35036d5, type: 2}

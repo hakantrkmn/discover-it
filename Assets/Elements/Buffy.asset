@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Buffy
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 1194f6911f56944b8b397080fd25f114, type: 2}
+    outcome: {fileID: 11400000, guid: cb06e33f8856d4ed7a873fdcfcbf8726, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 48ba031dc63b1472789109f840e4d502, type: 2}
+    outcome: {fileID: 11400000, guid: adc7d90df16274b8a9e81b4b699abd76, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Rome
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 4a784e7ac5a7c457a9c65906352eb1bd, type: 2}
+    outcome: {fileID: 11400000, guid: 22fb6f01134174106920fc18b6afa9ae, type: 2}

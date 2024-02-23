@@ -14,4 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Island
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 5aa908afe9ca14fa4aff2798e3a8fc05, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6206e745ec4644bf5804edd994bac15f, type: 2}
+    outcome: {fileID: 11400000, guid: 983dfed0d94f74271b3a42fc8afedff7, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 88eb5c4bef9cf4c08a0e7a8b470a0c11, type: 2}
+    outcome: {fileID: 11400000, guid: 9ab1a305563574f71a00568381270260, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 88eb5c4bef9cf4c08a0e7a8b470a0c11, type: 2}
+    outcome: {fileID: 11400000, guid: 9ab1a305563574f71a00568381270260, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 88eb5c4bef9cf4c08a0e7a8b470a0c11, type: 2}
+    outcome: {fileID: 11400000, guid: 9ab1a305563574f71a00568381270260, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 5aa908afe9ca14fa4aff2798e3a8fc05, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d3f795051e67047ceb3bbe4ed7f578a7, type: 2}
+    outcome: {fileID: 11400000, guid: 84e11c53cf7904a54a97623de1a6513a, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: c4ce7cf4538f846eba91b7c2e9b1dd14, type: 2}

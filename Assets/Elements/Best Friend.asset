@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Best Friend
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 5b15c9c9ae8174da594c88640d81321f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c8235bfc61cc546e0b083417de41b516, type: 2}
+    outcome: {fileID: 11400000, guid: 3feece38c1bf64978a4ae813ea6e2bc2, type: 2}

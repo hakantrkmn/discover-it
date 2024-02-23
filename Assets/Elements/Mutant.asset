@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Mutant
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3cd8699c3b58b403c8378abb9ce7cab0, type: 2}
+    outcome: {fileID: 11400000, guid: fd71df08343744dcebe82fa7e58ad4db, type: 2}

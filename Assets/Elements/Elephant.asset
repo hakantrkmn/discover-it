@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Elephant
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 2762e3b92855c4d5ea209453dc132dbd, type: 2}
+    outcome: {fileID: 11400000, guid: 9a891f5b1d7414158813ee56020c65e4, type: 2}

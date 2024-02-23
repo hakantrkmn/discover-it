@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Mountain
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: cf6614d64417c46f0b1edd558b1ced67, type: 2}
+    outcome: {fileID: 11400000, guid: d5f1d41a18bad4c45965ca70e6330e2d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b1c2e496ba88c486bb061ba12d0ff8e1, type: 2}
+    outcome: {fileID: 11400000, guid: 85be832ff34b345e3b3c25d9f2ccc626, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 88a0d1a9464ba4195828684a407401a8, type: 2}
+    outcome: {fileID: 11400000, guid: a4cc4847c4f444ee4a4c2bd162896e05, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 224c170f4c63d40b3bfa6be8c18cc815, type: 2}
+    outcome: {fileID: 11400000, guid: 4ae32af25e80c44f0977490bc4999d22, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 1d7357bf93b6b41ec878273aab2f94cd, type: 2}

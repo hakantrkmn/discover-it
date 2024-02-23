@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Chemistry
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e4d21c9e153c34a05b2b110e2da4978b, type: 2}
+    outcome: {fileID: 11400000, guid: 2205556a9b3594b219ca9cc5626d03e2, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9b72ce9d87cd641e8adc37e7383755e5, type: 2}
+    outcome: {fileID: 11400000, guid: 9d61c053b94704f87997f726451ac90f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3b2585bb9eaa84b67acacb0daf71dcec, type: 2}
+    outcome: {fileID: 11400000, guid: 79b00de160dd94fb68fd13bef81bbc15, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 79b00de160dd94fb68fd13bef81bbc15, type: 2}
+    outcome: {fileID: 11400000, guid: f604c52036bc747b6914cd6b4d8ec104, type: 2}

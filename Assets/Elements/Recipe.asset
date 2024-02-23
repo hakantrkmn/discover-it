@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Recipe
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9d2ffa1a9223c45849d7c0a89502e8d5, type: 2}
+    outcome: {fileID: 11400000, guid: 3b14fc10e1e90483688bec4d48011486, type: 2}

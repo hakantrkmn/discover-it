@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Vampire
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: dd8b4b03651104db2819df68f91fe17b, type: 2}
+    outcome: {fileID: 11400000, guid: 88fe9bcad6d864b5db45c2a38f65ecb5, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 57bf650f6d5414c6aa798d16387d25b3, type: 2}
+    outcome: {fileID: 11400000, guid: 000fcb30a565547be9e89cf3d963d621, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9081a6978f3bf4211bc4afad1ec3b8d7, type: 2}
+    outcome: {fileID: 11400000, guid: 8636327a4782c4863af0a28a913f939b, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 736fd272ba53e40ca8863902a4c9b78e, type: 2}
+    outcome: {fileID: 11400000, guid: 37dc74c8a963a4b93ad3fe5baa091ea3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 91d9793dd241c4b82a05aae4c3141064, type: 2}
+    outcome: {fileID: 11400000, guid: 7ec132dda9c914bfb925869702ab3c2a, type: 2}

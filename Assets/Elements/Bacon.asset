@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Bacon
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e77462dba752f46a89b903b9c48f2096, type: 2}
+    outcome: {fileID: 11400000, guid: 8c4f284a9c34045cea1391c2cec1ba90, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: 274840ab70ff1495bbe25f9fd7d96bb9, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 21765574eb80f4b53a7d21aeeca17915, type: 2}
+    outcome: {fileID: 11400000, guid: 602382d46501f4d72b9fb883f240c12b, type: 2}
+  - mergeWith: {fileID: 11400000, guid: f9613afa40ae841199571e1bc215cd89, type: 2}
+    outcome: {fileID: 11400000, guid: 4448d98a19923434ba82c23c23276dfd, type: 2}

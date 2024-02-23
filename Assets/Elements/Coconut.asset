@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Coconut
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 38ac44d5f3b534882a76fcc633a25366, type: 2}
+    outcome: {fileID: 11400000, guid: 2065b0806be7f4c7287eb3f1f565c73a, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 38ac44d5f3b534882a76fcc633a25366, type: 2}

@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Universe
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 94fede71ab70c4b2cb9dd22742ca51b7, type: 2}
+    outcome: {fileID: 11400000, guid: a8afd520b6825471283446d89d3e1c29, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 95980d8b098c74b38901568bde88bee5, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 95980d8b098c74b38901568bde88bee5, type: 2}

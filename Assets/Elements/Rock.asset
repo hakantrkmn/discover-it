@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Rock
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3684a2fd2c7ed4e44bb88807e1aebc10, type: 2}
+    outcome: {fileID: 11400000, guid: f32e2d473ad634f5e96f2b9d747bacb9, type: 2}

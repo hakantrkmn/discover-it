@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Devil
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 195a67c26c545446b85a68e1d4c9dc63, type: 2}
+    outcome: {fileID: 11400000, guid: c37cd143661e54eef931848e86a6289d, type: 2}

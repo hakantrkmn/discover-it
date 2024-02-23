@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Eevee
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 73650e3ae2dd54146b8b029750ace4b9, type: 2}
+    outcome: {fileID: 11400000, guid: cec43d04ad6e14acc86010b453915b37, type: 2}

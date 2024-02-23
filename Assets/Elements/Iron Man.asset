@@ -14,4 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Iron Man
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9d2ffa1a9223c45849d7c0a89502e8d5, type: 2}
+    outcome: {fileID: 11400000, guid: 28b53b1752a06435cbf20646149b41c9, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6be3aa7d340ad410293616d0b786ebdf, type: 2}
+    outcome: {fileID: 11400000, guid: da25d954bdad94853b53f6cfc1dbf2c6, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3d5abb248b04d4f56a18802acbef7fc0, type: 2}
+    outcome: {fileID: 11400000, guid: 6be3aa7d340ad410293616d0b786ebdf, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 2843cd568eea545acb0c669f157ff843, type: 2}
+    outcome: {fileID: 11400000, guid: 2d722d350b8084d99a19096b7301b664, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 2843cd568eea545acb0c669f157ff843, type: 2}
+    outcome: {fileID: 11400000, guid: 2d722d350b8084d99a19096b7301b664, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 81cd8f7e33986431b9d32a9d51247581, type: 2}
+    outcome: {fileID: 11400000, guid: a9cf975b1bf0a450284b61a9338a6143, type: 2}

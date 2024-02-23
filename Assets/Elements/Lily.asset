@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Lily
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 21765574eb80f4b53a7d21aeeca17915, type: 2}
+    outcome: {fileID: 11400000, guid: ce089df86d38f4d90adb3e0f72831799, type: 2}

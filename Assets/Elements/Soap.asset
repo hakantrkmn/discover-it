@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Soap
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: b5577e71751584f93b81edb7aefa1ecc, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 73710e01c16944b718d8d0cecd748b71, type: 2}
+    outcome: {fileID: 11400000, guid: d43ddc9a9823b4f91aad73fe753df820, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 22fb6f01134174106920fc18b6afa9ae, type: 2}
+    outcome: {fileID: 11400000, guid: fb1ddfd50f0ef4cb4ade2c489fae2761, type: 2}

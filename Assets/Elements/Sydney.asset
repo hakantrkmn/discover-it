@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Sydney
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: d5137bd3c1e4d4d9799f3e961db1c852, type: 2}
+    outcome: {fileID: 11400000, guid: 84892668776d04f4ba2a0a2ccadc83ff, type: 2}

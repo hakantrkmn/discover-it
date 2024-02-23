@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Pink
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 28748bc106ffb43c985d9d25747b2585, type: 2}
+    outcome: {fileID: 11400000, guid: 9c215ed550e0c4484b1b4206d2f94ffd, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d204e11bd1293411691ceea6b13f85a4, type: 2}
+    outcome: {fileID: 11400000, guid: 87e3efdece1cd420ebef386a2be841a2, type: 2}

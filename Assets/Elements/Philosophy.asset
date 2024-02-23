@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Philosophy
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 91239c0710a27421b890529da3a9bf91, type: 2}
+    outcome: {fileID: 11400000, guid: 6206e745ec4644bf5804edd994bac15f, type: 2}

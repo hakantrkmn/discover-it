@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Glass
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 25f8eb30207dc46c8b6204e8c3df79a6, type: 2}
+    outcome: {fileID: 11400000, guid: 2a861872e9f454a4987e2da458a61c8f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: c2c355fef21f54ee39b6d85e61e319c2, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0a135d84248184b369a1cacfea290abe, type: 2}
+    outcome: {fileID: 11400000, guid: c3a0bba44d49448e39d11ab872dd51a9, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: d2f75a5b09a614b47ac191281c8f8c61, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: d2f75a5b09a614b47ac191281c8f8c61, type: 2}

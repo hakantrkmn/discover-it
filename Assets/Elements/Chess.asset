@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Chess
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: d4b36daf96f924ed8b9f148b77304336, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d794e576e06d84494b522b2dc3ab1527, type: 2}
+    outcome: {fileID: 11400000, guid: 44174e4f6400f4e1a95b50e09a586f27, type: 2}

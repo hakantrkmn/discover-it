@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Romeo
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 7f65e38c38c7b40a3ade5859e421db31, type: 2}
+    outcome: {fileID: 11400000, guid: e5c17d5bc18de463f8a33a5c36264340, type: 2}

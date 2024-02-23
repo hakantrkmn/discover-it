@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Comedy
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ed701ac56014243ec94bc43ceddecf69, type: 2}
+    outcome: {fileID: 11400000, guid: 4a784e7ac5a7c457a9c65906352eb1bd, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 19aecf26fb742440588a77920a561891, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 1130c8e1b3bde4ba9902f5e8f53b4b96, type: 2}
+    outcome: {fileID: 11400000, guid: ed701ac56014243ec94bc43ceddecf69, type: 2}

@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Lasso
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ec1fe3660b0f4450090a27103e670130, type: 2}
+    outcome: {fileID: 11400000, guid: 72079f59b571a44498ab538706cac145, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: decd24e021b614db58dbf1d983b47bb7, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: decd24e021b614db58dbf1d983b47bb7, type: 2}

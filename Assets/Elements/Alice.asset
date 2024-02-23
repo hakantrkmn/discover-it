@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Alice
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 882f72cadaf39459583ecc2498827d98, type: 2}
+    outcome: {fileID: 11400000, guid: 8a8585e556a2b4e1e9ea8869facb692c, type: 2}

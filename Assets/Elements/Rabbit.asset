@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Rabbit
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: d4cbce45d57ee4c63bf1a28ffda5105c, type: 2}
+    outcome: {fileID: 11400000, guid: 882f72cadaf39459583ecc2498827d98, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: e406e9265bfaa4a468c52cfcebd416f3, type: 2}

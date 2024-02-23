@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Electricity
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: c2c355fef21f54ee39b6d85e61e319c2, type: 2}
+    outcome: {fileID: 11400000, guid: 45dbcc2847373448f9a5811ed0a81aae, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 81cd8f7e33986431b9d32a9d51247581, type: 2}
+    outcome: {fileID: 11400000, guid: b7dda3d005cbd448d84aeb5165580122, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 84980b555732c41b8af1ef3dd1f46dfb, type: 2}
+    outcome: {fileID: 11400000, guid: 07d99cb547b284b339513947112b879a, type: 2}

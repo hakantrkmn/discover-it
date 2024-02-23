@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Zombie
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: b3fe1d52ff1c44824b6b6ba1002e5dad, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 34a44feed9499436c89384e6b5a8f96f, type: 2}
+    outcome: {fileID: 11400000, guid: 08a453a5ae03c48e7959108fd6341e71, type: 2}
+  - mergeWith: {fileID: 11400000, guid: cbecd001d744148479834a66ef3e9f64, type: 2}
+    outcome: {fileID: 11400000, guid: 37dc74c8a963a4b93ad3fe5baa091ea3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9be0dc0c954e445a08328079fb7dd7f5, type: 2}
+    outcome: {fileID: 11400000, guid: bc07a5b2e60d44cec97e9185a7b2877d, type: 2}

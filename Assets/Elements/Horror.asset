@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Horror
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 1ffe56b2df655448798732400ebddc7c, type: 2}
+    outcome: {fileID: 11400000, guid: b600139ca56ba438aaaa3bad3d08f012, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9e9c7851954bb4d97bf5cb92d1421523, type: 2}
+    outcome: {fileID: 11400000, guid: 79d77bf7d0e0840c5814558a6375a6e3, type: 2}

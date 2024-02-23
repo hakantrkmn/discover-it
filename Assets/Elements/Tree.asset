@@ -14,4 +14,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Tree
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: d32300182beb14adcb6f228892c4047c, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 4ae32af25e80c44f0977490bc4999d22, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 709dd50dfca7544d7bc9e6d0abaa17cf, type: 2}
+    outcome: {fileID: 11400000, guid: 2165588d0022c4c1686ec15e1138d2d3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: eaa5b1f33e92a4cd8a2e041c0f2444ad, type: 2}
+    outcome: {fileID: 11400000, guid: 10077adfabf5a4aa084aeef8030f7831, type: 2}
+  - mergeWith: {fileID: 11400000, guid: be188aa90720d4595b755530a3d0b8e3, type: 2}
+    outcome: {fileID: 11400000, guid: 3684a2fd2c7ed4e44bb88807e1aebc10, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: d696534b9ec164a0f992b19a266c727b, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d32300182beb14adcb6f228892c4047c, type: 2}
+    outcome: {fileID: 11400000, guid: b399dfdd705234d79af09ed7072d73b6, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d3f795051e67047ceb3bbe4ed7f578a7, type: 2}
+    outcome: {fileID: 11400000, guid: 9be0dc0c954e445a08328079fb7dd7f5, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4ae32af25e80c44f0977490bc4999d22, type: 2}
+    outcome: {fileID: 11400000, guid: b0eaf833ef2dd4df0a3df2e028418c30, type: 2}

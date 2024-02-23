@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Fight
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9e9c7851954bb4d97bf5cb92d1421523, type: 2}
+    outcome: {fileID: 11400000, guid: 1ae51d79b91824dbbb8b1634d0942dab, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d4a024398e68a4b80ba04aa31e263135, type: 2}
+    outcome: {fileID: 11400000, guid: 1b957b18f18a840cea106711786c52ba, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 88eb5c4bef9cf4c08a0e7a8b470a0c11, type: 2}
+    outcome: {fileID: 11400000, guid: 06e133460d02f4781a5e2d5de145163c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 974ce638dc4da449f908b1e6d598762d, type: 2}
+    outcome: {fileID: 11400000, guid: be40f2da8f87f44b689d713e2264f86d, type: 2}

@@ -14,4 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Diamond
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: bfb01d7801f4540ea8ca3d0c63abf652, type: 2}
+    outcome: {fileID: 11400000, guid: aef3e9e5c0d6244feb815d58a4899ea5, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: dae8da1942ee14aa0b1c63bce9ed4889, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c05944a38d1df4e4499fa85698c40193, type: 2}
+    outcome: {fileID: 11400000, guid: d9b2038ee51684384acf2452ece950d8, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c056d102d02fa44b3a96a7bc388cd6d3, type: 2}
+    outcome: {fileID: 11400000, guid: 75cc3f3da83d3474da89f4d288fdf330, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 30fe7c08d274546ec94744c33dc4eae9, type: 2}
+    outcome: {fileID: 11400000, guid: edf439e87485b4e609998bcc725c38fd, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 30fe7c08d274546ec94744c33dc4eae9, type: 2}
+    outcome: {fileID: 11400000, guid: edf439e87485b4e609998bcc725c38fd, type: 2}

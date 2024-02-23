@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Cave
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: c05944a38d1df4e4499fa85698c40193, type: 2}
+    outcome: {fileID: 11400000, guid: d4bd9720c87f749f282338ee505bc1bd, type: 2}

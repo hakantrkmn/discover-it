@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Ice
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e5d52f2e105f946aea7b668932f38799, type: 2}
+    outcome: {fileID: 11400000, guid: 67fd0678e11a14ef892f8b4fea8980d1, type: 2}
+  - mergeWith: {fileID: 11400000, guid: cf6614d64417c46f0b1edd558b1ced67, type: 2}
+    outcome: {fileID: 11400000, guid: 3360c6f9870f6447b8e6156cfcde5121, type: 2}

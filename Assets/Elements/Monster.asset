@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Monster
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 6c841c73fb8054b1c9b989bcd8902748, type: 2}
+    outcome: {fileID: 11400000, guid: 415dadaeb8ab34ee588a2f900f90c24d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: e681e4e1a19774003bfc5680aeee486f, type: 2}
+    outcome: {fileID: 11400000, guid: 6c841c73fb8054b1c9b989bcd8902748, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 06e133460d02f4781a5e2d5de145163c, type: 2}
+    outcome: {fileID: 11400000, guid: 57bf650f6d5414c6aa798d16387d25b3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: aa4fdac18a69b4e789492412f90bd4a5, type: 2}
+    outcome: {fileID: 11400000, guid: cb36c1851a03541fcbe7c714006e7d35, type: 2}

@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Galaxy
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 940e33192f8dd48b09e1172230664758, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 940e33192f8dd48b09e1172230664758, type: 2}
+    outcome: {fileID: 11400000, guid: 276dbbde6737145beaa8ccb419e53755, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 940e33192f8dd48b09e1172230664758, type: 2}

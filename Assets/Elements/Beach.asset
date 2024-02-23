@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Beach
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: f2c169976e8324b838a206c28c38420b, type: 2}
+    outcome: {fileID: 11400000, guid: 95d23a7af0aad4964b275c9acd9fe4a0, type: 2}
+  - mergeWith: {fileID: 11400000, guid: f4353936d089548da88e3058a52a701b, type: 2}
+    outcome: {fileID: 11400000, guid: 6f7f803b8e34c4e259d1f8707a3085a8, type: 2}
+  - mergeWith: {fileID: 11400000, guid: f2c169976e8324b838a206c28c38420b, type: 2}
+    outcome: {fileID: 11400000, guid: 95d23a7af0aad4964b275c9acd9fe4a0, type: 2}

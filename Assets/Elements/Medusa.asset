@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Medusa
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 824f9f59047b349dab643e4d7217bebd, type: 2}
+    outcome: {fileID: 11400000, guid: b6927e02909b54c3d86888fc144f69a8, type: 2}

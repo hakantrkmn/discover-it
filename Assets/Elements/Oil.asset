@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Oil
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 8d0a5018ee90a46988da884cc9241d8a, type: 2}
+    outcome: {fileID: 11400000, guid: 84980b555732c41b8af1ef3dd1f46dfb, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: be188aa90720d4595b755530a3d0b8e3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d9d4b7f461f4d4cdea54e3fbb40b7b4b, type: 2}
+    outcome: {fileID: 11400000, guid: f6708d00c05fe478ba8ae13253ca45bd, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9e3ded2c19f634ce684c225a1480991d, type: 2}
+    outcome: {fileID: 11400000, guid: 80419bafdd7ea4967992ce8109f45dc7, type: 2}

@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: King
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 660734780bb5f4a87af93cf64a4747f6, type: 2}
+    outcome: {fileID: 11400000, guid: bf1ef2347be8548fc82c2d9618f7f4dc, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0d44dbdc7c64b46cd8ad8e04e3bd7a10, type: 2}
+    outcome: {fileID: 11400000, guid: e4a526d5466be4282ab131c6c30b2f44, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 64a29f8abc9424b5eb6c3eb6e811c6f6, type: 2}
+    outcome: {fileID: 11400000, guid: 05e5fa0acff9449ee924ab4190d4f7dc, type: 2}

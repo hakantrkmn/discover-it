@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Cloud
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: d4a024398e68a4b80ba04aa31e263135, type: 2}
+    outcome: {fileID: 11400000, guid: d4bbb89bb35264506958d07fda384789, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 1ee005e66aef74b29a5bb3b5dbf50f02, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 1ee005e66aef74b29a5bb3b5dbf50f02, type: 2}

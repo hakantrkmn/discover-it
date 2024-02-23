@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Ten
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 96b0ee6e3e76c4cc7bd925ba2b335c43, type: 2}
+    outcome: {fileID: 11400000, guid: 63f945e210ba54fd884ba7813d88cfd7, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 96b0ee6e3e76c4cc7bd925ba2b335c43, type: 2}

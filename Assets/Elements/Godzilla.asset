@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Godzilla
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 77ae3bdc12bb84357891fd509699983c, type: 2}
+    outcome: {fileID: 11400000, guid: 88eb5c4bef9cf4c08a0e7a8b470a0c11, type: 2}
+  - mergeWith: {fileID: 11400000, guid: cd4f571fed9b449d4bf828c6398f38f7, type: 2}
+    outcome: {fileID: 11400000, guid: 77ae3bdc12bb84357891fd509699983c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: ecbcf3a7271d24053947113806250b92, type: 2}
+    outcome: {fileID: 11400000, guid: e639e3fcc6a6d49c389bf5b97233c673, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 45750c10b69a3481f992ee7dc0de5af8, type: 2}
+    outcome: {fileID: 11400000, guid: 666149ec7d1df42d99cafe1ad9326935, type: 2}

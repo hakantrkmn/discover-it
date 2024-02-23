@@ -14,4 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Planet
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 5dad01121be1d4c0984bbd243ee224b2, type: 2}
+    outcome: {fileID: 11400000, guid: bf5ba5fdd64184ad18c1863062d26648, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 110dbfc1bdb1041039ef78ed4abc22b5, type: 2}
+    outcome: {fileID: 11400000, guid: 192f32a28a0ad4aa59086595ff04aa05, type: 2}
+  - mergeWith: {fileID: 11400000, guid: bfb01d7801f4540ea8ca3d0c63abf652, type: 2}
+    outcome: {fileID: 11400000, guid: 65bbd19eabfff496fb6858a6fe6d5036, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 5ab100979024f4d7c86577b28d694b7b, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0d9cbbf8d9d3f44e99672d33dce1b82b, type: 2}
+    outcome: {fileID: 11400000, guid: a2c1502badaaa4773b9370383d4bf949, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 5ab100979024f4d7c86577b28d694b7b, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 2158ae318d461449c809a33890453abc, type: 2}
+    outcome: {fileID: 11400000, guid: 65bbd19eabfff496fb6858a6fe6d5036, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7237581b7d17148f4ac4e4a57739055e, type: 2}
+    outcome: {fileID: 11400000, guid: 32b46869628404bd5b9d6b6975f6716a, type: 2}

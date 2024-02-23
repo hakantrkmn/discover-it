@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Bigfoot
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 941477889118b47b69f699456208e363, type: 2}
+    outcome: {fileID: 11400000, guid: 401527b836f5b4e3cbee4dd8b9c9513d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0126b292c35814b6882aff14ff1f7e25, type: 2}
+    outcome: {fileID: 11400000, guid: 5440f264ee621418c8e31a7890262b15, type: 2}

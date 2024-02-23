@@ -14,4 +14,32 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Wind
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: a08ff98ba6f29481d9ec976a45fe6cbd, type: 2}
+    outcome: {fileID: 11400000, guid: 19cb4a63039a4482fb548f4cae737a8b, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 557b79e6116244d429e6615b58883cef, type: 2}
+    outcome: {fileID: 11400000, guid: fa1c3b9269d044cd8b075748c3afa784, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3c0f29a2687ef40e0b1f23d3f8ab00e2, type: 2}
+    outcome: {fileID: 11400000, guid: 42000379e392c4f0088d2d8a9d800aab, type: 2}
+  - mergeWith: {fileID: 11400000, guid: fda93e1a7e8224cc6b670635f8c8a88d, type: 2}
+    outcome: {fileID: 11400000, guid: 8032a91262a0a444e8b38dc08486c53d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 91f2f61bc40f44db6a433469798e6f07, type: 2}
+    outcome: {fileID: 11400000, guid: 11364750ed4b945559e883bea111ea5c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5a0382fdbdf1d4698ad5e35332e66206, type: 2}
+    outcome: {fileID: 11400000, guid: 26e4b47231aa445e19c1492b27bd1ea1, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 84980b555732c41b8af1ef3dd1f46dfb, type: 2}
+    outcome: {fileID: 11400000, guid: 6c7ed59575e1a4866a027ce276fa49ee, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 138df96f562ea40d681a5e5e02706305, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 82f506c9284d2495aa98aeb635a8d954, type: 2}
+    outcome: {fileID: 11400000, guid: 58e6fe30641494d5299608ba412cae11, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 138df96f562ea40d681a5e5e02706305, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: 330a136929d4343edaeb834453589c0c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 557b79e6116244d429e6615b58883cef, type: 2}
+    outcome: {fileID: 11400000, guid: fa1c3b9269d044cd8b075748c3afa784, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 41715fb2ce1ca4ead88947c73e08e538, type: 2}
+    outcome: {fileID: 11400000, guid: c3739a599e4ed468ca9b5ce1cb85033e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: 2041f625ca271479198a456bceabffbb, type: 2}

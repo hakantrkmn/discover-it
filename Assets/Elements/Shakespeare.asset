@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Shakespeare
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3684a2fd2c7ed4e44bb88807e1aebc10, type: 2}
+    outcome: {fileID: 11400000, guid: 91d253890bf1346abb356563beff6272, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7f65e38c38c7b40a3ade5859e421db31, type: 2}
+    outcome: {fileID: 11400000, guid: d065ea6a05c534ab989cb9ddbdeaab1a, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7f65e38c38c7b40a3ade5859e421db31, type: 2}
+    outcome: {fileID: 11400000, guid: d065ea6a05c534ab989cb9ddbdeaab1a, type: 2}

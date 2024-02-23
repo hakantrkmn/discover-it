@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Power
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: bf2c66d166a034538a9defc84cedfe72, type: 2}
+    outcome: {fileID: 11400000, guid: cbecd001d744148479834a66ef3e9f64, type: 2}

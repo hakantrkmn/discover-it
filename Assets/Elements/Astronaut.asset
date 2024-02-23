@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Astronaut
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: f4353936d089548da88e3058a52a701b, type: 2}
+    outcome: {fileID: 11400000, guid: 3e66571c3778044419a5b344e6917085, type: 2}

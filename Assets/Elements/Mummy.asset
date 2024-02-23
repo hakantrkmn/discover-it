@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Mummy
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: f66a234a5fb35450fb699a7ff89f51aa, type: 2}
+    outcome: {fileID: 11400000, guid: 9cb5189144b87409a99868fb72318c9a, type: 2}

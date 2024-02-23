@@ -14,4 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Mud
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 5ca06b393d6e54bc0bd0d1db878f0ada, type: 2}
+    outcome: {fileID: 11400000, guid: 37ddd2a58ea6b46a0874cb53b59f8913, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 88fae426108b7451dae83d0578d95985, type: 2}
+    outcome: {fileID: 11400000, guid: 19f1aea89cfae4c4f8c3766d0084c47a, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 2898e6d79269e4cebaebea2ce54dc589, type: 2}
+    outcome: {fileID: 11400000, guid: 88fae426108b7451dae83d0578d95985, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 557b79e6116244d429e6615b58883cef, type: 2}
+    outcome: {fileID: 11400000, guid: b6549bca5afd845639b2861bba3abf8c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d3bbc4c296ab245ddbf373be39c34dd2, type: 2}
+    outcome: {fileID: 11400000, guid: 1c8ee3511e12947c19b5e30a71528a6f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: f9efef311c7af4318a58a318d1837d1e, type: 2}
+    outcome: {fileID: 11400000, guid: 3006cec5034294391a4262ee13de7f49, type: 2}

@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Continent
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 45750c10b69a3481f992ee7dc0de5af8, type: 2}
+    outcome: {fileID: 11400000, guid: 6fef29fdf59a2442b909721d51adafc3, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 4c7838482e36e458fb777d0678a77011, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 85be832ff34b345e3b3c25d9f2ccc626, type: 2}
+    outcome: {fileID: 11400000, guid: 28d7831294f444206be015e42fc03bad, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 4c7838482e36e458fb777d0678a77011, type: 2}

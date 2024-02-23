@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Lightning
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: bf2c66d166a034538a9defc84cedfe72, type: 2}
+    outcome: {fileID: 11400000, guid: 736fd272ba53e40ca8863902a4c9b78e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4f371ac426a5747aa9bc95df503d8683, type: 2}
+    outcome: {fileID: 11400000, guid: 1f2fec8682b8d45518f43abbaf555b05, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 736fd272ba53e40ca8863902a4c9b78e, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Hexagon
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 88a0d1a9464ba4195828684a407401a8, type: 2}
+    outcome: {fileID: 11400000, guid: 6e048e728604d4d8f9e35509c21fbf35, type: 2}

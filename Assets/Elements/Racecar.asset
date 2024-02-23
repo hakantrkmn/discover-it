@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Racecar
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 84980b555732c41b8af1ef3dd1f46dfb, type: 2}
+    outcome: {fileID: 11400000, guid: eaf41d11b1753468d83b4a5b36ea418f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3e9674c7ac06a4d30a88926e33b7f5c4, type: 2}
+    outcome: {fileID: 11400000, guid: 5a0382fdbdf1d4698ad5e35332e66206, type: 2}

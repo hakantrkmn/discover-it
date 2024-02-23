@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Pope
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 06c3bb9dddcfb42b3ae121180db2b8c1, type: 2}
+    outcome: {fileID: 11400000, guid: e6dae4fc279a54af68dbc50ebcfe511e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 415dadaeb8ab34ee588a2f900f90c24d, type: 2}
+    outcome: {fileID: 11400000, guid: 1dfdd115ace8043218e6dc6a50a6feaf, type: 2}

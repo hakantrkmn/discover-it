@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Legolas
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 898853ff1d8704fa48a5d36fa5373f4a, type: 2}
+    outcome: {fileID: 11400000, guid: 5c33286cf348a49338fdabe7fb1ff74c, type: 2}

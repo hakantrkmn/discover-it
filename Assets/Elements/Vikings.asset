@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Vikings
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ce8f0852be92d4305803eb0a5cf82a47, type: 2}
+    outcome: {fileID: 11400000, guid: d93aa21f5b47d466fa9d6086d90ae6d3, type: 2}

@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Touchdown
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 00a64fd1179e94e5aadbf6e4d29d4de4, type: 2}
+    outcome: {fileID: 11400000, guid: 0ee3f1a0a3a1b4f13b4d5c4ce743251c, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 8f9110d587595473699099c3f4715400, type: 2}

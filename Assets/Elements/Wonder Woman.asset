@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Wonder Woman
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e0c2feb557c2b46669efe245b0dfc9ac, type: 2}
+    outcome: {fileID: 11400000, guid: 4d211f8339d934f07bb2eb380f64ddcb, type: 2}

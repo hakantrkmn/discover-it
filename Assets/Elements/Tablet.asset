@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Tablet
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 4f58167aa1a7943258bd02fe21b751d9, type: 2}
+    outcome: {fileID: 11400000, guid: 7454e4b48a0e54735ab31b16f435e33c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9b72ce9d87cd641e8adc37e7383755e5, type: 2}
+    outcome: {fileID: 11400000, guid: cd761b166230c46eb808be8f215ead44, type: 2}

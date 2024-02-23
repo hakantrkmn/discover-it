@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Law
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 4c5d68bfcd5944603a04bc83a3e5e608, type: 2}
+    outcome: {fileID: 11400000, guid: 8c648387ec9d848e29dbce954d03eedc, type: 2}
+  - mergeWith: {fileID: 11400000, guid: fe1787d2dd75040d09b61017c134cea9, type: 2}
+    outcome: {fileID: 11400000, guid: d2d7e9a762b094f1381aecc772066478, type: 2}

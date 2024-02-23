@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Opera
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 1130c8e1b3bde4ba9902f5e8f53b4b96, type: 2}
+    outcome: {fileID: 11400000, guid: df50e7c6bddee44f99442c2f20639128, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: f66a234a5fb35450fb699a7ff89f51aa, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4a784e7ac5a7c457a9c65906352eb1bd, type: 2}
+    outcome: {fileID: 11400000, guid: 2e0e6e2aea79246f68e5be06e2901f28, type: 2}

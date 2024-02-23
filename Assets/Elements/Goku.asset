@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Goku
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 742bc03e22139431181c1f82a2064658, type: 2}
+    outcome: {fileID: 11400000, guid: d47000c76e02c4693b55bfd202ac4079, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c5909b62a761c4cb2bfcfb11925def71, type: 2}
+    outcome: {fileID: 11400000, guid: 71c74be29e12a494eaeecdb53dd0e300, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 1b957b18f18a840cea106711786c52ba, type: 2}
+    outcome: {fileID: 11400000, guid: ddeb02d67a9da45da98cc62775439b01, type: 2}

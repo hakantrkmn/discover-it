@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Fishing
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ca7c144e765b240d8827ae7bacb5fceb, type: 2}
+    outcome: {fileID: 11400000, guid: b0ece1005aad64edf98e816257210bcd, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 2504ea2bf88aa4695bd90f95773edf53, type: 2}
+    outcome: {fileID: 11400000, guid: 251e2bb171b7942a3bb4ca69dae4ec7e, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Lebron
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e5d52f2e105f946aea7b668932f38799, type: 2}
+    outcome: {fileID: 11400000, guid: f98780db207d94a5bbd53a477959917b, type: 2}

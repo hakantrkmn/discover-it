@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Amazon
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3bf6547f41d1a4a86a5a806940280702, type: 2}
+    outcome: {fileID: 11400000, guid: 5c45ee0b0da0e47f7bfa31072638c7df, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4ae32af25e80c44f0977490bc4999d22, type: 2}
+    outcome: {fileID: 11400000, guid: 4453691bb06bb48e9812a24a2a0b104e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4c5d68bfcd5944603a04bc83a3e5e608, type: 2}
+    outcome: {fileID: 11400000, guid: 3bf6547f41d1a4a86a5a806940280702, type: 2}
+  - mergeWith: {fileID: 11400000, guid: bfef77fb87cc5433b822e56bf0c32b34, type: 2}
+    outcome: {fileID: 11400000, guid: b7d13d8749ab7481296f07d8f83e5b68, type: 2}

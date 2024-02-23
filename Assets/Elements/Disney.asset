@@ -14,4 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Disney
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 113ca6eb53d4e4f08a8288acf5cfee91, type: 2}
+    outcome: {fileID: 11400000, guid: 61a23f319c99e4b71952fdbc1a1e465b, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 51ee1c2ce04bb444c82decb788217f3c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3b2585bb9eaa84b67acacb0daf71dcec, type: 2}
+    outcome: {fileID: 11400000, guid: ce16caea976954a6db8875635d579b04, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c03a7ebe1777d4c41a9b97abefaee32d, type: 2}
+    outcome: {fileID: 11400000, guid: 036d13104562b4de1ba11c66dd015f7f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 66561a3ca856d464d8d8d6493d1d882c, type: 2}
+    outcome: {fileID: 11400000, guid: 1f80f516708df4a19a29b7ce089e1cd2, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: c03a7ebe1777d4c41a9b97abefaee32d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d17f9afe9e41d438abc4c3c863ba442d, type: 2}
+    outcome: {fileID: 11400000, guid: bf44c63b4c85e4462ba1d610f1ac2eb9, type: 2}

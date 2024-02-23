@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Titanic Orchestra
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 6ecc83bcb31ed4bc1a123160c6f177ad, type: 2}
+    outcome: {fileID: 11400000, guid: 7ef77e6d158e14ce79c5e09d8ea6d616, type: 2}

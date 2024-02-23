@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Mirror
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 2a861872e9f454a4987e2da458a61c8f, type: 2}
+    outcome: {fileID: 11400000, guid: 65e899eeec63d4090a16c6a6b112eb8b, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: fb6655a1aa7354692ac22e5188a734e9, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5e3057c8edc2344fd9f851b36fd6e89a, type: 2}
+    outcome: {fileID: 11400000, guid: 7a02919ff87bb4219b74fc34b112e54c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 72d8da0498d464c23ae283287dcd16b1, type: 2}
+    outcome: {fileID: 11400000, guid: 722828c975c0444759a632e4f33d16f5, type: 2}

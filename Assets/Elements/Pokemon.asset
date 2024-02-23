@@ -14,4 +14,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Pokemon
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: 6ee27a0a788a34c15b4e26e55da65a07, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 81629d4875f544c6b8a20fcbf51dd78a, type: 2}
+    outcome: {fileID: 11400000, guid: 3bb78128008874936a7480980dae63af, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b80642163f0a64be09cbb93fe1b77204, type: 2}
+    outcome: {fileID: 11400000, guid: d0ec10541f84c415b93cecb9107b2ff1, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 192f32a28a0ad4aa59086595ff04aa05, type: 2}
+    outcome: {fileID: 11400000, guid: 17f8cbc764bc94c6a8496da7891d191f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: a08ff98ba6f29481d9ec976a45fe6cbd, type: 2}
+    outcome: {fileID: 11400000, guid: 412a63f1042da481bbbc47c080bbd9c5, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 1ee005e66aef74b29a5bb3b5dbf50f02, type: 2}
+    outcome: {fileID: 11400000, guid: 22c9f7f7a480f4a178e9e4200055f3d2, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 330a136929d4343edaeb834453589c0c, type: 2}
+    outcome: {fileID: 11400000, guid: 9a8b2c70946c94a5489bc222f7c85915, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6a975db21f6604fb0939a40fd251f0d4, type: 2}
+    outcome: {fileID: 11400000, guid: 5e371180b776547ad9a16c942efa1047, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: 8f2dd2e17b4c44bcbaef4502a34fd2c7, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 75cada74ccd174f2487fdb3c754f0b6c, type: 2}
+    outcome: {fileID: 11400000, guid: 2a0d8f390ab8749809a2c53c123f4d0d, type: 2}

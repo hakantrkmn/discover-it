@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Boss
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 05ad185768db6448fa840b9790522d9e, type: 2}
+    outcome: {fileID: 11400000, guid: 4f371ac426a5747aa9bc95df503d8683, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 1130c8e1b3bde4ba9902f5e8f53b4b96, type: 2}
+    outcome: {fileID: 11400000, guid: 269a5b317c1294da485bf4cb42b9e1bc, type: 2}

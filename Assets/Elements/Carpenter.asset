@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Carpenter
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: bde86b2d86f094cfd81adc04ed1be0a0, type: 2}
+    outcome: {fileID: 11400000, guid: 35eeae8de4ba744d4a0b0da8f5f01555, type: 2}

@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Fuel
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: 8d0a5018ee90a46988da884cc9241d8a, type: 2}
+  - mergeWith: {fileID: 11400000, guid: eaa5b1f33e92a4cd8a2e041c0f2444ad, type: 2}
+    outcome: {fileID: 11400000, guid: f09da97c6f6824c689c55069e673aea3, type: 2}

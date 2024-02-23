@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Rocket
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: f4353936d089548da88e3058a52a701b, type: 2}
+    outcome: {fileID: 11400000, guid: ce11b8d52d5374197ae72795beb90b2a, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 557b79e6116244d429e6615b58883cef, type: 2}
+    outcome: {fileID: 11400000, guid: f4353936d089548da88e3058a52a701b, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 2762e3b92855c4d5ea209453dc132dbd, type: 2}
+    outcome: {fileID: 11400000, guid: e0045470b74ba46fcb0f4351b4e82396, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 8d0a5018ee90a46988da884cc9241d8a, type: 2}
+    outcome: {fileID: 11400000, guid: 91f2f61bc40f44db6a433469798e6f07, type: 2}

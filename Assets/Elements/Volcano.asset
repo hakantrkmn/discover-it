@@ -14,4 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Volcano
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9c4f5c6e3988042e482640ae48c30144, type: 2}
+    outcome: {fileID: 11400000, guid: 5ca62eb7d85254996a092653c1633b05, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: 8cc3ef2bd0dd2416ab9b9cba65f12dc0, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 91f7ebdab17854c3b9175c9f1ff92725, type: 2}
+    outcome: {fileID: 11400000, guid: a088cc159985344da8ca50f47f71b676, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9c4f5c6e3988042e482640ae48c30144, type: 2}
+    outcome: {fileID: 11400000, guid: 5ca62eb7d85254996a092653c1633b05, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 72d8da0498d464c23ae283287dcd16b1, type: 2}
+    outcome: {fileID: 11400000, guid: 8cc3ef2bd0dd2416ab9b9cba65f12dc0, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 45750c10b69a3481f992ee7dc0de5af8, type: 2}
+    outcome: {fileID: 11400000, guid: 966fecb002b5548158724580f5788b49, type: 2}
+  - mergeWith: {fileID: 11400000, guid: f0491d845cce742e5ac201347b25f17d, type: 2}
+    outcome: {fileID: 11400000, guid: f34aaab3e6fe64379916c8e8b78b5830, type: 2}

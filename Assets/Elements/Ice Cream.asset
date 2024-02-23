@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Ice Cream
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 28a787e6f964f4388b703b608eb34cc0, type: 2}
+    outcome: {fileID: 11400000, guid: 93684ecb2393645f59af192d7c6053b9, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: bfe80e930e2e34664a39abff531bc14d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9faa9c3eb1ceb4d80889219ecdce00a5, type: 2}
+    outcome: {fileID: 11400000, guid: c05d9e2c2c37640e781d14130fbfa009, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: bfe80e930e2e34664a39abff531bc14d, type: 2}

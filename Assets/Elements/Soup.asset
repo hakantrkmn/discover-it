@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Soup
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: 170eb8ea9e8bb40e98b2abc13305c1ed, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 453795f9c9225475d8fac24ad71c9740, type: 2}
+    outcome: {fileID: 11400000, guid: 1bdb8a825ecdd440685dba178bf00031, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 05ad185768db6448fa840b9790522d9e, type: 2}
+    outcome: {fileID: 11400000, guid: ec30d671839cb4b708eb7a026b409f07, type: 2}
+  - mergeWith: {fileID: 11400000, guid: e77462dba752f46a89b903b9c48f2096, type: 2}
+    outcome: {fileID: 11400000, guid: 4dfbb65a8ac694d75a124f3ea93f041a, type: 2}

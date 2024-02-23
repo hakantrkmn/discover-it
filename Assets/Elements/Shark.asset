@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Shark
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 6bfc3783b40744c0f8dc1efd97305a73, type: 2}
+    outcome: {fileID: 11400000, guid: 9e3fa51d8b6764147809f2fa0c77e079, type: 2}
+  - mergeWith: {fileID: 11400000, guid: eaa5b1f33e92a4cd8a2e041c0f2444ad, type: 2}
+    outcome: {fileID: 11400000, guid: 80419bafdd7ea4967992ce8109f45dc7, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 6bfc3783b40744c0f8dc1efd97305a73, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Mermaid
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 1723468a5173e465d8b2ccb3eea0865c, type: 2}
+    outcome: {fileID: 11400000, guid: c8235bfc61cc546e0b083417de41b516, type: 2}

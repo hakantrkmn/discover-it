@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Awesome
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 1723468a5173e465d8b2ccb3eea0865c, type: 2}
+    outcome: {fileID: 11400000, guid: ada522dd3fb3f4fe8bf4eff8ae69ea52, type: 2}

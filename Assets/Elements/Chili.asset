@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Chili
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 8c4f284a9c34045cea1391c2cec1ba90, type: 2}
+    outcome: {fileID: 11400000, guid: bb4aafe52c2d0485ba98907e56ee29d7, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 453795f9c9225475d8fac24ad71c9740, type: 2}
+    outcome: {fileID: 11400000, guid: 8c2f8afe20e314d2392411c2da1bef8f, type: 2}

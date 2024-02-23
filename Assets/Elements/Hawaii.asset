@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Hawaii
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 7b46620ebcb804f0f91f4271133c4979, type: 2}
+    outcome: {fileID: 11400000, guid: d05ebb987f0824584bcfc27be2bfbdd4, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 2158ae318d461449c809a33890453abc, type: 2}
+    outcome: {fileID: 11400000, guid: 7dc77611da184426d817f8979279fd2a, type: 2}

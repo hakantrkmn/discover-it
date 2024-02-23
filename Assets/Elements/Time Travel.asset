@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Time Travel
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ef697ce5eccc4400a8c7b594b886cdf7, type: 2}
+    outcome: {fileID: 11400000, guid: f0891af6cdc6345f2b7432955dfce771, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c4ce7cf4538f846eba91b7c2e9b1dd14, type: 2}
+    outcome: {fileID: 11400000, guid: 9bf37fbcd2d7e4d22ae11b35b6e48b81, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 2d5ae8d6a00ed407687df7e612153991, type: 2}
+    outcome: {fileID: 11400000, guid: b6e62ba08fb8a4180a34ac285b15bd23, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 160446af447e14459bc447985a2bc227, type: 2}
+    outcome: {fileID: 11400000, guid: 2d5ae8d6a00ed407687df7e612153991, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 95980d8b098c74b38901568bde88bee5, type: 2}
+    outcome: {fileID: 11400000, guid: f386122381e0643a9aaa6f998236b14e, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Cartoon
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 88a0d1a9464ba4195828684a407401a8, type: 2}
+    outcome: {fileID: 11400000, guid: 3ed1355a6552e48358f4956b57ed4e3b, type: 2}

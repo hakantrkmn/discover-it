@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Park
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 882f72cadaf39459583ecc2498827d98, type: 2}
+    outcome: {fileID: 11400000, guid: 51da4b8178d814c2ea33d0c8298e041f, type: 2}

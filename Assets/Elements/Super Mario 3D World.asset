@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Super Mario 3D World
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: b211d1b2b53db4709a1d05247fdc82fa, type: 2}
+    outcome: {fileID: 11400000, guid: 0a77444f785cf4fcbbd08c3b8a6a89d5, type: 2}

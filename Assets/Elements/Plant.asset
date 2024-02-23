@@ -14,4 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Plant
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: fa1c3b9269d044cd8b075748c3afa784, type: 2}
+    outcome: {fileID: 11400000, guid: ab772f6fa4b66426e9134da0d5800d6d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 2041f625ca271479198a456bceabffbb, type: 2}
+    outcome: {fileID: 11400000, guid: 82241624e5d454b01b79758b3fe0842d, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 224c170f4c63d40b3bfa6be8c18cc815, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 1ee005e66aef74b29a5bb3b5dbf50f02, type: 2}
+    outcome: {fileID: 11400000, guid: 75cada74ccd174f2487fdb3c754f0b6c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 81629d4875f544c6b8a20fcbf51dd78a, type: 2}
+    outcome: {fileID: 11400000, guid: 8993aecb2fa4a46d5a445d2dabcc1715, type: 2}
+  - mergeWith: {fileID: 11400000, guid: ca7c144e765b240d8827ae7bacb5fceb, type: 2}
+    outcome: {fileID: 11400000, guid: 82241624e5d454b01b79758b3fe0842d, type: 2}

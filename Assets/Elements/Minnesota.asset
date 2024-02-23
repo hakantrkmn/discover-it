@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Minnesota
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 557b79e6116244d429e6615b58883cef, type: 2}
+    outcome: {fileID: 11400000, guid: 52c8acf6e579f4ffca96076685a7dbe4, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b1c2e496ba88c486bb061ba12d0ff8e1, type: 2}
+    outcome: {fileID: 11400000, guid: 8b86cec18d73c4382a514635e6e85283, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 2ce9c377ecbe444d39989d8d2f160a64, type: 2}
+    outcome: {fileID: 11400000, guid: 05312126ce8e4486182fee453a3708f2, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 1723468a5173e465d8b2ccb3eea0865c, type: 2}
+    outcome: {fileID: 11400000, guid: 340b40f1465484a6d83b6a8e0cc1e8c1, type: 2}

@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Blue
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: c05944a38d1df4e4499fa85698c40193, type: 2}
+    outcome: {fileID: 11400000, guid: a51f515ddc5454d64906880deab825d2, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5c1b2654fc8774ba8b3c9ad2dd816035, type: 2}
+    outcome: {fileID: 11400000, guid: 818192284ab26456b912f4c8fc713729, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 30fe7c08d274546ec94744c33dc4eae9, type: 2}
+    outcome: {fileID: 11400000, guid: bfb01d7801f4540ea8ca3d0c63abf652, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Statue of Liberty
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: f80f6b687650246598ad74271a25f58e, type: 2}
+    outcome: {fileID: 11400000, guid: 05ad185768db6448fa840b9790522d9e, type: 2}

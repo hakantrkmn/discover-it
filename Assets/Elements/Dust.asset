@@ -14,4 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Dust
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 4ae32af25e80c44f0977490bc4999d22, type: 2}
+    outcome: {fileID: 11400000, guid: d17f9afe9e41d438abc4c3c863ba442d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+    outcome: {fileID: 11400000, guid: 73710e01c16944b718d8d0cecd748b71, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 34a44feed9499436c89384e6b5a8f96f, type: 2}
+    outcome: {fileID: 11400000, guid: f2c169976e8324b838a206c28c38420b, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 709dd50dfca7544d7bc9e6d0abaa17cf, type: 2}
+    outcome: {fileID: 11400000, guid: 2deb8ad87d3eb486e9f01639a10dffe8, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: f2c169976e8324b838a206c28c38420b, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 557b79e6116244d429e6615b58883cef, type: 2}
+    outcome: {fileID: 11400000, guid: 114b3e2270bdc4bcaa34229cd7fa2be6, type: 2}
+  - mergeWith: {fileID: 11400000, guid: f34aaab3e6fe64379916c8e8b78b5830, type: 2}
+    outcome: {fileID: 11400000, guid: 6014c4a5882d14a1fb4f436c4d22dede, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7237581b7d17148f4ac4e4a57739055e, type: 2}
+    outcome: {fileID: 11400000, guid: 72cf95a0a17dc4ab7aa9dcb360037447, type: 2}

@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Speed
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 8b248b131853a4f3aa717af8581dd5c7, type: 2}
+    outcome: {fileID: 11400000, guid: 2e00e58cb41754874ac29e98f3210034, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 81cd8f7e33986431b9d32a9d51247581, type: 2}
+    outcome: {fileID: 11400000, guid: 0a62a674308d448d695f3df4e82410bf, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 8a1073f9aded14e95b77a796e3a6dd58, type: 2}
+    outcome: {fileID: 11400000, guid: 94de50664d82148f8bd2080eb2dc88fc, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 8a1073f9aded14e95b77a796e3a6dd58, type: 2}
+    outcome: {fileID: 11400000, guid: 94de50664d82148f8bd2080eb2dc88fc, type: 2}

@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Jedi
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 1e178a55070844a478e2eb724c53000f, type: 2}
+    outcome: {fileID: 11400000, guid: 3b2493949fc35423f97570a0e2389dd4, type: 2}
+  - mergeWith: {fileID: 11400000, guid: aa677418b12a04b97a1cb8cf6fcb646f, type: 2}
+    outcome: {fileID: 11400000, guid: afbcea83584e847b080c2947db431f23, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c8235bfc61cc546e0b083417de41b516, type: 2}
+    outcome: {fileID: 11400000, guid: fbe12c5bb8567490e8e4283c60c002b3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: aa8e34a3634c94d5180827734f891304, type: 2}
+    outcome: {fileID: 11400000, guid: 1e178a55070844a478e2eb724c53000f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b2473d4da94dd4082a3ad8bcce40264e, type: 2}
+    outcome: {fileID: 11400000, guid: 8585843108d174015b0b5a977cb07346, type: 2}

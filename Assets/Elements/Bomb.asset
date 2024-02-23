@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Bomb
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 527d65dd1815b4e218ca2b6aa3a4bdec, type: 2}
+    outcome: {fileID: 11400000, guid: bc8da169aeb1047ee9b10eefdf0be48d, type: 2}

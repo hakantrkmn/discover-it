@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Tardis
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9f048a9ca966945f89e89c6ecde4ea9d, type: 2}
+    outcome: {fileID: 11400000, guid: ebd38b005a8134196ac8734c31fcc720, type: 2}

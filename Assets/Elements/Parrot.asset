@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Parrot
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 39c2aedc5e8b34d87b2d03d24ae6f799, type: 2}
+    outcome: {fileID: 11400000, guid: 86f0cd08249ad45d2b1437d4b9b84786, type: 2}

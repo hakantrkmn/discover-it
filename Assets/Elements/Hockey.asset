@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Hockey
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9e9c7851954bb4d97bf5cb92d1421523, type: 2}
+    outcome: {fileID: 11400000, guid: bfc00be7c26004c21813274daebbeedf, type: 2}
+  - mergeWith: {fileID: 11400000, guid: e5d52f2e105f946aea7b668932f38799, type: 2}
+    outcome: {fileID: 11400000, guid: 1b16115dd84264f29a7595dc3f927d76, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c8c43665058e8458f93a4d02d9e6dfaa, type: 2}
+    outcome: {fileID: 11400000, guid: ee5befb55cd1d4d0889c0af3ee67f0a9, type: 2}
+  - mergeWith: {fileID: 11400000, guid: d93aa21f5b47d466fa9d6086d90ae6d3, type: 2}
+    outcome: {fileID: 11400000, guid: 378b75658f98f415ca8dae85b3451fbf, type: 2}

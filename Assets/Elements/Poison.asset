@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Poison
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3b70d5a7da13646dfba23d75833cf827, type: 2}
+    outcome: {fileID: 11400000, guid: f06eb869719574e5890b3c2ed41b1a70, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 49fc77bb3122e450d9de0ed85a6a94f1, type: 2}

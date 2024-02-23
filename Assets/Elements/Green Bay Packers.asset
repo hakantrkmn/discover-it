@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Green Bay Packers
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: c7284a0c1537149669ca82323d446da3, type: 2}
+    outcome: {fileID: 11400000, guid: 301363b2521054ddba682632f74950ff, type: 2}
+  - mergeWith: {fileID: 11400000, guid: cafb71008657d4d00a0e8a7b202d7853, type: 2}
+    outcome: {fileID: 11400000, guid: 1e0a0c93cb3e343a184fe39e59ff9177, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: b07997c1b8dff42bc826b136bdd3d81e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c7284a0c1537149669ca82323d446da3, type: 2}
+    outcome: {fileID: 11400000, guid: 301363b2521054ddba682632f74950ff, type: 2}

@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Sarcophagus
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9d76625c1797b46488f661963a0ad0cc, type: 2}
+    outcome: {fileID: 11400000, guid: 72cf95a0a17dc4ab7aa9dcb360037447, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: a3908aecc5bf141c2b2fde9d92a927f8, type: 2}

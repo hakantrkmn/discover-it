@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Train
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: c0a23177a33bc432aadd4c24ceca5d55, type: 2}
+    outcome: {fileID: 11400000, guid: 43072352ca06d420d8dc66a5e3890351, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: fb585654245644dc58741fe65e81fc5e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9b72ce9d87cd641e8adc37e7383755e5, type: 2}
+    outcome: {fileID: 11400000, guid: 2a861872e9f454a4987e2da458a61c8f, type: 2}

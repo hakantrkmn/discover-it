@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Bill Gates
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 1b2f2ad51cced4573a14d5befaf529cc, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c2e17e3068c6f4f4c964fd7f389231d6, type: 2}
+    outcome: {fileID: 11400000, guid: a1b7a96e17c4a49a4a8aad26ab8e6568, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3720ae496fc514e74b7101fb8aa0aba5, type: 2}
+    outcome: {fileID: 11400000, guid: c05944a38d1df4e4499fa85698c40193, type: 2}

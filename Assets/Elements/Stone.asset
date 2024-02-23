@@ -14,4 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Stone
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 8b072047ae98342959196190ef004b24, type: 2}
+    outcome: {fileID: 11400000, guid: 6ef80e61b720640ec9b27b0a54acd3ac, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 55551666be64e4735a0d184094b29f77, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 34a44feed9499436c89384e6b5a8f96f, type: 2}
+    outcome: {fileID: 11400000, guid: 45750c10b69a3481f992ee7dc0de5af8, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 55551666be64e4735a0d184094b29f77, type: 2}
+    outcome: {fileID: 11400000, guid: 9faa9c3eb1ceb4d80889219ecdce00a5, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 55551666be64e4735a0d184094b29f77, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3ee685bfb74704b1d93312f5e2ae4b96, type: 2}
+    outcome: {fileID: 11400000, guid: 941ab006de90546fdb8ab311f50495a8, type: 2}

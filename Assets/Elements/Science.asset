@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Science
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 89f89c6452df7491fbf83f3f4b09edb8, type: 2}
+    outcome: {fileID: 11400000, guid: 6adbcabd2641540ea9abed3faa64c44d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: bfca20a2f61dd4c55b6711b6de7564e3, type: 2}
+    outcome: {fileID: 11400000, guid: b4f72ea4b2ad046baa57a9cad7c0f067, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6130b3784569748ada8cf6d607b19693, type: 2}
+    outcome: {fileID: 11400000, guid: 339c587a4b49b434592b156ba8c65fdd, type: 2}

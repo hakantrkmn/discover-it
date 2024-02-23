@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Tom Brady
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 004eaec6b7730424f83b50a7ccbeba0b, type: 2}
+    outcome: {fileID: 11400000, guid: 47a556f840c654475ab75a76187e9fcb, type: 2}

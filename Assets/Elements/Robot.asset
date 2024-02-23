@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Robot
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: f6381dc35590d40609d73f33726178f5, type: 2}
+    outcome: {fileID: 11400000, guid: b2473d4da94dd4082a3ad8bcce40264e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 415dadaeb8ab34ee588a2f900f90c24d, type: 2}
+    outcome: {fileID: 11400000, guid: 593caa7d718ba4038be02576132e1798, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 77ae3bdc12bb84357891fd509699983c, type: 2}
+    outcome: {fileID: 11400000, guid: 582f67c8a4e8e4e508779883a8144c69, type: 2}
+  - mergeWith: {fileID: 11400000, guid: ac5d14e61d5a2466e9cb622aee53670b, type: 2}
+    outcome: {fileID: 11400000, guid: b0abf0c5cdfe644f59eaac893a308271, type: 2}

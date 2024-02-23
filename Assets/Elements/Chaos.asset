@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Chaos
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: f32e2d473ad634f5e96f2b9d747bacb9, type: 2}
+    outcome: {fileID: 11400000, guid: 4c5d68bfcd5944603a04bc83a3e5e608, type: 2}

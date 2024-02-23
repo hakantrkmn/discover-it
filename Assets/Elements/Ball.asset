@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Ball
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: c802877022dd14b1a8465acc3f98cd0f, type: 2}
+    outcome: {fileID: 11400000, guid: 725fd498e0d614bd79ef7428e5b4f410, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6654a6e0550f04ed3a33abf0bd7adb27, type: 2}
+    outcome: {fileID: 11400000, guid: 0df59d81565e64c339eb01f14b4d3580, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6d3c7592f368a478399e7d8fa492c1cd, type: 2}
+    outcome: {fileID: 11400000, guid: 3bd474777e7874c18bc1f2e98c0caeb3, type: 2}

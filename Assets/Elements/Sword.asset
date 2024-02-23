@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Sword
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 498f3121255d541f5997b8e093d7d8f6, type: 2}
+    outcome: {fileID: 11400000, guid: 26b506417834445cb9368ee9117bcf7a, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7f1793d3f92c445bf98fa6061927e63f, type: 2}
+    outcome: {fileID: 11400000, guid: c27d68e6cd0ad4749beadb5da6072626, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9d76625c1797b46488f661963a0ad0cc, type: 2}
+    outcome: {fileID: 11400000, guid: 16e11f9abaac546e9863c08f0c2e95d9, type: 2}

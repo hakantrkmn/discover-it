@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Iceberg
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 709dd50dfca7544d7bc9e6d0abaa17cf, type: 2}
+    outcome: {fileID: 11400000, guid: cf6614d64417c46f0b1edd558b1ced67, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 0d44dbdc7c64b46cd8ad8e04e3bd7a10, type: 2}
+    outcome: {fileID: 11400000, guid: 7b46620ebcb804f0f91f4271133c4979, type: 2}

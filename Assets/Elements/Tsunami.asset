@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Tsunami
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: dafd2636659794dc699400f103ffec4d, type: 2}
+    outcome: {fileID: 11400000, guid: 1bfdfc631098a4024bcd7209293e57ec, type: 2}

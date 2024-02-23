@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Anime
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 1ffe56b2df655448798732400ebddc7c, type: 2}
+    outcome: {fileID: 11400000, guid: 23b60f4771d93411e8b2b0aafd94b0a3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 38d4145ca057f4aa3a0eac0afd1cb1fa, type: 2}
+    outcome: {fileID: 11400000, guid: c76e23fee7f824b60a571e5826d4ebf8, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 37dc74c8a963a4b93ad3fe5baa091ea3, type: 2}
+    outcome: {fileID: 11400000, guid: 4a50f0530c7c4407481258a277015209, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5b695765ea4544eb084e6cbaf2fdc5f0, type: 2}
+    outcome: {fileID: 11400000, guid: 22c9f7f7a480f4a178e9e4200055f3d2, type: 2}

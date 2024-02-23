@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Jesus
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 456fa16800b7946928e778038d336911, type: 2}
+    outcome: {fileID: 11400000, guid: 5b7a0f433979d4cdfbd02620290de563, type: 2}

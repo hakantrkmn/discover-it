@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: News
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 43ba9deef64e9414187fff3401fc4d4f, type: 2}
+    outcome: {fileID: 11400000, guid: 57fe9523dec504de383718f11ec3ef94, type: 2}

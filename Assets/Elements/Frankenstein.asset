@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Frankenstein
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 138df96f562ea40d681a5e5e02706305, type: 2}
+    outcome: {fileID: 11400000, guid: 219d02aab2d7746789745fc06d081790, type: 2}
+  - mergeWith: {fileID: 11400000, guid: bfe80e930e2e34664a39abff531bc14d, type: 2}
+    outcome: {fileID: 11400000, guid: 7e434a66a3734475993d7f010bbf216c, type: 2}

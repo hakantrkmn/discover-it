@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Chicken
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e8fa54f8872ec4dd5a51fa7d0d237f1c, type: 2}
+    outcome: {fileID: 11400000, guid: 213993c14e15c4256b1750ca5bdd4488, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9c90b25cbae8c4ebcaa325e3693379f8, type: 2}
+    outcome: {fileID: 11400000, guid: cdaec5574eff8444da72d7a8b6427c47, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+    outcome: {fileID: 11400000, guid: a5c6ba571504e4bd88be3dc3f3492fc8, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b84d9928835314b1dacde655795f9601, type: 2}
+    outcome: {fileID: 11400000, guid: e8fa54f8872ec4dd5a51fa7d0d237f1c, type: 2}

@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Princess
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 61a23f319c99e4b71952fdbc1a1e465b, type: 2}
+    outcome: {fileID: 11400000, guid: 2a58e33d1e286408b9e08cc5f36d37e5, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 64a29f8abc9424b5eb6c3eb6e811c6f6, type: 2}
+    outcome: {fileID: 11400000, guid: 1723468a5173e465d8b2ccb3eea0865c, type: 2}

@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Cheese
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ce8f0852be92d4305803eb0a5cf82a47, type: 2}
+    outcome: {fileID: 11400000, guid: c62fe0ecec52a4212bf89bd08d867638, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 453795f9c9225475d8fac24ad71c9740, type: 2}
+    outcome: {fileID: 11400000, guid: 1677baf3b09184347bc919b596ebfbe2, type: 2}

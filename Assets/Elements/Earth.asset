@@ -14,4 +14,32 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Earth
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 65bbd19eabfff496fb6858a6fe6d5036, type: 2}
+    outcome: {fileID: 11400000, guid: 6014c4a5882d14a1fb4f436c4d22dede, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5aa908afe9ca14fa4aff2798e3a8fc05, type: 2}
+    outcome: {fileID: 11400000, guid: b98d42a6c6d3e4ad8a10b650ed4798f2, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 192f32a28a0ad4aa59086595ff04aa05, type: 2}
+    outcome: {fileID: 11400000, guid: 3e9674c7ac06a4d30a88926e33b7f5c4, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: c5909b62a761c4cb2bfcfb11925def71, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 8993aecb2fa4a46d5a445d2dabcc1715, type: 2}
+    outcome: {fileID: 11400000, guid: eaa5b1f33e92a4cd8a2e041c0f2444ad, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b1c2e496ba88c486bb061ba12d0ff8e1, type: 2}
+    outcome: {fileID: 11400000, guid: d3f795051e67047ceb3bbe4ed7f578a7, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b1c2e496ba88c486bb061ba12d0ff8e1, type: 2}
+    outcome: {fileID: 11400000, guid: 1d8835a2faa4f48e59b9919d4b0387ba, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 88eb5c4bef9cf4c08a0e7a8b470a0c11, type: 2}
+    outcome: {fileID: 11400000, guid: 89f748dd6808a4e5db8926ceff13fd50, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 41715fb2ce1ca4ead88947c73e08e538, type: 2}
+    outcome: {fileID: 11400000, guid: 86eeb001fbf524dabb23240d16a1ff13, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9ab1a305563574f71a00568381270260, type: 2}
+    outcome: {fileID: 11400000, guid: 41715fb2ce1ca4ead88947c73e08e538, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b399dfdd705234d79af09ed7072d73b6, type: 2}
+    outcome: {fileID: 11400000, guid: 88a0d1a9464ba4195828684a407401a8, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 65e899eeec63d4090a16c6a6b112eb8b, type: 2}
+    outcome: {fileID: 11400000, guid: d24bf4de1ec324d289fa4b87e2f4c311, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: c5909b62a761c4cb2bfcfb11925def71, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c9c615126bf9444d5a89549f9a6a7e6c, type: 2}
+    outcome: {fileID: 11400000, guid: 224c170f4c63d40b3bfa6be8c18cc815, type: 2}

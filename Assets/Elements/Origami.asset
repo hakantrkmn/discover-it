@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Origami
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3684a2fd2c7ed4e44bb88807e1aebc10, type: 2}
+    outcome: {fileID: 11400000, guid: 18a9d92f6cf08443d9cd927ac80077f9, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 82f506c9284d2495aa98aeb635a8d954, type: 2}
+    outcome: {fileID: 11400000, guid: 09462b0daf36b46d6930924573e14f49, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 93243d03cfb6f4d0a86adaaec977439e, type: 2}
+    outcome: {fileID: 11400000, guid: 1322d6560d4f84aedbb1a17d729a0e4d, type: 2}
