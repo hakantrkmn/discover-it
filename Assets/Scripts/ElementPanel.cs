@@ -47,6 +47,10 @@ public class ElementPanel : MonoBehaviour
     private void CreateStartElement()
     {
         var data = Scriptable.LevelElementData();
+        if (!ES3.KeyExists("data"))
+        {
+            ES3.Save("data",data);
+        }
         data = ES3.Load<LevelElementData>("data");
         foreach (var element in data.startElements)
         {
