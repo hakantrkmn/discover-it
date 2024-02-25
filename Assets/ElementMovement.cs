@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using DG.Tweening;
 using Unity.Mathematics;
 using UnityEngine;
 using UnityEngine.EventSystems;
@@ -34,12 +35,14 @@ public class ElementMovement : MonoBehaviour
             element.SetElement(obj.elementData);
             element.state = ElementState.Dragging;
             currentElement = element.transform;
+            element.BounceUp();
             element.GetComponent<Image>().raycastTarget = false;
         }
         else if (obj.state == ElementState.WaitingForCraft)
         {
             obj.state = ElementState.Dragging;
             currentElement = obj.transform;
+            obj.BounceUp();
         }
     }
 
@@ -62,7 +65,7 @@ public class ElementMovement : MonoBehaviour
 
             if (Input.GetMouseButtonUp(0))
             {
-                EventManager.MouseUp();
+                currentElement.GetComponent<ElementController>().BounceDown();
                 currentElement.GetComponent<Image>().raycastTarget = true;
                 m_PointerEventData = new PointerEventData(EventSystem.current);
                 m_PointerEventData.position = currentElement.position;
@@ -118,6 +121,8 @@ public class ElementMovement : MonoBehaviour
                     Destroy(currentElement.gameObject);
                     currentElement = null;
                 }
+                EventManager.MouseUp();
+
             }
         }
     }

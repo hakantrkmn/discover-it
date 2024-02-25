@@ -5,9 +5,10 @@ using DG.Tweening;
 using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
-using UnityEngine.UI;
+using UnityEngine.UIElements;
+using Image = UnityEngine.UI.Image;
 
-public class ElementController : MonoBehaviour ,IBeginDragHandler , IDragHandler , IPointerDownHandler , IPointerUpHandler , IPointerEnterHandler,IPointerExitHandler
+public class ElementController : MonoBehaviour ,IPointerDownHandler  , IPointerEnterHandler,IPointerExitHandler
 {
     public ElementState state;
     public TextMeshProUGUI elementName;
@@ -27,7 +28,8 @@ public class ElementController : MonoBehaviour ,IBeginDragHandler , IDragHandler
 
     private void MouseUp()
     {
-        transform.DOScale(1, .3f).SetEase(Ease.OutBounce);
+        //DOTween.Complete("Bounce");
+        //transform.DOScale(1, .3f).SetEase(Ease.OutBounce);
     }
 
     public void SetElement(Element data)
@@ -58,9 +60,38 @@ public class ElementController : MonoBehaviour ,IBeginDragHandler , IDragHandler
 
         return null;
     }
+
+    public void BounceUp()
+    {
+        DOTween.Kill("Bounce");
+        transform.DOScale(1.2f, .3f).SetEase(Ease.OutBounce).SetId("Bounce");
+    }
+    public void BounceDown()
+    {
+
+        DOTween.Kill("Bounce");
+        transform.DOScale(1f, .3f).SetEase(Ease.OutBounce).SetId("Bounce");
+    }
+
    
 
-    public void OnBeginDrag(PointerEventData eventData)
+    public void OnPointerEnter(PointerEventData eventData)
+    {
+        if (state == ElementState.WaitingForCraft)
+        {
+           // BounceUp();
+        }
+    }
+
+    public void OnPointerExit(PointerEventData eventData)
+    {
+        if (state == ElementState.WaitingForCraft)
+        {
+            //BounceDown();
+        }
+    }
+  
+    public void OnPointerDown(PointerEventData eventData)
     {
         switch (state)
         {
@@ -74,44 +105,5 @@ public class ElementController : MonoBehaviour ,IBeginDragHandler , IDragHandler
                 break;
         }
         AudioManager.instance.PlaySelectClip();
-
-    }
-
-    public void OnDrag(PointerEventData eventData)
-    {
-        
-    }
-
-
-    public void OnPointerDown(PointerEventData eventData)
-    {
-        if (state == ElementState.WaitingForCraft)
-        {
-            transform.DOScale(1.2f, .3f).SetEase(Ease.OutBounce);
-        }
-    }
-
-    public void OnPointerUp(PointerEventData eventData)
-    {
-        if (state == ElementState.WaitingForCraft)
-        {
-            transform.DOScale(1f, .3f).SetEase(Ease.OutBounce);
-        }
-    }
-
-    public void OnPointerEnter(PointerEventData eventData)
-    {
-        if (state == ElementState.WaitingForCraft)
-        {
-            transform.DOScale(1.2f, .3f).SetEase(Ease.OutBounce);
-        }
-    }
-
-    public void OnPointerExit(PointerEventData eventData)
-    {
-        if (state == ElementState.WaitingForCraft)
-        {
-            transform.DOScale(1f, .3f).SetEase(Ease.OutBounce);
-        }
     }
 }

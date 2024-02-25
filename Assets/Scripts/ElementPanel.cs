@@ -10,16 +10,30 @@ public class ElementPanel : MonoBehaviour
 {
     public Transform content;
     public GameObject elementPrefab;
-
+    public ScrollRect scrollRect;
 
     private void OnEnable()
     {
+        EventManager.MouseUp += MouseUp;
+        EventManager.ElementClicked += ElementClicked;
         EventManager.ElementCrafted += ElementCrafted;
+    }
+
+    private void MouseUp()
+    {
+        scrollRect.enabled = true;
+    }
+
+    private void ElementClicked(ElementController obj)
+    {
+        scrollRect.enabled = false;
     }
 
 
     private void OnDisable()
     {
+        EventManager.MouseUp -= MouseUp;
+        EventManager.ElementClicked -= ElementClicked;
         EventManager.ElementCrafted -= ElementCrafted;
     }
 

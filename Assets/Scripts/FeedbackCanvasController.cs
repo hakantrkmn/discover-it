@@ -9,7 +9,6 @@ public class FeedbackCanvasController : MonoBehaviour
 {
     public TextMeshProUGUI discoverText;
     public TextMeshProUGUI missionText;
-    public TextMeshProUGUI fps;
 
     private Element currentMissionElement;
 
@@ -18,13 +17,7 @@ public class FeedbackCanvasController : MonoBehaviour
         UpdateMission();
     }
 
-    private void Update()
-    {
-        float fpss = 60;
-        float newFPS = 1.0f / Time.smoothDeltaTime;
-        fpss = Mathf.Lerp(fpss, newFPS, 0.0005f);
-        fps.text = newFPS.ToString();
-    }
+    
 
     private void OnEnable()
     {

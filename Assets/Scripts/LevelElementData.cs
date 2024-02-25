@@ -19,6 +19,12 @@ public class LevelElementData : ScriptableObject
         ES3.Save("data",this);
     }
     
+    [Button]
+    public void Save()
+    {
+        ES3.Save("data",this);
+    }
+    
     /*public Element GetUndiscoveredElement()
     {
         foreach (var element in startElements)
