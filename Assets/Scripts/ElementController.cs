@@ -7,29 +7,19 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UIElements;
 using Image = UnityEngine.UI.Image;
+using Random = UnityEngine.Random;
 
-public class ElementController : MonoBehaviour ,IPointerDownHandler  , IPointerEnterHandler,IPointerExitHandler
+public class ElementController : MonoBehaviour ,IPointerDownHandler
 {
     public ElementState state;
     public TextMeshProUGUI elementName;
     public Image elementImage;
     public Element elementData;
+    public Image image;
 
-
-    private void OnEnable()
+    public void ErrorFeedback()
     {
-        EventManager.MouseUp += MouseUp;
-    }
-
-    private void OnDisable()
-    {
-        EventManager.MouseUp -= MouseUp;
-    }
-
-    private void MouseUp()
-    {
-        //DOTween.Complete("Bounce");
-        //transform.DOScale(1, .3f).SetEase(Ease.OutBounce);
+        image.DOColor(Color.red, .1f).SetEase(Ease.OutBounce).SetLoops(2, LoopType.Yoyo);
     }
 
     public void SetElement(Element data)
@@ -61,10 +51,32 @@ public class ElementController : MonoBehaviour ,IPointerDownHandler  , IPointerE
         return null;
     }
 
+    Vector3 direction;
+    float timer;
+    private void Update()
+    {
+        if (state==ElementState.WaitingForCraft)
+        {
+            timer += Time.deltaTime;
+            if (timer>2f)
+            {
+                direction = new Vector3(Random.Range(-1f, 1f), Random.Range(-1f, 1f),0);
+                timer = 0;
+            }
+
+            transform.position += direction * (Time.deltaTime * 10);
+        }
+    }
+
+    private void Start()
+    {
+        direction = new Vector3(Random.Range(-1f, 1f), Random.Range(-1f, 1f),0);
+    }
+
     public void BounceUp()
     {
         DOTween.Kill("Bounce");
-        transform.DOScale(1.2f, .3f).SetEase(Ease.OutBounce).SetId("Bounce");
+        transform.DOScale(1.1f, .3f).SetEase(Ease.OutBounce).SetId("Bounce");
     }
     public void BounceDown()
     {
@@ -72,24 +84,7 @@ public class ElementController : MonoBehaviour ,IPointerDownHandler  , IPointerE
         DOTween.Kill("Bounce");
         transform.DOScale(1f, .3f).SetEase(Ease.OutBounce).SetId("Bounce");
     }
-
-   
-
-    public void OnPointerEnter(PointerEventData eventData)
-    {
-        if (state == ElementState.WaitingForCraft)
-        {
-           // BounceUp();
-        }
-    }
-
-    public void OnPointerExit(PointerEventData eventData)
-    {
-        if (state == ElementState.WaitingForCraft)
-        {
-            //BounceDown();
-        }
-    }
+    
   
     public void OnPointerDown(PointerEventData eventData)
     {

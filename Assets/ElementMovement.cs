@@ -101,6 +101,7 @@ public class ElementMovement : MonoBehaviour
                         }
                         else
                         {
+                            currentElement.GetComponent<ElementController>().ErrorFeedback();
                             currentElement.GetComponent<ElementController>().state = ElementState.WaitingForCraft;
                             currentElement = null;
                         }

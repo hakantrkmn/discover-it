@@ -367,6 +367,7 @@ MonoBehaviour:
   elementName: {fileID: 7185998992877374167}
   elementImage: {fileID: 3781705956828122557}
   elementData: {fileID: 0}
+  image: {fileID: 7185998993195242304}
 --- !u!114 &7967026239957647977
 MonoBehaviour:
   m_ObjectHideFlags: 0

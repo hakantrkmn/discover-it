@@ -9,7 +9,7 @@ public class LevelElementData : ScriptableObject
 {
     public List<Element> startElements;
     public List<Element> craftedElements;
-    //public List<Element> allElements;
+    public List<Element> allElements;
 
 
     [Button]
@@ -25,7 +25,7 @@ public class LevelElementData : ScriptableObject
         ES3.Save("data",this);
     }
     
-    /*public Element GetUndiscoveredElement()
+    public Element GetUndiscoveredElement()
     {
         foreach (var element in startElements)
         {
@@ -38,7 +38,7 @@ public class LevelElementData : ScriptableObject
         }
 
         return allElements[Random.Range(0, allElements.Count)];
-    }*/
+    }
     
     public int GetCraftedElementAmount()
     {
