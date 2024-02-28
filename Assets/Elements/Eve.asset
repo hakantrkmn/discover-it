@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Eve
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 2924ed6abb6a640ecbf7a377952bdbe5, type: 2}
+    outcome: {fileID: 11400000, guid: 37ddd2a58ea6b46a0874cb53b59f8913, type: 2}

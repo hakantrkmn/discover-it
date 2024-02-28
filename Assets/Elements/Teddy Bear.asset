@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d303b4142408849f3a04115d0cf3ba7b, type: 3}
+  m_Name: Teddy Bear
+  m_EditorClassIdentifier: 
+  name: Teddy Bear
+  image: {fileID: 0}
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: d9602a4d6c56943ff92c71ca06ceabe3, type: 2}
+    outcome: {fileID: 11400000, guid: c3ebcdd567da94e75aeb929e5cdd3e78, type: 2}

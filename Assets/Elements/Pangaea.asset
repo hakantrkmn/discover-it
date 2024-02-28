@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Pangaea
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 5fdfffd3342484a07b821c3e64c556d2, type: 2}
+    outcome: {fileID: 11400000, guid: f1a621456f2514a0aaede38ba1792fe9, type: 2}

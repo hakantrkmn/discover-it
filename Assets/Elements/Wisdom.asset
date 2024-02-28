@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Wisdom
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 5c96f3e75ffbd40199d4961e939b9d2e, type: 2}
+    outcome: {fileID: 11400000, guid: 246bb165dcfe44d7fbb0b6c4c59e8aea, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 52e3582cc74ec412a92b9ed3ba045bfc, type: 2}
+    outcome: {fileID: 11400000, guid: 2762e3b92855c4d5ea209453dc132dbd, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6c7ed59575e1a4866a027ce276fa49ee, type: 2}
+    outcome: {fileID: 11400000, guid: e99443f9ffc88434886feddd5c55a797, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3eae8c6f780c341b594b6772fddcd870, type: 2}
+    outcome: {fileID: 11400000, guid: dadcf973ea50e47f6acf2aa65a77d0f9, type: 2}

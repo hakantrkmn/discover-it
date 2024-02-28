@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d303b4142408849f3a04115d0cf3ba7b, type: 3}
+  m_Name: Wheat
+  m_EditorClassIdentifier: 
+  name: Wheat
+  image: {fileID: 0}
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9d2ffa1a9223c45849d7c0a89502e8d5, type: 2}
+    outcome: {fileID: 11400000, guid: 946ba173899fd47e3b3a36409eec6e5c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 1e3aaf1bef62a45f5b7eb2422e2f46e5, type: 2}
+    outcome: {fileID: 11400000, guid: f4353936d089548da88e3058a52a701b, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Republic
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: f6708d00c05fe478ba8ae13253ca45bd, type: 2}
+    outcome: {fileID: 11400000, guid: 0de3b71316e9f4173a78f288b7020272, type: 2}

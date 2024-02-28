@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Pine
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: ac7e87a00e3d041ed9f207cf33a48d67, type: 2}
+    outcome: {fileID: 11400000, guid: cf603d6968c714fcb92dbcaf816e069e, type: 2}

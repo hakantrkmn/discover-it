@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Napoleon
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 43dcb89d330a445c3be7cdfa56e5970d, type: 2}
+    outcome: {fileID: 11400000, guid: 9573eff405c24401da9844c771d0ba32, type: 2}

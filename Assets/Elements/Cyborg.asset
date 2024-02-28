@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Cyborg
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3cb31550eb49e4ed78b3176427916431, type: 2}
+    outcome: {fileID: 11400000, guid: 16177c6529fce4e14a89ea85f5ad2fb3, type: 2}

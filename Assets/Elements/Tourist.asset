@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Tourist
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 2762e3b92855c4d5ea209453dc132dbd, type: 2}
+    outcome: {fileID: 11400000, guid: a3a9416409384417db0c85ee243b4b2c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 258262456d1c3436ca56edad3b49b091, type: 2}
+    outcome: {fileID: 11400000, guid: 138df96f562ea40d681a5e5e02706305, type: 2}

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d303b4142408849f3a04115d0cf3ba7b, type: 3}
+  m_Name: Country
+  m_EditorClassIdentifier: 
+  name: Country
+  image: {fileID: 0}
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 075a125b6c0a443d2945d97b358ee6cc, type: 2}
+    outcome: {fileID: 11400000, guid: f028573d3290d421d97a3aa88a7f288f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: ff6cf8d30ddee484db759f1d45e01462, type: 2}
+    outcome: {fileID: 11400000, guid: 2dfd3bf36d8e349e78a5118b11f2dd5b, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 94fede71ab70c4b2cb9dd22742ca51b7, type: 2}
+    outcome: {fileID: 11400000, guid: 67083f8103d0448e7adf3cdcf2e25551, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7e5153adac0e3411f940657b983a519d, type: 2}
+    outcome: {fileID: 11400000, guid: 8f04e656b36934cc2b9e253bb9a0b2cd, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 45750c10b69a3481f992ee7dc0de5af8, type: 2}
+    outcome: {fileID: 11400000, guid: 1677baf3b09184347bc919b596ebfbe2, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4c9cd91f6dc2148c69afca85c5d79bd9, type: 2}
+    outcome: {fileID: 11400000, guid: 6c585bfc71e224dff86ef6623797ae61, type: 2}
+  - mergeWith: {fileID: 11400000, guid: e14b838a72db24d84afd393b608951e9, type: 2}
+    outcome: {fileID: 11400000, guid: 58e6fe30641494d5299608ba412cae11, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 82186fb759608422baefddb340a84aa8, type: 2}
+    outcome: {fileID: 11400000, guid: 3601b49c4ce3b41e397bb76760e10d59, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 20f6038877c664d98862dcdce4f15230, type: 2}
+    outcome: {fileID: 11400000, guid: 6d078c14dc6f94537b91e76072dbc263, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 21b8f38fc82a84cc8a27bfd30704de4f, type: 2}
+    outcome: {fileID: 11400000, guid: 85be832ff34b345e3b3c25d9f2ccc626, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5debe86c92f7e45c1a5fb29bd9552547, type: 2}
+    outcome: {fileID: 11400000, guid: d7bf10506e5154624a96b86efbed9552, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4448d98a19923434ba82c23c23276dfd, type: 2}
+    outcome: {fileID: 11400000, guid: 957490bd3d28d474ba21a629dc051b44, type: 2}

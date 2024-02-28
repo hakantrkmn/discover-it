@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Pollen
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 54f21182dc36342918b813bcb454058a, type: 2}
+    outcome: {fileID: 11400000, guid: 9672abd24f62b4ffca2523fad8a4cab6, type: 2}

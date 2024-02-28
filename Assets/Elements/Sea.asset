@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Sea
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 075a125b6c0a443d2945d97b358ee6cc, type: 2}
+    outcome: {fileID: 11400000, guid: f6708d00c05fe478ba8ae13253ca45bd, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 80419bafdd7ea4967992ce8109f45dc7, type: 2}
+    outcome: {fileID: 11400000, guid: 1bfdfc631098a4024bcd7209293e57ec, type: 2}

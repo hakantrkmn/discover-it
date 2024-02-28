@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Clock
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: d91ce65aa1ab24477ac04fe2b63548e7, type: 2}
+    outcome: {fileID: 11400000, guid: bd3972636a53049078aec23bfa4d201b, type: 2}

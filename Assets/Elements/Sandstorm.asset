@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Sandstorm
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 34b8c6049f4534cec8502480c4311c7d, type: 2}
+    outcome: {fileID: 11400000, guid: 34b8c6049f4534cec8502480c4311c7d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 359237d5a96e145329dabba3dc33aee3, type: 2}
+    outcome: {fileID: 11400000}

@@ -17,3 +17,5 @@ MonoBehaviour:
   mergeTable:
   - mergeWith: {fileID: 11400000}
     outcome: {fileID: 11400000, guid: 0b2abf18aa2334ef4975807cc7959d89, type: 2}
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 0b2abf18aa2334ef4975807cc7959d89, type: 2}

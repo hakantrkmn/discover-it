@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Passion
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 2ed239033cff0413e9eb74c874c351dc, type: 2}
+    outcome: {fileID: 11400000, guid: dd8b4b03651104db2819df68f91fe17b, type: 2}

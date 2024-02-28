@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: DJ
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 37421e4ae5b314868b6e253954bac7ec, type: 2}
+    outcome: {fileID: 11400000, guid: 7237581b7d17148f4ac4e4a57739055e, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Pandora
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: af7ad4587e88f4a3394065ad31f1ca13, type: 2}
+    outcome: {fileID: 11400000, guid: a84dad20f49c04ec1a779627377a1c60, type: 2}

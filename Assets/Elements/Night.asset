@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Night
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: da49f090fbb6e46b3ad9ea289f59148a, type: 2}
+    outcome: {fileID: 11400000, guid: f1948ac2ca1c24b3292c1bcc635abb73, type: 2}

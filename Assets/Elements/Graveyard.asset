@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Graveyard
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 77ae3bdc12bb84357891fd509699983c, type: 2}
+    outcome: {fileID: 11400000, guid: 7f60ee812d0a344e28611a8a0d409886, type: 2}

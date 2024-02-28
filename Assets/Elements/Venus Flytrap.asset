@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Venus Flytrap
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: c9c615126bf9444d5a89549f9a6a7e6c, type: 2}
+    outcome: {fileID: 11400000, guid: 2e9cee8e88bbb414bb84bf16140d28aa, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 5de9e9c78bfc94666b21954fbe84a438, type: 2}
+    outcome: {fileID: 11400000, guid: 92d4875535f2f4e8bb58c2fdf375afc6, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 88eb5c4bef9cf4c08a0e7a8b470a0c11, type: 2}
+    outcome: {fileID: 11400000, guid: 906dbc7d0d2b44d87af76ef08fda2bd4, type: 2}

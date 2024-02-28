@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Wormhole
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: bf44c63b4c85e4462ba1d610f1ac2eb9, type: 2}
+    outcome: {fileID: 11400000, guid: 940e33192f8dd48b09e1172230664758, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 940e33192f8dd48b09e1172230664758, type: 2}
+    outcome: {fileID: 11400000, guid: 217a8d0500fb4450aa00749b7dbaaf1e, type: 2}

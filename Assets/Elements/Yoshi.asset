@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Yoshi
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 80bbace37134f4674a61404fbb3693f7, type: 2}
+    outcome: {fileID: 11400000, guid: b6108fff20cf34965ac7991659c5248a, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b6108fff20cf34965ac7991659c5248a, type: 2}
+    outcome: {fileID: 11400000, guid: 88fae426108b7451dae83d0578d95985, type: 2}

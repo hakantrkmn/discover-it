@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Pirate Ship
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9f048a9ca966945f89e89c6ecde4ea9d, type: 2}
+    outcome: {fileID: 11400000, guid: f4f0783787fac422181bb5b0efd72085, type: 2}

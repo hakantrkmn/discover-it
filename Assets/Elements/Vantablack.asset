@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Vantablack
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3ee685bfb74704b1d93312f5e2ae4b96, type: 2}
+    outcome: {fileID: 11400000, guid: c8235bfc61cc546e0b083417de41b516, type: 2}

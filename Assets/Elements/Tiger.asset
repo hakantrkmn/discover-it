@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Tiger
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: bcde325768a5b4e44b04d26bcf6c5159, type: 2}
+    outcome: {fileID: 11400000, guid: 957490bd3d28d474ba21a629dc051b44, type: 2}

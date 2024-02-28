@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d303b4142408849f3a04115d0cf3ba7b, type: 3}
+  m_Name: Wrapper
+  m_EditorClassIdentifier: 
+  name: Wrapper
+  image: {fileID: 0}
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3feece38c1bf64978a4ae813ea6e2bc2, type: 2}
+    outcome: {fileID: 11400000, guid: 2482b0780788042eba06d4770705cc45, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 88fae426108b7451dae83d0578d95985, type: 2}
+    outcome: {fileID: 11400000, guid: bf414b48e59b7473da13ef8b3f6ceceb, type: 2}

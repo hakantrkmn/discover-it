@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Electric Guitar
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: f6381dc35590d40609d73f33726178f5, type: 2}
+    outcome: {fileID: 11400000, guid: 983dfed0d94f74271b3a42fc8afedff7, type: 2}

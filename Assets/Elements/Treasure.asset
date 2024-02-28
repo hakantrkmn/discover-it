@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Treasure
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e5bdffe4a6a4242759d33d77f3660144, type: 2}
+    outcome: {fileID: 11400000, guid: f52b28d72fb584f328f1e86d8bf9c645, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 08a453a5ae03c48e7959108fd6341e71, type: 2}
+    outcome: {fileID: 11400000, guid: 7865ef1c26ded461ca44bf9168c09aa5, type: 2}

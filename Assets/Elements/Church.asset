@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Church
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: c46abb977fc7b4c67b46b9f6642973b6, type: 2}
+    outcome: {fileID: 11400000, guid: 05b2afd7cf9884d2492b015ffdc1f74a, type: 2}

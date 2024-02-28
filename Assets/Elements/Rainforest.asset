@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Rainforest
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: fb6655a1aa7354692ac22e5188a734e9, type: 2}
+    outcome: {fileID: 11400000}

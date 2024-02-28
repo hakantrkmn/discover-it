@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Village
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: c946b6ed2d1f34a7fb8a0564f7c386de, type: 2}
+    outcome: {fileID: 11400000, guid: 7500bb3b669cc4214bcc7c9aa7f371ad, type: 2}
+  - mergeWith: {fileID: 11400000, guid: f5988e47d8de949dc80fc2e3cb7b8726, type: 2}
+    outcome: {fileID: 11400000, guid: 16e11f9abaac546e9863c08f0c2e95d9, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Warlock
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 28f29f19554c245088debdc6d96d8e5d, type: 2}
+    outcome: {fileID: 11400000, guid: 983dfed0d94f74271b3a42fc8afedff7, type: 2}

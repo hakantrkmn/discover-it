@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d303b4142408849f3a04115d0cf3ba7b, type: 3}
+  m_Name: Music
+  m_EditorClassIdentifier: 
+  name: Music
+  image: {fileID: 0}
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 3b2493949fc35423f97570a0e2389dd4, type: 2}
+    outcome: {fileID: 11400000, guid: 6380dcc382f9c4620b6351e1c58639e8, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 195a67c26c545446b85a68e1d4c9dc63, type: 2}
+    outcome: {fileID: 11400000, guid: 7237581b7d17148f4ac4e4a57739055e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 42000379e392c4f0088d2d8a9d800aab, type: 2}
+    outcome: {fileID: 11400000, guid: cbecd001d744148479834a66ef3e9f64, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 06c3bb9dddcfb42b3ae121180db2b8c1, type: 2}
+    outcome: {fileID: 11400000, guid: 66dc9333fcc8f4a11b398a133357c1ba, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 82e80b40fa7014d929e1b74dfebfb7da, type: 2}
+    outcome: {fileID: 11400000, guid: 8b9fe4646ab764e2fbacd6c112942e0f, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 6220fefc35c1b443bb921dae71e8bb53, type: 2}
+    outcome: {fileID: 11400000, guid: 0b2abf18aa2334ef4975807cc7959d89, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c7b48dc6a232141c8ab195928eb24698, type: 2}
+    outcome: {fileID: 11400000, guid: b04f5e1b2147d4dd28e8f69a7db81e23, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 05b2afd7cf9884d2492b015ffdc1f74a, type: 2}
+    outcome: {fileID: 11400000, guid: 05b2afd7cf9884d2492b015ffdc1f74a, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4db1363cd19204ebeba559a752028dc2, type: 2}
+    outcome: {fileID: 11400000, guid: 7865ef1c26ded461ca44bf9168c09aa5, type: 2}

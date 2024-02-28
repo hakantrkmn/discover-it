@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Tragedy
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e72383cc30a604a89aa09db76fb14bc4, type: 2}
+    outcome: {fileID: 11400000, guid: e72383cc30a604a89aa09db76fb14bc4, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7a02919ff87bb4219b74fc34b112e54c, type: 2}
+    outcome: {fileID: 11400000, guid: d5d06606d6a954439b89bee2885f0aff, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 363444a9cd9c64efa9fedebe89ee244e, type: 2}
+    outcome: {fileID: 11400000, guid: 8d0a5018ee90a46988da884cc9241d8a, type: 2}

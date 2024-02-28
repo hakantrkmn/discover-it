@@ -14,4 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Computer
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 2843cd568eea545acb0c669f157ff843, type: 2}
+    outcome: {fileID: 11400000, guid: aab19c8d9a78c4f25931765d21059482, type: 2}
+  - mergeWith: {fileID: 11400000, guid: f1948ac2ca1c24b3292c1bcc635abb73, type: 2}
+    outcome: {fileID: 11400000, guid: c2e17e3068c6f4f4c964fd7f389231d6, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 89f57059b6740435bad62fb43e5570d7, type: 2}
+    outcome: {fileID: 11400000, guid: 24cf47cdb680a48f78c5bf4339dc7ce3, type: 2}
+  - mergeWith: {fileID: 11400000, guid: fb1c825671eb6450e948e7b08dfeaf0a, type: 2}
+    outcome: {fileID: 11400000, guid: d4a024398e68a4b80ba04aa31e263135, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9e3ded2c19f634ce684c225a1480991d, type: 2}
+    outcome: {fileID: 11400000}
+  - mergeWith: {fileID: 11400000, guid: ae3132b4a26a7438f95cd380faba541f, type: 2}
+    outcome: {fileID: 11400000, guid: fb99befc6ca224b839ff4b78160e841a, type: 2}

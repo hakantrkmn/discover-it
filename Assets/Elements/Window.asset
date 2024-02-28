@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Window
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 715f91e5b944d476cb2f9311ecb2e155, type: 2}
+    outcome: {fileID: 11400000, guid: 48ae43ab842cd410b8068a2d91e8dd48, type: 2}
+  - mergeWith: {fileID: 11400000, guid: b3b7bdab13e254fb398f49e76f4b42c8, type: 2}
+    outcome: {fileID: 11400000, guid: d3ac5f479c22a4622a39b3fc89def84c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c9297eb86769741eea6db57173dddeb7, type: 2}
+    outcome: {fileID: 11400000, guid: 73ba9db8fb3c34e1d8364e2335923ad0, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 9b72ce9d87cd641e8adc37e7383755e5, type: 2}
+    outcome: {fileID: 11400000, guid: 709dd50dfca7544d7bc9e6d0abaa17cf, type: 2}

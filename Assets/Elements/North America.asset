@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: North America
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 4ec168b3f7b9549afb6a6db60379c16f, type: 2}
+    outcome: {fileID: 11400000, guid: c60c198c9283b4278932ca0209513469, type: 2}

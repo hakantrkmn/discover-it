@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Tutankhamun
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 72cf95a0a17dc4ab7aa9dcb360037447, type: 2}
+    outcome: {fileID: 11400000, guid: 815b59e7b55894ac98e5fe585781dae5, type: 2}

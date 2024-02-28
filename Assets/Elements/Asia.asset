@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Asia
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 7237581b7d17148f4ac4e4a57739055e, type: 2}
+    outcome: {fileID: 11400000, guid: 2c28963a649f4438692c896ba6062325, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 1b957b18f18a840cea106711786c52ba, type: 2}
+    outcome: {fileID: 11400000, guid: 025e301aad81046b184b3419e91a6425, type: 2}

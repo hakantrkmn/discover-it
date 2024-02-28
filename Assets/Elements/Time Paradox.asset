@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Time Paradox
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: e49afe04b945a4de7b8b8e1206045954, type: 2}
+    outcome: {fileID: 11400000, guid: f386122381e0643a9aaa6f998236b14e, type: 2}

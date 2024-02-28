@@ -17,3 +17,15 @@ MonoBehaviour:
   mergeTable:
   - mergeWith: {fileID: 11400000}
     outcome: {fileID: 11400000, guid: 1af2c349dc02b4dcf88d2a9f1621502d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 16e11f9abaac546e9863c08f0c2e95d9, type: 2}
+    outcome: {fileID: 11400000, guid: 64a29f8abc9424b5eb6c3eb6e811c6f6, type: 2}
+  - mergeWith: {fileID: 11400000, guid: efa6fb3b1e50e410d8b8c99ff5e785a2, type: 2}
+    outcome: {fileID: 11400000, guid: 126845c78c40c4eccb9306db0c7c1b2a, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3bf0a57e2a6b74228b67b6bce69ec777, type: 2}
+    outcome: {fileID: 11400000, guid: 05ad185768db6448fa840b9790522d9e, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 4f4b8d56738134eae8265b778218985e, type: 2}
+    outcome: {fileID: 11400000, guid: e825c7cdd7f4c45079a1ceaa71cdd138, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 05446c6a5bb174c6695f33198e7bce79, type: 2}
+    outcome: {fileID: 11400000, guid: b6549bca5afd845639b2861bba3abf8c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: a9ec8c7bf11a94cd48350bc0ca4dd8bb, type: 2}
+    outcome: {fileID: 11400000, guid: be011177879354f6db99466fc4f109ce, type: 2}

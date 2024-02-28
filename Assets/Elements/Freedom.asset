@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Freedom
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 07d99cb547b284b339513947112b879a, type: 2}
+    outcome: {fileID: 11400000, guid: 28c00397a0f2d4514a88919535fb280b, type: 2}

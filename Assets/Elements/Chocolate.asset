@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Chocolate
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 183413a26b37c4683ae372bbf500fb47, type: 2}
+    outcome: {fileID: 11400000, guid: f9bd2c279310047bbbdb0fe19988e48c, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 941ab006de90546fdb8ab311f50495a8, type: 2}
+    outcome: {fileID: 11400000, guid: 114b3e2270bdc4bcaa34229cd7fa2be6, type: 2}

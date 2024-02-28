@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Goth
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: f8de0e3ca9e14427e920b2c06a3d4ea5, type: 2}
+    outcome: {fileID: 11400000, guid: 249fa2c134239422a86a581899412b5c, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Spell
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 10077adfabf5a4aa084aeef8030f7831, type: 2}
+    outcome: {fileID: 11400000, guid: 10077adfabf5a4aa084aeef8030f7831, type: 2}

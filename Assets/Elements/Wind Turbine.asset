@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Wind Turbine
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: d6a7c684a1fbe4dd39ca59ccfa590b5f, type: 2}
+    outcome: {fileID: 11400000, guid: 9b72ce9d87cd641e8adc37e7383755e5, type: 2}

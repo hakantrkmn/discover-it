@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Egg
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 9c4f5c6e3988042e482640ae48c30144, type: 2}
+    outcome: {fileID: 11400000, guid: acecba6546d9b477ba9fa1e9e86d20d4, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 3182ce3ec12cf475599c6c7350765c45, type: 2}
+    outcome: {fileID: 11400000, guid: 26fdf67c673984c519b3e73731944093, type: 2}
+  - mergeWith: {fileID: 11400000, guid: c01909a5783264f7f8cc2cc3f0696294, type: 2}
+    outcome: {fileID: 11400000, guid: 3bb7b6163b9e447b182402735be8586d, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 29f0b502c16c84b7081437d7c29ede2b, type: 2}
+    outcome: {fileID: 11400000, guid: da49f090fbb6e46b3ad9ea289f59148a, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 7224767950e2f4de5a2f87a8378b3f4f, type: 2}
+    outcome: {fileID: 11400000, guid: 23d13db308a3046caa1f19119347408d, type: 2}

@@ -10,8 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d303b4142408849f3a04115d0cf3ba7b, type: 3}
-  m_Name: J-Pop
+  m_Name: J-pop
   m_EditorClassIdentifier: 
-  name: J-Pop
+  name: J-pop
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: 966fecb002b5548158724580f5788b49, type: 2}
+    outcome: {fileID: 11400000, guid: b59bb9e303371478c9b361361207677d, type: 2}

@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Cough
   image: {fileID: 0}
-  mergeTable: []
+  mergeTable:
+  - mergeWith: {fileID: 11400000, guid: dadcf973ea50e47f6acf2aa65a77d0f9, type: 2}
+    outcome: {fileID: 11400000, guid: 819c7a169d15448de96feb67d42d3402, type: 2}

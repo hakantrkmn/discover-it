@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d303b4142408849f3a04115d0cf3ba7b, type: 3}
+  m_Name: Polar Bear
+  m_EditorClassIdentifier: 
+  name: Polar Bear
+  image: {fileID: 0}
+  mergeTable:
+  - mergeWith: {fileID: 11400000}
+    outcome: {fileID: 11400000, guid: 8eb10add885934ba9810eda32aaca576, type: 2}
+  - mergeWith: {fileID: 11400000, guid: 2898e6d79269e4cebaebea2ce54dc589, type: 2}
+    outcome: {fileID: 11400000, guid: f52b28d72fb584f328f1e86d8bf9c645, type: 2}
