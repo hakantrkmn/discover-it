@@ -17,6 +17,8 @@ public class ElementController : MonoBehaviour ,IPointerDownHandler
     public Element elementData;
     public Image image;
 
+    Vector3 direction;
+    float timer;
     public void ErrorFeedback()
     {
         image.DOColor(Color.red, .1f).SetEase(Ease.OutBounce).SetLoops(2, LoopType.Yoyo);
@@ -51,8 +53,6 @@ public class ElementController : MonoBehaviour ,IPointerDownHandler
         return null;
     }
 
-    Vector3 direction;
-    float timer;
     private void Update()
     {
         if (state==ElementState.WaitingForCraft)

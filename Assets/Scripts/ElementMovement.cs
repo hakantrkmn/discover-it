@@ -12,7 +12,7 @@ public class ElementMovement : MonoBehaviour
     public GameObject elementPrefab;
     public Transform currentElement;
     public Transform craftPanel;
-
+    private bool canMove;
     private void OnEnable()
     {
         EventManager.GetCurrentElement += () => currentElement;
@@ -37,12 +37,14 @@ public class ElementMovement : MonoBehaviour
             currentElement = element.transform;
             element.BounceUp();
             element.GetComponent<Image>().raycastTarget = false;
+            canMove = true;
         }
         else if (obj.state == ElementState.WaitingForCraft)
         {
             obj.state = ElementState.Dragging;
             currentElement = obj.transform;
             obj.BounceUp();
+            canMove = true;
         }
     }
 
@@ -55,7 +57,7 @@ public class ElementMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (currentElement != null)
+        if (canMove)
         {
             if (Input.GetMouseButton(0))
             {
@@ -77,8 +79,6 @@ public class ElementMovement : MonoBehaviour
                 {
                     if (results.Any(x => x.gameObject.GetComponent<ElementPanel>()))
                     {
-                        var elementPanel = results.First(x => x.gameObject.GetComponent<ElementPanel>()).gameObject
-                            .GetComponent<ElementPanel>();
                         Destroy(currentElement.gameObject);
                         currentElement = null;
                     }
@@ -109,20 +109,16 @@ public class ElementMovement : MonoBehaviour
                 }
                 else if (results.Any(x => x.gameObject.GetComponent<CraftPanel>()))
                 {
-                    var craftPanel = results.First(x => x.gameObject.GetComponent<CraftPanel>()).gameObject
-                        .GetComponent<CraftPanel>();
-
                     currentElement.GetComponent<ElementController>().state = ElementState.WaitingForCraft;
                     currentElement = null;
                 }
                 else if (results.Any(x => x.gameObject.GetComponent<ElementPanel>()))
                 {
-                    var elementPanel = results.First(x => x.gameObject.GetComponent<ElementPanel>()).gameObject
-                        .GetComponent<ElementPanel>();
                     Destroy(currentElement.gameObject);
                     currentElement = null;
                 }
                 EventManager.MouseUp();
+                canMove = false;
 
             }
         }
